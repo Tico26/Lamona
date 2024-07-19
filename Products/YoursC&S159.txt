@@ -1,0 +1,627 @@
+{'html': <div class="associated-product associated-product--default js-quickbuy-trigger" data-pid="108303" data-plp="true">
+<div class="associated-product__tile rounded-0">
+<div class="associated-product__quickbuy" data-quickbuy-url="/product/api/getproductstocksforquickbuy?productid=108303&amp;productcode=144997">
+<div class="associated-product-quickbuy-content js-quickbuy-content" data-pid="108303">
+</div>
+</div>
+<div class="quickview-bar quickview-bar-mobile justify-content-end d-flex d-lg-none">
+<div alt="Quick Buy" class="quickview-bar__element p-0 d-flex" data-size="quickview">
+<div class="quickview-bar__wrapper quickview-bar__wrapper--quickbuy p-0">
+<a class="js-open-off-canvas-panel" data-custom-event-data='{"type":"pageview","url":"/product/api/getquickviewproductplp?url=/jersey-crop-cargo-harem-grey-p","title":"YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"}' data-custom-events="rc-open-quickview" data-ocp-auto-height="false" data-ocp-custom-events="rc-close-quickview" data-ocp-extra-classes="off-canvas-panel--quickview" data-original-title="Quick buy" href="/product/api/getquickviewproductplp?url=/jersey-crop-cargo-harem-grey-p" rel="nofollow" title="Quick buy">
+<svg class="d-flex d-lg-none" fill="none" height="21" viewbox="0 0 24 21" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M20.1885 12.0751L20.843 4.69014C20.843 4.51514 20.8045 4.37514 20.689 4.23514C20.5735 4.13014 20.381 4.06014 20.227 4.06014H16.2615C16.069 3.64014 15.7995 3.29014 15.4915 3.01014C14.683 2.27514 13.4895 1.89014 11.9495 1.89014C11.9495 1.89014 11.9495 1.89014 11.911 1.89014C9.94749 1.89014 8.52299 2.83514 7.75299 4.06014H3.71049C3.51799 4.06014 3.36399 4.13014 3.24849 4.23514C3.13299 4.34014 3.05599 4.51514 3.09449 4.69014L4.17249 16.4851C4.21099 16.8001 4.48049 17.0101 4.82699 17.0101H13.7205C14.452 18.2351 15.8765 19.1101 17.532 19.1101C19.919 19.1101 21.8825 17.3601 21.8825 15.1551C21.844 13.9301 21.1895 12.8101 20.1885 12.0751ZM11.911 3.04514C11.9495 3.04514 11.9495 3.04514 11.911 3.04514C13.1045 3.04514 13.99 3.29014 14.5675 3.81514C14.6445 3.88514 14.683 3.95514 14.76 4.02514H9.33149C9.90899 3.46514 10.7945 3.04514 11.911 3.04514ZM5.36599 15.8551L4.40349 5.21514H7.25249C7.17549 5.53014 7.13699 5.84514 7.13699 6.16014C7.13699 6.47514 7.44499 6.75514 7.79149 6.75514C8.13799 6.75514 8.44599 6.47514 8.44599 6.16014C8.44599 5.84514 8.48449 5.53014 8.59999 5.21514H15.3375C15.4145 5.53014 15.453 5.88014 15.453 6.26514C15.453 6.58014 15.761 6.86014 16.1075 6.86014C16.454 6.86014 16.762 6.58014 16.762 6.26514C16.762 5.88014 16.7235 5.53014 16.685 5.21514H19.534L18.995 11.4451C18.533 11.3051 18.071 11.2351 17.5705 11.2351C15.1835 11.2351 13.22 12.9851 13.22 15.1901C13.22 15.4351 13.2585 15.6451 13.297 15.8901H5.36599V15.8551ZM19.996 15.6101H18.0325V17.3951H17.07V15.6101H15.1065V14.7351H17.07V12.9501H18.0325V14.7351H19.996V15.6101Z" fill="white"></path>
+</svg>
+</a>
+</div>
+</div>
+</div>
+<a href="/jersey-crop-cargo-harem-grey-p">
+<div class="component-carousel position-relative m-0">
+<div class="swiper swiper-container" data-config="ajax" data-url="/product/api/getimages?productid=108303&amp;prioritymodelid=0">
+<div class="swiper-wrapper">
+<div class="swiper-slide" data-name="LazyImage">
+<div class="" style="--aspect-ratio: 533/800; max-width:533px ">
+<img alt="Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers" class="lazyload img-fade img-fluid img-center rounded js-product-image rounded-0" data-src="https://cdn.yoursclothing.com/Images/ProductImages/Big/f65e760b-85d8-41_144997_A.jpg" height="800" intrinsicsize="533x800" width="533"/>
+</div>
+</div>
+</div>
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
+</div>
+</div>
+</a>
+<div class="associated-product__wishlist-status wishlist-status js-wishlist-icon">
+<div class="" style="--aspect-ratio: 16/16; max-width:16px ">
+<img alt="Add to Wishlist" class="lazyload img-fade img-fluid img-center" data-src="/content/img/icons/UI/wishlist-inactive-YC.svg" height="16" intrinsicsize="16x16" width="16"/>
+</div>
+<div class="" style="--aspect-ratio: 16/16; max-width:16px ">
+<img alt="Added to Wishlist" class="lazyload img-fade img-fluid img-center" data-src="/content/img/icons/UI/wishlist-active-YC.svg" height="16" intrinsicsize="16x16" width="16"/>
+</div>
+</div>
+</div>
+<div class="d-flex flex-column flex-1">
+<a class="associated-product__meta flex flex-column pt-3 px-3" href="/jersey-crop-cargo-harem-grey-p" title="YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers 144997">
+<div class="pricing-block-container text-center my-auto d-flex flex-row justify-content-center">
+<div class="pricing-block pricing-block--now">
+<span class="pricing-block__price">
+                    £19.99
+                    
+                </span>
+</div>
+</div>
+<h2 class="abbreviated-heading associated-product__title text-center font-weight-bold" title="YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers">YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers</h2>
+<span class="associated-product__sizes text-center order-2">Sizes 14-36</span>
+</a>
+<div class="associated-swatches justify-content-end"><a class="associated-swatches__extra d-md-none js-open-off-canvas-panel" data-ocp-auto-height="true" href="/product/api/GetProductSwatches?productID=108303">more colours</a></div>
+<div class="associated-swatches image-swatch-container mt-2 d-none d-md-block">
+<div class="image-swatch-container">
+<a class="image-swatch d-inline-block js-swatch" data-image="https://cdn.yoursclothing.com/Images/ProductImages/Small/98bd54c2-5fbc-46_144995_A.jpg" data-ocp-auto-height="false" data-ocp-extra-classes="off-canvas-panel--quickview" href="/yours-curve-black-cropped-cargo-harem-trousers-p">
+<div class="" style="--aspect-ratio: 40/60; max-width:40px ">
+<img alt="Swatch" class="lazyload img-fade img-fluid img-center image-swatch__img" data-src="https://cdn.yoursclothing.com/Images/ProductImages/Small/0bde3079-b756-47_144995_X.jpg" height="60" intrinsicsize="40x60" width="40"/>
+</div>
+</a>
+<a class="image-swatch d-inline-block js-swatch" data-image="https://cdn.yoursclothing.com/Images/ProductImages/Small/b10271b3-527e-41_145028_A.jpg" data-ocp-auto-height="false" data-ocp-extra-classes="off-canvas-panel--quickview" href="/jersey-crop-cargo-harem-stone-p">
+<div class="" style="--aspect-ratio: 40/60; max-width:40px ">
+<img alt="Swatch" class="lazyload img-fade img-fluid img-center image-swatch__img" data-src="https://cdn.yoursclothing.com/Images/ProductImages/Small/4096233b-d7a4-43_145028_X.jpg" height="60" intrinsicsize="40x60" width="40"/>
+</div>
+</a>
+<a class="image-swatch d-inline-block js-swatch" data-image="https://cdn.yoursclothing.com/Images/ProductImages/Small/f14269ae-bba3-49_144996_A.jpg" data-ocp-auto-height="false" data-ocp-extra-classes="off-canvas-panel--quickview" href="/yours-curve-khaki-green-cropped-cargo-harem-trousers-p">
+<div class="" style="--aspect-ratio: 40/60; max-width:40px ">
+<img alt="Swatch" class="lazyload img-fade img-fluid img-center image-swatch__img" data-src="https://cdn.yoursclothing.com/Images/ProductImages/Small/667cf926-955e-41_144996_X.jpg" height="60" intrinsicsize="40x60" width="40"/>
+</div>
+</a>
+</div>
+</div>
+</div>
+<script type="application/ld+json">
+        [
+            {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "sku": "144997",
+  "productID": "108303",
+  "url": "/jersey-crop-cargo-harem-grey-p",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/f65e760b-85d8-41_144997_A.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/12a44b10-d92a-4f_144997_B.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/12a44b10-d92a-4f_144997_B.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/2a4e2ae6-4a54-4f_144997_C.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/2a4e2ae6-4a54-4f_144997_C.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/0c6d8d4d-efde-42_144997_D.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/0c6d8d4d-efde-42_144997_D.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/9e7a6ddd-c553-4f_144997_E.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/9e7a6ddd-c553-4f_144997_E.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/db26c559-8062-47_144997_X.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.yoursclothing.com/Images/ProductImages/Big/db26c559-8062-47_144997_X.jpg",
+      "name": "Plus Size  YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers"
+    }
+  ],
+  "name": "YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers",
+  "alternateName": "YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers",
+  "category": "Crops & Shorts ",
+  "description": "",
+  "offers": [
+    {
+      "@type": "Offer",
+      "price": "19.99",
+      "priceCurrency": "GBP",
+      "availability": "https://schema.org/InStock",
+      "gtin13": "5063111216352",
+      "hasMeasurement": "34-36",
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "",
+      "url": "/jersey-crop-cargo-harem-grey-p",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "GB",
+        "merchantReturnLink": "/returns-policy",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "inStoreReturnsOffered": "true",
+        "returnMethod": "ReturnByMail",
+        "merchantReturnDays": "21",
+        "returnShippingFeesAmount": {
+          "@type": "MonetaryAmount",
+          "minValue": "1.99",
+          "maxValue": "5",
+          "currency": "GBP",
+          "value": "1"
+        }
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "0",
+            "maxValue": "3",
+            "unitCode": "d"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "3",
+            "maxValue": "7",
+            "unitCode": "d"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "minValue": "0",
+          "maxValue": "0",
+          "currency": "GBP"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        },
+        "shippingOrigin": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "price": "19.99",
+      "priceCurrency": "GBP",
+      "availability": "https://schema.org/InStock",
+      "gtin13": "5063111216338",
+      "hasMeasurement": "26-28",
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "",
+      "url": "/jersey-crop-cargo-harem-grey-p",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "GB",
+        "merchantReturnLink": "/returns-policy",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "inStoreReturnsOffered": "true",
+        "returnMethod": "ReturnByMail",
+        "merchantReturnDays": "21",
+        "returnShippingFeesAmount": {
+          "@type": "MonetaryAmount",
+          "minValue": "1.99",
+          "maxValue": "5",
+          "currency": "GBP",
+          "value": "1"
+        }
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "0",
+            "maxValue": "3",
+            "unitCode": "d"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "3",
+            "maxValue": "7",
+            "unitCode": "d"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "minValue": "0",
+          "maxValue": "0",
+          "currency": "GBP"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        },
+        "shippingOrigin": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "price": "19.99",
+      "priceCurrency": "GBP",
+      "availability": "https://schema.org/InStock",
+      "gtin13": "5063111216345",
+      "hasMeasurement": "30-32",
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "",
+      "url": "/jersey-crop-cargo-harem-grey-p",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "GB",
+        "merchantReturnLink": "/returns-policy",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "inStoreReturnsOffered": "true",
+        "returnMethod": "ReturnByMail",
+        "merchantReturnDays": "21",
+        "returnShippingFeesAmount": {
+          "@type": "MonetaryAmount",
+          "minValue": "1.99",
+          "maxValue": "5",
+          "currency": "GBP",
+          "value": "1"
+        }
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "0",
+            "maxValue": "3",
+            "unitCode": "d"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "3",
+            "maxValue": "7",
+            "unitCode": "d"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "minValue": "0",
+          "maxValue": "0",
+          "currency": "GBP"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        },
+        "shippingOrigin": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "price": "19.99",
+      "priceCurrency": "GBP",
+      "availability": "https://schema.org/InStock",
+      "gtin13": "5063111216314",
+      "hasMeasurement": "20",
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "",
+      "url": "/jersey-crop-cargo-harem-grey-p",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "GB",
+        "merchantReturnLink": "/returns-policy",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "inStoreReturnsOffered": "true",
+        "returnMethod": "ReturnByMail",
+        "merchantReturnDays": "21",
+        "returnShippingFeesAmount": {
+          "@type": "MonetaryAmount",
+          "minValue": "1.99",
+          "maxValue": "5",
+          "currency": "GBP",
+          "value": "1"
+        }
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "0",
+            "maxValue": "3",
+            "unitCode": "d"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "3",
+            "maxValue": "7",
+            "unitCode": "d"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "minValue": "0",
+          "maxValue": "0",
+          "currency": "GBP"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        },
+        "shippingOrigin": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "price": "19.99",
+      "priceCurrency": "GBP",
+      "availability": "https://schema.org/InStock",
+      "gtin13": "5063111216284",
+      "hasMeasurement": "14",
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "",
+      "url": "/jersey-crop-cargo-harem-grey-p",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "GB",
+        "merchantReturnLink": "/returns-policy",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "inStoreReturnsOffered": "true",
+        "returnMethod": "ReturnByMail",
+        "merchantReturnDays": "21",
+        "returnShippingFeesAmount": {
+          "@type": "MonetaryAmount",
+          "minValue": "1.99",
+          "maxValue": "5",
+          "currency": "GBP",
+          "value": "1"
+        }
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "0",
+            "maxValue": "3",
+            "unitCode": "d"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "3",
+            "maxValue": "7",
+            "unitCode": "d"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "minValue": "0",
+          "maxValue": "0",
+          "currency": "GBP"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        },
+        "shippingOrigin": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "price": "19.99",
+      "priceCurrency": "GBP",
+      "availability": "https://schema.org/InStock",
+      "gtin13": "5063111216291",
+      "hasMeasurement": "16",
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "",
+      "url": "/jersey-crop-cargo-harem-grey-p",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "GB",
+        "merchantReturnLink": "/returns-policy",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "inStoreReturnsOffered": "true",
+        "returnMethod": "ReturnByMail",
+        "merchantReturnDays": "21",
+        "returnShippingFeesAmount": {
+          "@type": "MonetaryAmount",
+          "minValue": "1.99",
+          "maxValue": "5",
+          "currency": "GBP",
+          "value": "1"
+        }
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "0",
+            "maxValue": "3",
+            "unitCode": "d"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "3",
+            "maxValue": "7",
+            "unitCode": "d"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "minValue": "0",
+          "maxValue": "0",
+          "currency": "GBP"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        },
+        "shippingOrigin": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "price": "19.99",
+      "priceCurrency": "GBP",
+      "availability": "https://schema.org/InStock",
+      "gtin13": "5063111216321",
+      "hasMeasurement": "22-24",
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "",
+      "url": "/jersey-crop-cargo-harem-grey-p",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "GB",
+        "merchantReturnLink": "/returns-policy",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "inStoreReturnsOffered": "true",
+        "returnMethod": "ReturnByMail",
+        "merchantReturnDays": "21",
+        "returnShippingFeesAmount": {
+          "@type": "MonetaryAmount",
+          "minValue": "1.99",
+          "maxValue": "5",
+          "currency": "GBP",
+          "value": "1"
+        }
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "0",
+            "maxValue": "3",
+            "unitCode": "d"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "3",
+            "maxValue": "7",
+            "unitCode": "d"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "minValue": "0",
+          "maxValue": "0",
+          "currency": "GBP"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        },
+        "shippingOrigin": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "price": "19.99",
+      "priceCurrency": "GBP",
+      "availability": "https://schema.org/InStock",
+      "gtin13": "5063111216307",
+      "hasMeasurement": "18",
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "",
+      "url": "/jersey-crop-cargo-harem-grey-p",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "GB",
+        "merchantReturnLink": "/returns-policy",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "inStoreReturnsOffered": "true",
+        "returnMethod": "ReturnByMail",
+        "merchantReturnDays": "21",
+        "returnShippingFeesAmount": {
+          "@type": "MonetaryAmount",
+          "minValue": "1.99",
+          "maxValue": "5",
+          "currency": "GBP",
+          "value": "1"
+        }
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "0",
+            "maxValue": "3",
+            "unitCode": "d"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": "3",
+            "maxValue": "7",
+            "unitCode": "d"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "minValue": "0",
+          "maxValue": "0",
+          "currency": "GBP"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        },
+        "shippingOrigin": {
+          "@type": "DefinedRegion",
+          "addressCountry": "GB"
+        }
+      }
+    }
+  ],
+  "color": "Grey ",
+  "brand": "Yours"
+}
+        ]
+    </script>
+</div>, 'name': <h2 class="abbreviated-heading associated-product__title text-center font-weight-bold" title="YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers">YOURS Curve Charcoal Grey Cropped Cargo Harem Trousers</h2>, 'price': <span class="pricing-block__price">
+                    £19.99
+                    
+                </span>, 'description': <span class="associated-product__sizes text-center order-2">Sizes 14-36</span>}
