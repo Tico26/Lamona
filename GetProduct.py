@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 
 
-url = "https://thecabinetshop.co.uk/collections/all-cabinets?page=8"
+url = "https://portopets.co.uk/collections/cats?page=9"
 
 # Send a GET request to the website
 response = requests.get(url)
@@ -14,15 +14,15 @@ if response.status_code == 200:
     soup = BeautifulSoup(html_content, 'html.parser')
     
     # Find all product containers
-    products = soup.find_all('li', class_='grid__item')
-    counter =112    
+    products = soup.find_all('div', class_='col-md-3 col-sm-6 col-xs-6 element mb30')
+    counter =160    
     # Extract product details
     for product in products:
-        
-        name = product.find('h3', class_="card__heading h5").text
+        counter+=1
+        name = product.find('h5', attrs={"class": None}).text
         
         try:
-            price = product.find('span', class_="price-item price-item--regular").text
+            price = product.find('span', class_="money").text
         except:
             continue
         #image = product.find('img', class_='imgprd')
@@ -31,8 +31,8 @@ if response.status_code == 200:
         #labeled_data.append(productJSON)
         print(name)
         print(price)
-        counter+=1
-        file = open("Products/rollerbladeSkates"+str(counter)+".txt","w")
+        
+        file = open("Products/portoTrial"+str(counter)+".txt","w")
         file.write(str(productJSON))
         file.close()
         labeled_data.append(productJSON)
