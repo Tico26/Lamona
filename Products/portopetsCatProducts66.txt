@@ -1,0 +1,127 @@
+{'html': <div class="col-md-3 col-sm-6 col-xs-6 element mb30">
+<div class="main_box quick-view-overlay">
+<div class="box_1">
+<div class="product-image">
+<a href="/collections/cats/products/kong-zoom-groom-purple"><img alt="Kong Zoom Groom Purple" src="//portopets.co.uk/cdn/shop/products/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5_800x.jpg?v=1531663913"/></a>
+</div>
+<div class="overlay hidden-sm hidden-xs">
+<a class="absolute-pos popup-text quick-view-btn btn_c cart_btn_1" data-effect="mfp-move-from-top" data-placement="top" data-toggle="tooltip" href="#qv--collections-cats-products-kong-zoom-groom-purple" title="Quick View">Quick View</a>
+<a class="overlay-second-link" href="/collections/cats/products/kong-zoom-groom-purple"></a>
+</div>
+</div>
+<div class="desc">
+<h5><a href="/collections/cats/products/kong-zoom-groom-purple">Kong - Zoom Groom Purple</a></h5>
+<p>Grooming</p>
+<div class="price"><span class="money"> £7.50 </span></div>
+</div>
+<div class="mfp-with-anim mfp-hide mfp-dialog mfp-dialog-big clearfix quick-view-panel" data-id="1367085154413" data-name="product_kong_zoom_groom_purple" id="qv--collections-cats-products-kong-zoom-groom-purple">
+<div class="data-qvp">{"id":1367085154413,"title":"Kong - Zoom Groom Purple","handle":"kong-zoom-groom-purple","description":"\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eThe KONG Zoom Groom for Cats does not yank or pull like other brushes and actually massages and grooms at the same time. The soft, rubber fingers are a magnet for loose hair so makes this a great grooming tool for cats with all types of fur. \u003c\/span\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eUsing the KONG Zoom Groom regularly can help condition your cat's skin and reduce the formation of hairballs. The gentle massaging from the brush can also calm stressed or anxious cats.\u003c\/span\u003e\u003c\/p\u003e","published_at":"2018-07-15T15:07:41+01:00","created_at":"2018-07-15T15:11:49+01:00","vendor":"Kong","type":"Grooming","tags":["Brand_Kong","Category_Grooming","Pet_Cats"],"price":750,"price_min":750,"price_max":750,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12444156231789,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Kong - Zoom Groom Purple","public_title":null,"options":["Default Title"],"price":750,"weight":100,"compare_at_price":null,"inventory_quantity":1,"inventory_management":"shopify","inventory_policy":"deny","barcode":"035585211176","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5.jpg?v=1531663913"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5.jpg?v=1531663913","options":["Title"],"media":[{"alt":"Kong Zoom Groom Purple","id":1062053576813,"position":1,"preview_image":{"aspect_ratio":1.0,"height":700,"width":700,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5.jpg?v=1531663913"},"aspect_ratio":1.0,"height":700,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5.jpg?v=1531663913","width":700}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eThe KONG Zoom Groom for Cats does not yank or pull like other brushes and actually massages and grooms at the same time. The soft, rubber fingers are a magnet for loose hair so makes this a great grooming tool for cats with all types of fur. \u003c\/span\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eUsing the KONG Zoom Groom regularly can help condition your cat's skin and reduce the formation of hairballs. The gentle massaging from the brush can also calm stressed or anxious cats.\u003c\/span\u003e\u003c\/p\u003e"}</div>
+<div class="row">
+<div class="col-md-7">
+<div class="slider_1 clearfix">
+<div class="slides"><img alt="Kong Zoom Groom Purple" src="//portopets.co.uk/cdn/shop/products/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5_1024x.jpg?v=1531663913"/></div>
+</div>
+</div>
+<div class="col-md-5">
+<h3>Kong - Zoom Groom Purple</h3>
+<p class="product-info-price mb20 mt10"><span class="money" id="productPrice">£7.50</span></p>
+<p class="text-smaller text-muted">The KONG Zoom Groom for Cats does not yank or pull like other brushes and actually massages and grooms at the same time. The soft, rubber fingers are a magnet for loose hair so makes this a great grooming tool for cats with all types of fur. 
+Using the KONG Zoom Groom regularly can help condition your cat's skin and reduce the formation of hairb...</p>
+<form action="/cart/add" class="form-add-to-cart form-horizontal" enctype="multipart/form-data" id="form--collections-cats-products-kong-zoom-groom-purple" method="post">
+<input id="product-select-1367085154413" name="id" type="hidden" value="12444156231789">
+<hr/>
+<input class="modal-button" id="addToCart" name="add" type="submit" value="Add to Cart"/>
+<a class="modal-button2" href="/collections/cats/products/kong-zoom-groom-purple">More Info</a>
+</input></form>
+</div>
+</div>
+</div>
+<script>
+  $(function() {
+    if(typeof app.selectCallback !== 'undefined'){ // make sure the app callback is available
+
+      // get ID string
+      var qvpID = 'qv--collections-cats-products-kong-zoom-groom-purple';
+
+      // find the element with the matching string in the DOM
+      var singleQuickViewPanel = $('#'+qvpID);
+
+      // double check that we are not loading a double up
+      if(singleQuickViewPanel.length === 1 && typeof singleQuickViewPanel.data('processed') === 'undefined'){
+
+        // set the panel as processed, so we don't do it again
+        singleQuickViewPanel.data('processed',true);
+
+        // push the date for this product to our global object
+        app.data.product_kong_zoom_groom_purple = {"id":1367085154413,"title":"Kong - Zoom Groom Purple","handle":"kong-zoom-groom-purple","description":"\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eThe KONG Zoom Groom for Cats does not yank or pull like other brushes and actually massages and grooms at the same time. The soft, rubber fingers are a magnet for loose hair so makes this a great grooming tool for cats with all types of fur. \u003c\/span\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eUsing the KONG Zoom Groom regularly can help condition your cat's skin and reduce the formation of hairballs. The gentle massaging from the brush can also calm stressed or anxious cats.\u003c\/span\u003e\u003c\/p\u003e","published_at":"2018-07-15T15:07:41+01:00","created_at":"2018-07-15T15:11:49+01:00","vendor":"Kong","type":"Grooming","tags":["Brand_Kong","Category_Grooming","Pet_Cats"],"price":750,"price_min":750,"price_max":750,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12444156231789,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Kong - Zoom Groom Purple","public_title":null,"options":["Default Title"],"price":750,"weight":100,"compare_at_price":null,"inventory_quantity":1,"inventory_management":"shopify","inventory_policy":"deny","barcode":"035585211176","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5.jpg?v=1531663913"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5.jpg?v=1531663913","options":["Title"],"media":[{"alt":"Kong Zoom Groom Purple","id":1062053576813,"position":1,"preview_image":{"aspect_ratio":1.0,"height":700,"width":700,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5.jpg?v=1531663913"},"aspect_ratio":1.0,"height":700,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Kong_Zoom_Groom_26c7e6e4-75c5-4837-885c-c0dc7d7731f5.jpg?v=1531663913","width":700}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eThe KONG Zoom Groom for Cats does not yank or pull like other brushes and actually massages and grooms at the same time. The soft, rubber fingers are a magnet for loose hair so makes this a great grooming tool for cats with all types of fur. \u003c\/span\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eUsing the KONG Zoom Groom regularly can help condition your cat's skin and reduce the formation of hairballs. The gentle massaging from the brush can also calm stressed or anxious cats.\u003c\/span\u003e\u003c\/p\u003e"};
+
+        $(".quick-view-selector-1367085154413").on("change", function(){
+          var $form = $(this).closest("form"),
+          productVariantObj = [{"id":12444156231789,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Kong - Zoom Groom Purple","public_title":null,"options":["Default Title"],"price":750,"weight":100,"compare_at_price":null,"inventory_quantity":1,"inventory_management":"shopify","inventory_policy":"deny","barcode":"035585211176","requires_selling_plan":false,"selling_plan_allocations":[]}];
+
+        var option1 = $form.find("#SingleOptionSelector-0").val() || null,
+            option2 = $form.find("#SingleOptionSelector-1").val() || null,
+            option3 = $form.find("#SingleOptionSelector-2").val() || null,
+            flag = true;
+        for (var i=0,length=productVariantObj.length; i<length; i++) {
+          var productVar = productVariantObj[i];
+          if(option1==productVar.option1 && option2==productVar.option2 && option3==productVar.option3){
+            flag = false;
+            $('#product-select-1367085154413' ).val(productVar.id);
+              app.selectCallback(productVar, 1367085154413);
+            break;
+          }
+        }
+        if(flag){
+          app.selectCallback(null, 1367085154413);
+                             }
+
+                             });
+
+          // BEGIN SWATCHES
+
+          var indexArray=[];
+          var productVariantOptions = [{"id":12444156231789,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Kong - Zoom Groom Purple","public_title":null,"options":["Default Title"],"price":750,"weight":100,"compare_at_price":null,"inventory_quantity":1,"inventory_management":"shopify","inventory_policy":"deny","barcode":"035585211176","requires_selling_plan":false,"selling_plan_allocations":[]}];
+          $("[data-id=1367085154413] .single-option-selector option:selected").each(function() {
+            indexArray.push($(this).index());
+        });
+        var form = jQuery('#product-select-1367085154413').closest('form');
+                          var variantIndex = jQuery('#product-select-1367085154413 option:selected').index(); 
+                          if(variantIndex>=0){      
+          var variant = productVariantOptions[variantIndex];                  
+          for (var i=0,length=variant.options.length; i<length; i++) {
+            var num = indexArray[i];
+            var radioButtonDiv = form.find('.swatch[data-option-index="' + i + '"] div.swatch-element')[num];
+            var radioButton = $(radioButtonDiv).find(":radio");
+            if (radioButton.size()) {
+              radioButton.get(0).checked = true;
+            }
+          }
+        }
+
+        // END SWATCHES
+
+
+        
+       	 singleQuickViewPanel.find('.selector-wrapper').addClass('hidden');
+        
+
+        // Auto-select first available variant on page load. Otherwise the product looks sold out.
+
+        
+        
+        
+        
+        
+        
+        singleQuickViewPanel.find('#qv--collections-cats-products-kong-zoom-groom-purple .quick-view-selector-1367085154413:eq(0)').val("Default Title").trigger('change');
+        
+        
+        
+        
+      }
+    }
+  });
+</script>
+</div>
+</div>, 'name': 'Kong - Zoom Groom Purple', 'price': ' £7.50 '}

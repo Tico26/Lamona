@@ -1,0 +1,126 @@
+{'html': <div class="col-md-3 col-sm-6 col-xs-6 element mb30">
+<div class="main_box quick-view-overlay">
+<div class="box_1">
+<div class="sold-out">Sold Out</div>
+<div class="product-image">
+<a href="/collections/cats/products/vanness-toilet-replacement-carbon-filter"><img alt="Vanness Toilet Replacement Carbon Filter" src="//portopets.co.uk/cdn/shop/products/Vanness_Filter2_800x.jpg?v=1531659499"/></a>
+</div>
+<div class="overlay hidden-sm hidden-xs">
+<a class="absolute-pos popup-text quick-view-btn btn_c cart_btn_1" data-effect="mfp-move-from-top" data-placement="top" data-toggle="tooltip" href="#qv--collections-cats-products-vanness-toilet-replacement-carbon-filter" title="Quick View">Quick View</a>
+<a class="overlay-second-link" href="/collections/cats/products/vanness-toilet-replacement-carbon-filter"></a>
+</div>
+</div>
+<div class="desc">
+<h5><a href="/collections/cats/products/vanness-toilet-replacement-carbon-filter">Vanness Toilet Replacement Carbon Filter</a></h5>
+<p>Litter</p>
+<div class="price"><span class="money"> £2.50 </span></div>
+</div>
+<div class="mfp-with-anim mfp-hide mfp-dialog mfp-dialog-big clearfix quick-view-panel" data-id="1367049240685" data-name="product_vanness_toilet_replacement_carbon_filter" id="qv--collections-cats-products-vanness-toilet-replacement-carbon-filter">
+<div class="data-qvp">{"id":1367049240685,"title":"Vanness Toilet Replacement Carbon Filter","handle":"vanness-toilet-replacement-carbon-filter","description":"\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFor use with enclosed cat pans.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFilter helps remove offensive odors that are associated with litter pans.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eZeolite is a natural mineral that absorbs ammonia odors.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFor best results, replace filter every 3 months.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eKeep your home smelling fresh with this easy to use filter.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e","published_at":"2018-07-15T13:56:44+01:00","created_at":"2018-07-15T13:58:15+01:00","vendor":"Portobello Pets","type":"Litter","tags":["Category_Litter","Pet_Cats"],"price":250,"price_min":250,"price_max":250,"available":false,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12443895365741,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Vanness Toilet Replacement Carbon Filter","public_title":null,"options":["Default Title"],"price":250,"weight":50,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"079441004663","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Vanness_Filter2.jpg?v=1531659499"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Vanness_Filter2.jpg?v=1531659499","options":["Title"],"media":[{"alt":"Vanness Toilet Replacement Carbon Filter","id":1061906579565,"position":1,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Vanness_Filter2.jpg?v=1531659499"},"aspect_ratio":1.0,"height":600,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Vanness_Filter2.jpg?v=1531659499","width":600}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFor use with enclosed cat pans.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFilter helps remove offensive odors that are associated with litter pans.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eZeolite is a natural mineral that absorbs ammonia odors.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFor best results, replace filter every 3 months.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eKeep your home smelling fresh with this easy to use filter.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e"}</div>
+<div class="row">
+<div class="col-md-7">
+<div class="slider_1 clearfix">
+<div class="slides"><img alt="Vanness Toilet Replacement Carbon Filter" src="//portopets.co.uk/cdn/shop/products/Vanness_Filter2_1024x.jpg?v=1531659499"/></div>
+</div>
+</div>
+<div class="col-md-5">
+<h3>Vanness Toilet Replacement Carbon Filter</h3>
+<p class="product-info-price mb20 mt10"><span class="money" id="productPrice">£2.50</span></p>
+<p class="text-smaller text-muted">
+For use with enclosed cat pans.
+Filter helps remove offensive odors that are associated with litter pans.
+Zeolite is a natural mineral that absorbs ammonia odors.
+For best results, replace filter every 3 months.
+Keep your home smelling fresh with this easy to use filter.
+</p>
+<form action="/cart/add" class="form-add-to-cart form-horizontal" enctype="multipart/form-data" id="form--collections-cats-products-vanness-toilet-replacement-carbon-filter" method="post">
+<input id="product-select-1367049240685" name="id" type="hidden" value="12443895365741">
+<hr/>
+<input class="modal-button disabled" disabled="" id="addToCart" name="add" type="submit" value="Sold Out"/>
+<a class="modal-button2" href="/collections/cats/products/vanness-toilet-replacement-carbon-filter">More Info</a>
+</input></form>
+</div>
+</div>
+</div>
+<script>
+  $(function() {
+    if(typeof app.selectCallback !== 'undefined'){ // make sure the app callback is available
+
+      // get ID string
+      var qvpID = 'qv--collections-cats-products-vanness-toilet-replacement-carbon-filter';
+
+      // find the element with the matching string in the DOM
+      var singleQuickViewPanel = $('#'+qvpID);
+
+      // double check that we are not loading a double up
+      if(singleQuickViewPanel.length === 1 && typeof singleQuickViewPanel.data('processed') === 'undefined'){
+
+        // set the panel as processed, so we don't do it again
+        singleQuickViewPanel.data('processed',true);
+
+        // push the date for this product to our global object
+        app.data.product_vanness_toilet_replacement_carbon_filter = {"id":1367049240685,"title":"Vanness Toilet Replacement Carbon Filter","handle":"vanness-toilet-replacement-carbon-filter","description":"\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFor use with enclosed cat pans.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFilter helps remove offensive odors that are associated with litter pans.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eZeolite is a natural mineral that absorbs ammonia odors.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFor best results, replace filter every 3 months.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eKeep your home smelling fresh with this easy to use filter.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e","published_at":"2018-07-15T13:56:44+01:00","created_at":"2018-07-15T13:58:15+01:00","vendor":"Portobello Pets","type":"Litter","tags":["Category_Litter","Pet_Cats"],"price":250,"price_min":250,"price_max":250,"available":false,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12443895365741,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Vanness Toilet Replacement Carbon Filter","public_title":null,"options":["Default Title"],"price":250,"weight":50,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"079441004663","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Vanness_Filter2.jpg?v=1531659499"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Vanness_Filter2.jpg?v=1531659499","options":["Title"],"media":[{"alt":"Vanness Toilet Replacement Carbon Filter","id":1061906579565,"position":1,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Vanness_Filter2.jpg?v=1531659499"},"aspect_ratio":1.0,"height":600,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Vanness_Filter2.jpg?v=1531659499","width":600}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFor use with enclosed cat pans.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFilter helps remove offensive odors that are associated with litter pans.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eZeolite is a natural mineral that absorbs ammonia odors.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eFor best results, replace filter every 3 months.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eKeep your home smelling fresh with this easy to use filter.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e"};
+
+        $(".quick-view-selector-1367049240685").on("change", function(){
+          var $form = $(this).closest("form"),
+          productVariantObj = [{"id":12443895365741,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Vanness Toilet Replacement Carbon Filter","public_title":null,"options":["Default Title"],"price":250,"weight":50,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"079441004663","requires_selling_plan":false,"selling_plan_allocations":[]}];
+
+        var option1 = $form.find("#SingleOptionSelector-0").val() || null,
+            option2 = $form.find("#SingleOptionSelector-1").val() || null,
+            option3 = $form.find("#SingleOptionSelector-2").val() || null,
+            flag = true;
+        for (var i=0,length=productVariantObj.length; i<length; i++) {
+          var productVar = productVariantObj[i];
+          if(option1==productVar.option1 && option2==productVar.option2 && option3==productVar.option3){
+            flag = false;
+            $('#product-select-1367049240685' ).val(productVar.id);
+              app.selectCallback(productVar, 1367049240685);
+            break;
+          }
+        }
+        if(flag){
+          app.selectCallback(null, 1367049240685);
+                             }
+
+                             });
+
+          // BEGIN SWATCHES
+
+          var indexArray=[];
+          var productVariantOptions = [{"id":12443895365741,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Vanness Toilet Replacement Carbon Filter","public_title":null,"options":["Default Title"],"price":250,"weight":50,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"079441004663","requires_selling_plan":false,"selling_plan_allocations":[]}];
+          $("[data-id=1367049240685] .single-option-selector option:selected").each(function() {
+            indexArray.push($(this).index());
+        });
+        var form = jQuery('#product-select-1367049240685').closest('form');
+                          var variantIndex = jQuery('#product-select-1367049240685 option:selected').index(); 
+                          if(variantIndex>=0){      
+          var variant = productVariantOptions[variantIndex];                  
+          for (var i=0,length=variant.options.length; i<length; i++) {
+            var num = indexArray[i];
+            var radioButtonDiv = form.find('.swatch[data-option-index="' + i + '"] div.swatch-element')[num];
+            var radioButton = $(radioButtonDiv).find(":radio");
+            if (radioButton.size()) {
+              radioButton.get(0).checked = true;
+            }
+          }
+        }
+
+        // END SWATCHES
+
+
+        
+       	 singleQuickViewPanel.find('.selector-wrapper').addClass('hidden');
+        
+
+        // Auto-select first available variant on page load. Otherwise the product looks sold out.
+
+        
+        
+        
+        
+      }
+    }
+  });
+</script>
+</div>
+</div>, 'name': 'Vanness Toilet Replacement Carbon Filter', 'price': ' £2.50 '}

@@ -1,0 +1,130 @@
+{'html': <div class="col-md-3 col-sm-6 col-xs-6 element mb30">
+<div class="main_box quick-view-overlay">
+<div class="box_1">
+<div class="product-image">
+<a href="/collections/cats/products/royal-canin-hair-skin"><img alt="Royal Canin Hair &amp; Skin" src="//portopets.co.uk/cdn/shop/products/Royal_Canin_Hair_Skin_800x.jpg?v=1531308925"/></a>
+</div>
+<div class="overlay hidden-sm hidden-xs">
+<a class="absolute-pos popup-text quick-view-btn btn_c cart_btn_1" data-effect="mfp-move-from-top" data-placement="top" data-toggle="tooltip" href="#qv--collections-cats-products-royal-canin-hair-skin" title="Quick View">Quick View</a>
+<a class="overlay-second-link" href="/collections/cats/products/royal-canin-hair-skin"></a>
+</div>
+</div>
+<div class="desc">
+<h5><a href="/collections/cats/products/royal-canin-hair-skin">Royal Canin Hair &amp; Skin</a></h5>
+<p>Dry Food</p>
+<div class="price"><span class="money"> £4.50 </span></div>
+</div>
+<div class="mfp-with-anim mfp-hide mfp-dialog mfp-dialog-big clearfix quick-view-panel" data-id="1363754221677" data-name="product_royal_canin_hair_skin" id="qv--collections-cats-products-royal-canin-hair-skin">
+<div class="data-qvp">{"id":1363754221677,"title":"Royal Canin Hair \u0026 Skin","handle":"royal-canin-hair-skin","description":"\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv class=\"product-tabs__content__cms\"\u003e\n\u003cdiv\u003e\n\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv class=\"product-tabs__content__cms\"\u003e\u003cspan style=\"color: #000000;\"\u003eRoyal Canin Hair \u0026amp; Skin Care Cat Food uses a proven specific formula to help maintain \u0026amp; support a shiny coat. A unique combination of nutrients containing a patented complex to help support the skin's barrier role is included so that there are health benefits included in making the cats fur seem healthier. Combined with Omega 6 and Omega 3 fatty acids known for their beneficial effects on skin. \u003c\/span\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eRoyal Canin Hair \u0026amp; Skin Care Cat Food\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eSkin \u0026amp; coat care and nutrition\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eA specific formula to help maintain a shiny coat\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eContaining a patented complex** to help support the skin's barrier role.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eOmega 6 and Omega 3 fatty for beneficial effects on skin.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cstrong\u003e\u003c\/strong\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv id=\"product__description\" class=\"product-tabs__content__cms\"\u003e\u003c\/div\u003e\n\u003c\/div\u003e","published_at":"2018-07-11T12:32:02+01:00","created_at":"2018-07-11T12:35:21+01:00","vendor":"Royal Canin","type":"Dry Food","tags":["Brand_Royal Canin","Category_Dry Food","Pet_Cats"],"price":450,"price_min":450,"price_max":450,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12407519740013,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Royal Canin Hair \u0026 Skin","public_title":null,"options":["Default Title"],"price":450,"weight":400,"compare_at_price":null,"inventory_quantity":21,"inventory_management":"shopify","inventory_policy":"deny","barcode":"3182550721721","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_Hair_Skin.jpg?v=1531308925"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_Hair_Skin.jpg?v=1531308925","options":["Title"],"media":[{"alt":"Royal Canin Hair \u0026 Skin","id":1051292794989,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_Hair_Skin.jpg?v=1531308925"},"aspect_ratio":1.0,"height":1000,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_Hair_Skin.jpg?v=1531308925","width":1000}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv class=\"product-tabs__content__cms\"\u003e\n\u003cdiv\u003e\n\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv class=\"product-tabs__content__cms\"\u003e\u003cspan style=\"color: #000000;\"\u003eRoyal Canin Hair \u0026amp; Skin Care Cat Food uses a proven specific formula to help maintain \u0026amp; support a shiny coat. A unique combination of nutrients containing a patented complex to help support the skin's barrier role is included so that there are health benefits included in making the cats fur seem healthier. Combined with Omega 6 and Omega 3 fatty acids known for their beneficial effects on skin. \u003c\/span\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eRoyal Canin Hair \u0026amp; Skin Care Cat Food\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eSkin \u0026amp; coat care and nutrition\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eA specific formula to help maintain a shiny coat\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eContaining a patented complex** to help support the skin's barrier role.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eOmega 6 and Omega 3 fatty for beneficial effects on skin.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cstrong\u003e\u003c\/strong\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv id=\"product__description\" class=\"product-tabs__content__cms\"\u003e\u003c\/div\u003e\n\u003c\/div\u003e"}</div>
+<div class="row">
+<div class="col-md-7">
+<div class="slider_1 clearfix">
+<div class="slides"><img alt="Royal Canin Hair &amp; Skin" src="//portopets.co.uk/cdn/shop/products/Royal_Canin_Hair_Skin_1024x.jpg?v=1531308925"/></div>
+</div>
+</div>
+<div class="col-md-5">
+<h3>Royal Canin Hair &amp; Skin</h3>
+<p class="product-info-price mb20 mt10"><span class="money" id="productPrice">£4.50</span></p>
+<p class="text-smaller text-muted">
+
+
+
+Royal Canin Hair &amp; Skin Care Cat Food uses a proven specific formula to help maintain &amp; support a shiny coat. A unique combination of nutrients containing a patented complex to help support the skin's barrier role is included so that there are health benefits included in making the cats fur seem healthier. Combined with Omega 6 and O...</p>
+<form action="/cart/add" class="form-add-to-cart form-horizontal" enctype="multipart/form-data" id="form--collections-cats-products-royal-canin-hair-skin" method="post">
+<input id="product-select-1363754221677" name="id" type="hidden" value="12407519740013">
+<hr/>
+<input class="modal-button" id="addToCart" name="add" type="submit" value="Add to Cart"/>
+<a class="modal-button2" href="/collections/cats/products/royal-canin-hair-skin">More Info</a>
+</input></form>
+</div>
+</div>
+</div>
+<script>
+  $(function() {
+    if(typeof app.selectCallback !== 'undefined'){ // make sure the app callback is available
+
+      // get ID string
+      var qvpID = 'qv--collections-cats-products-royal-canin-hair-skin';
+
+      // find the element with the matching string in the DOM
+      var singleQuickViewPanel = $('#'+qvpID);
+
+      // double check that we are not loading a double up
+      if(singleQuickViewPanel.length === 1 && typeof singleQuickViewPanel.data('processed') === 'undefined'){
+
+        // set the panel as processed, so we don't do it again
+        singleQuickViewPanel.data('processed',true);
+
+        // push the date for this product to our global object
+        app.data.product_royal_canin_hair_skin = {"id":1363754221677,"title":"Royal Canin Hair \u0026 Skin","handle":"royal-canin-hair-skin","description":"\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv class=\"product-tabs__content__cms\"\u003e\n\u003cdiv\u003e\n\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv class=\"product-tabs__content__cms\"\u003e\u003cspan style=\"color: #000000;\"\u003eRoyal Canin Hair \u0026amp; Skin Care Cat Food uses a proven specific formula to help maintain \u0026amp; support a shiny coat. A unique combination of nutrients containing a patented complex to help support the skin's barrier role is included so that there are health benefits included in making the cats fur seem healthier. Combined with Omega 6 and Omega 3 fatty acids known for their beneficial effects on skin. \u003c\/span\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eRoyal Canin Hair \u0026amp; Skin Care Cat Food\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eSkin \u0026amp; coat care and nutrition\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eA specific formula to help maintain a shiny coat\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eContaining a patented complex** to help support the skin's barrier role.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eOmega 6 and Omega 3 fatty for beneficial effects on skin.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cstrong\u003e\u003c\/strong\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv id=\"product__description\" class=\"product-tabs__content__cms\"\u003e\u003c\/div\u003e\n\u003c\/div\u003e","published_at":"2018-07-11T12:32:02+01:00","created_at":"2018-07-11T12:35:21+01:00","vendor":"Royal Canin","type":"Dry Food","tags":["Brand_Royal Canin","Category_Dry Food","Pet_Cats"],"price":450,"price_min":450,"price_max":450,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12407519740013,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Royal Canin Hair \u0026 Skin","public_title":null,"options":["Default Title"],"price":450,"weight":400,"compare_at_price":null,"inventory_quantity":21,"inventory_management":"shopify","inventory_policy":"deny","barcode":"3182550721721","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_Hair_Skin.jpg?v=1531308925"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_Hair_Skin.jpg?v=1531308925","options":["Title"],"media":[{"alt":"Royal Canin Hair \u0026 Skin","id":1051292794989,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_Hair_Skin.jpg?v=1531308925"},"aspect_ratio":1.0,"height":1000,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_Hair_Skin.jpg?v=1531308925","width":1000}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv class=\"product-tabs__content__cms\"\u003e\n\u003cdiv\u003e\n\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv class=\"product-tabs__content__cms\"\u003e\u003cspan style=\"color: #000000;\"\u003eRoyal Canin Hair \u0026amp; Skin Care Cat Food uses a proven specific formula to help maintain \u0026amp; support a shiny coat. A unique combination of nutrients containing a patented complex to help support the skin's barrier role is included so that there are health benefits included in making the cats fur seem healthier. Combined with Omega 6 and Omega 3 fatty acids known for their beneficial effects on skin. \u003c\/span\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eRoyal Canin Hair \u0026amp; Skin Care Cat Food\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eSkin \u0026amp; coat care and nutrition\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eA specific formula to help maintain a shiny coat\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eContaining a patented complex** to help support the skin's barrier role.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eOmega 6 and Omega 3 fatty for beneficial effects on skin.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cstrong\u003e\u003c\/strong\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"product-tabs__content__slice\"\u003e\n\u003cdiv id=\"product__description\" class=\"product-tabs__content__cms\"\u003e\u003c\/div\u003e\n\u003c\/div\u003e"};
+
+        $(".quick-view-selector-1363754221677").on("change", function(){
+          var $form = $(this).closest("form"),
+          productVariantObj = [{"id":12407519740013,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Royal Canin Hair \u0026 Skin","public_title":null,"options":["Default Title"],"price":450,"weight":400,"compare_at_price":null,"inventory_quantity":21,"inventory_management":"shopify","inventory_policy":"deny","barcode":"3182550721721","requires_selling_plan":false,"selling_plan_allocations":[]}];
+
+        var option1 = $form.find("#SingleOptionSelector-0").val() || null,
+            option2 = $form.find("#SingleOptionSelector-1").val() || null,
+            option3 = $form.find("#SingleOptionSelector-2").val() || null,
+            flag = true;
+        for (var i=0,length=productVariantObj.length; i<length; i++) {
+          var productVar = productVariantObj[i];
+          if(option1==productVar.option1 && option2==productVar.option2 && option3==productVar.option3){
+            flag = false;
+            $('#product-select-1363754221677' ).val(productVar.id);
+              app.selectCallback(productVar, 1363754221677);
+            break;
+          }
+        }
+        if(flag){
+          app.selectCallback(null, 1363754221677);
+                             }
+
+                             });
+
+          // BEGIN SWATCHES
+
+          var indexArray=[];
+          var productVariantOptions = [{"id":12407519740013,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Royal Canin Hair \u0026 Skin","public_title":null,"options":["Default Title"],"price":450,"weight":400,"compare_at_price":null,"inventory_quantity":21,"inventory_management":"shopify","inventory_policy":"deny","barcode":"3182550721721","requires_selling_plan":false,"selling_plan_allocations":[]}];
+          $("[data-id=1363754221677] .single-option-selector option:selected").each(function() {
+            indexArray.push($(this).index());
+        });
+        var form = jQuery('#product-select-1363754221677').closest('form');
+                          var variantIndex = jQuery('#product-select-1363754221677 option:selected').index(); 
+                          if(variantIndex>=0){      
+          var variant = productVariantOptions[variantIndex];                  
+          for (var i=0,length=variant.options.length; i<length; i++) {
+            var num = indexArray[i];
+            var radioButtonDiv = form.find('.swatch[data-option-index="' + i + '"] div.swatch-element')[num];
+            var radioButton = $(radioButtonDiv).find(":radio");
+            if (radioButton.size()) {
+              radioButton.get(0).checked = true;
+            }
+          }
+        }
+
+        // END SWATCHES
+
+
+        
+       	 singleQuickViewPanel.find('.selector-wrapper').addClass('hidden');
+        
+
+        // Auto-select first available variant on page load. Otherwise the product looks sold out.
+
+        
+        
+        
+        
+        
+        
+        singleQuickViewPanel.find('#qv--collections-cats-products-royal-canin-hair-skin .quick-view-selector-1363754221677:eq(0)').val("Default Title").trigger('change');
+        
+        
+        
+        
+      }
+    }
+  });
+</script>
+</div>
+</div>, 'name': 'Royal Canin Hair & Skin', 'price': ' £4.50 '}

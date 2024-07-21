@@ -1,0 +1,121 @@
+{'html': <div class="col-md-3 col-sm-6 col-xs-6 element mb30">
+<div class="main_box quick-view-overlay">
+<div class="box_1">
+<div class="sold-out">Sold Out</div>
+<div class="product-image">
+<a href="/collections/cats/products/whiskas-anti-hairball-cat-treats-with-chicken"><img alt="Whiskas Anti-Hairball Cat Treats with Chicken" src="//portopets.co.uk/cdn/shop/products/Whiskas_Anti_Hairball_800x.jpg?v=1531591609"/></a>
+</div>
+<div class="overlay hidden-sm hidden-xs">
+<a class="absolute-pos popup-text quick-view-btn btn_c cart_btn_1" data-effect="mfp-move-from-top" data-placement="top" data-toggle="tooltip" href="#qv--collections-cats-products-whiskas-anti-hairball-cat-treats-with-chicken" title="Quick View">Quick View</a>
+<a class="overlay-second-link" href="/collections/cats/products/whiskas-anti-hairball-cat-treats-with-chicken"></a>
+</div>
+</div>
+<div class="desc">
+<h5><a href="/collections/cats/products/whiskas-anti-hairball-cat-treats-with-chicken">Whiskas - Anti-Hairball Cat Treats with Chicken</a></h5>
+<p>Treats</p>
+<div class="price"><span class="money"> £1.70 </span></div>
+</div>
+<div class="mfp-with-anim mfp-hide mfp-dialog mfp-dialog-big clearfix quick-view-panel" data-id="1366402302061" data-name="product_whiskas_anti_hairball_cat_treats_with_chicken" id="qv--collections-cats-products-whiskas-anti-hairball-cat-treats-with-chicken">
+<div class="data-qvp">{"id":1366402302061,"title":"Whiskas - Anti-Hairball Cat Treats with Chicken","handle":"whiskas-anti-hairball-cat-treats-with-chicken","description":"\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\u003c\/div\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e\u003cspan style=\"color: #000000;\"\u003eDelicious dual textured cat treats with a tasty crunchy outside and an irresistible soft centre. A carefully formulated blend of fibres to help reduce the build up of hairballs when fed daily. Prepared with tasty chicken, so your cat will love them too, Less than 2 Kcal in every cat treat, Cat biscuits with added vitamins and minerals and no artificial flavours\u003c\/span\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eDual textured cat treat for your pet \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003e55g Whiskas cat biscuits for cats \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eLess than 2kcal in every treat for your feline friend \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eCat treats contains no artificial flavours\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e","published_at":"2018-07-14T19:02:32+01:00","created_at":"2018-07-14T19:06:46+01:00","vendor":"Whiskas","type":"Treats","tags":["brand_Whiskas","Category_Treats","Pet_Cats"],"price":170,"price_min":170,"price_max":170,"available":false,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12427494588525,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Whiskas - Anti-Hairball Cat Treats with Chicken","public_title":null,"options":["Default Title"],"price":170,"weight":60,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5998749128909","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Whiskas_Anti_Hairball.jpg?v=1531591609"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Whiskas_Anti_Hairball.jpg?v=1531591609","options":["Title"],"media":[{"alt":"Whiskas Anti-Hairball Cat Treats with Chicken","id":1058080391277,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1280,"width":1280,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Whiskas_Anti_Hairball.jpg?v=1531591609"},"aspect_ratio":1.0,"height":1280,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Whiskas_Anti_Hairball.jpg?v=1531591609","width":1280}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\u003c\/div\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e\u003cspan style=\"color: #000000;\"\u003eDelicious dual textured cat treats with a tasty crunchy outside and an irresistible soft centre. A carefully formulated blend of fibres to help reduce the build up of hairballs when fed daily. Prepared with tasty chicken, so your cat will love them too, Less than 2 Kcal in every cat treat, Cat biscuits with added vitamins and minerals and no artificial flavours\u003c\/span\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eDual textured cat treat for your pet \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003e55g Whiskas cat biscuits for cats \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eLess than 2kcal in every treat for your feline friend \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eCat treats contains no artificial flavours\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e"}</div>
+<div class="row">
+<div class="col-md-7">
+<div class="slider_1 clearfix">
+<div class="slides"><img alt="Whiskas Anti-Hairball Cat Treats with Chicken" src="//portopets.co.uk/cdn/shop/products/Whiskas_Anti_Hairball_1024x.jpg?v=1531591609"/></div>
+</div>
+</div>
+<div class="col-md-5">
+<h3>Whiskas - Anti-Hairball Cat Treats with Chicken</h3>
+<p class="product-info-price mb20 mt10"><span class="money" id="productPrice">£1.70</span></p>
+<p class="text-smaller text-muted">
+Delicious dual textured cat treats with a tasty crunchy outside and an irresistible soft centre. A carefully formulated blend of fibres to help reduce the build up of hairballs when fed daily. Prepared with tasty chicken, so your cat will love them too, Less than 2 Kcal in every cat treat, Cat biscuits with added vitamins and minerals and no ar...</p>
+<form action="/cart/add" class="form-add-to-cart form-horizontal" enctype="multipart/form-data" id="form--collections-cats-products-whiskas-anti-hairball-cat-treats-with-chicken" method="post">
+<input id="product-select-1366402302061" name="id" type="hidden" value="12427494588525">
+<hr/>
+<input class="modal-button disabled" disabled="" id="addToCart" name="add" type="submit" value="Sold Out"/>
+<a class="modal-button2" href="/collections/cats/products/whiskas-anti-hairball-cat-treats-with-chicken">More Info</a>
+</input></form>
+</div>
+</div>
+</div>
+<script>
+  $(function() {
+    if(typeof app.selectCallback !== 'undefined'){ // make sure the app callback is available
+
+      // get ID string
+      var qvpID = 'qv--collections-cats-products-whiskas-anti-hairball-cat-treats-with-chicken';
+
+      // find the element with the matching string in the DOM
+      var singleQuickViewPanel = $('#'+qvpID);
+
+      // double check that we are not loading a double up
+      if(singleQuickViewPanel.length === 1 && typeof singleQuickViewPanel.data('processed') === 'undefined'){
+
+        // set the panel as processed, so we don't do it again
+        singleQuickViewPanel.data('processed',true);
+
+        // push the date for this product to our global object
+        app.data.product_whiskas_anti_hairball_cat_treats_with_chicken = {"id":1366402302061,"title":"Whiskas - Anti-Hairball Cat Treats with Chicken","handle":"whiskas-anti-hairball-cat-treats-with-chicken","description":"\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\u003c\/div\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e\u003cspan style=\"color: #000000;\"\u003eDelicious dual textured cat treats with a tasty crunchy outside and an irresistible soft centre. A carefully formulated blend of fibres to help reduce the build up of hairballs when fed daily. Prepared with tasty chicken, so your cat will love them too, Less than 2 Kcal in every cat treat, Cat biscuits with added vitamins and minerals and no artificial flavours\u003c\/span\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eDual textured cat treat for your pet \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003e55g Whiskas cat biscuits for cats \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eLess than 2kcal in every treat for your feline friend \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eCat treats contains no artificial flavours\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e","published_at":"2018-07-14T19:02:32+01:00","created_at":"2018-07-14T19:06:46+01:00","vendor":"Whiskas","type":"Treats","tags":["brand_Whiskas","Category_Treats","Pet_Cats"],"price":170,"price_min":170,"price_max":170,"available":false,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12427494588525,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Whiskas - Anti-Hairball Cat Treats with Chicken","public_title":null,"options":["Default Title"],"price":170,"weight":60,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5998749128909","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Whiskas_Anti_Hairball.jpg?v=1531591609"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Whiskas_Anti_Hairball.jpg?v=1531591609","options":["Title"],"media":[{"alt":"Whiskas Anti-Hairball Cat Treats with Chicken","id":1058080391277,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1280,"width":1280,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Whiskas_Anti_Hairball.jpg?v=1531591609"},"aspect_ratio":1.0,"height":1280,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Whiskas_Anti_Hairball.jpg?v=1531591609","width":1280}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\u003c\/div\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e\u003cspan style=\"color: #000000;\"\u003eDelicious dual textured cat treats with a tasty crunchy outside and an irresistible soft centre. A carefully formulated blend of fibres to help reduce the build up of hairballs when fed daily. Prepared with tasty chicken, so your cat will love them too, Less than 2 Kcal in every cat treat, Cat biscuits with added vitamins and minerals and no artificial flavours\u003c\/span\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eDual textured cat treat for your pet \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003e55g Whiskas cat biscuits for cats \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eLess than 2kcal in every treat for your feline friend \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eCat treats contains no artificial flavours\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e"};
+
+        $(".quick-view-selector-1366402302061").on("change", function(){
+          var $form = $(this).closest("form"),
+          productVariantObj = [{"id":12427494588525,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Whiskas - Anti-Hairball Cat Treats with Chicken","public_title":null,"options":["Default Title"],"price":170,"weight":60,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5998749128909","requires_selling_plan":false,"selling_plan_allocations":[]}];
+
+        var option1 = $form.find("#SingleOptionSelector-0").val() || null,
+            option2 = $form.find("#SingleOptionSelector-1").val() || null,
+            option3 = $form.find("#SingleOptionSelector-2").val() || null,
+            flag = true;
+        for (var i=0,length=productVariantObj.length; i<length; i++) {
+          var productVar = productVariantObj[i];
+          if(option1==productVar.option1 && option2==productVar.option2 && option3==productVar.option3){
+            flag = false;
+            $('#product-select-1366402302061' ).val(productVar.id);
+              app.selectCallback(productVar, 1366402302061);
+            break;
+          }
+        }
+        if(flag){
+          app.selectCallback(null, 1366402302061);
+                             }
+
+                             });
+
+          // BEGIN SWATCHES
+
+          var indexArray=[];
+          var productVariantOptions = [{"id":12427494588525,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Whiskas - Anti-Hairball Cat Treats with Chicken","public_title":null,"options":["Default Title"],"price":170,"weight":60,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5998749128909","requires_selling_plan":false,"selling_plan_allocations":[]}];
+          $("[data-id=1366402302061] .single-option-selector option:selected").each(function() {
+            indexArray.push($(this).index());
+        });
+        var form = jQuery('#product-select-1366402302061').closest('form');
+                          var variantIndex = jQuery('#product-select-1366402302061 option:selected').index(); 
+                          if(variantIndex>=0){      
+          var variant = productVariantOptions[variantIndex];                  
+          for (var i=0,length=variant.options.length; i<length; i++) {
+            var num = indexArray[i];
+            var radioButtonDiv = form.find('.swatch[data-option-index="' + i + '"] div.swatch-element')[num];
+            var radioButton = $(radioButtonDiv).find(":radio");
+            if (radioButton.size()) {
+              radioButton.get(0).checked = true;
+            }
+          }
+        }
+
+        // END SWATCHES
+
+
+        
+       	 singleQuickViewPanel.find('.selector-wrapper').addClass('hidden');
+        
+
+        // Auto-select first available variant on page load. Otherwise the product looks sold out.
+
+        
+        
+        
+        
+      }
+    }
+  });
+</script>
+</div>
+</div>, 'name': 'Whiskas - Anti-Hairball Cat Treats with Chicken', 'price': ' £1.70 '}

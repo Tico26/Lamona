@@ -1,0 +1,127 @@
+{'html': <div class="col-md-3 col-sm-6 col-xs-6 element mb30">
+<div class="main_box quick-view-overlay">
+<div class="box_1">
+<div class="product-image">
+<a href="/collections/cats/products/thrive-100-chicken-liver-cat-treats-25g"><img alt="Thrive 100% Chicken Liver Cat Treats" src="//portopets.co.uk/cdn/shop/products/Thrive_liver_800x.jpg?v=1531588387"/></a>
+</div>
+<div class="overlay hidden-sm hidden-xs">
+<a class="absolute-pos popup-text quick-view-btn btn_c cart_btn_1" data-effect="mfp-move-from-top" data-placement="top" data-toggle="tooltip" href="#qv--collections-cats-products-thrive-100-chicken-liver-cat-treats-25g" title="Quick View">Quick View</a>
+<a class="overlay-second-link" href="/collections/cats/products/thrive-100-chicken-liver-cat-treats-25g"></a>
+</div>
+</div>
+<div class="desc">
+<h5><a href="/collections/cats/products/thrive-100-chicken-liver-cat-treats-25g">Thrive 100% Chicken Liver Cat Treats (25g)</a></h5>
+<p>Treats</p>
+<div class="price"><span class="money"> £3.70 </span></div>
+</div>
+<div class="mfp-with-anim mfp-hide mfp-dialog mfp-dialog-big clearfix quick-view-panel" data-id="1366290366573" data-name="product_thrive_100_chicken_liver_cat_treats_25g" id="qv--collections-cats-products-thrive-100-chicken-liver-cat-treats-25g">
+<div class="data-qvp">{"id":1366290366573,"title":"Thrive 100% Chicken Liver Cat Treats (25g)","handle":"thrive-100-chicken-liver-cat-treats-25g","description":"\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eThrive 100% real liver treats are made using only the finest quality liver, with no preservatives, colours or additives of any kind. Then they are gently freeze-dried to lock in all the key nutrients and flavours. You can also sprinkle any powder onto their food as a tasty and nutritious flavour enhancer.\u003c\/span\u003e\u003c\/p\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eIngredients: \u003c\/strong\u003eChicken Liver 100% \u003c\/span\u003e\u003c\/p\u003e","published_at":"2018-07-14T18:08:27+01:00","created_at":"2018-07-14T18:13:04+01:00","vendor":"Thrive","type":"Treats","tags":["Brand_Thrive","Category_Treats","Pet_Cats"],"price":370,"price_min":370,"price_max":370,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12425899999341,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Thrive 100% Chicken Liver Cat Treats (25g)","public_title":null,"options":["Default Title"],"price":370,"weight":25,"compare_at_price":null,"inventory_quantity":10,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5023538101426","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Thrive_liver.jpg?v=1531588387"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Thrive_liver.jpg?v=1531588387","options":["Title"],"media":[{"alt":"Thrive 100% Chicken Liver Cat Treats","id":1057697759341,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1280,"width":1280,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Thrive_liver.jpg?v=1531588387"},"aspect_ratio":1.0,"height":1280,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Thrive_liver.jpg?v=1531588387","width":1280}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eThrive 100% real liver treats are made using only the finest quality liver, with no preservatives, colours or additives of any kind. Then they are gently freeze-dried to lock in all the key nutrients and flavours. You can also sprinkle any powder onto their food as a tasty and nutritious flavour enhancer.\u003c\/span\u003e\u003c\/p\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eIngredients: \u003c\/strong\u003eChicken Liver 100% \u003c\/span\u003e\u003c\/p\u003e"}</div>
+<div class="row">
+<div class="col-md-7">
+<div class="slider_1 clearfix">
+<div class="slides"><img alt="Thrive 100% Chicken Liver Cat Treats" src="//portopets.co.uk/cdn/shop/products/Thrive_liver_1024x.jpg?v=1531588387"/></div>
+</div>
+</div>
+<div class="col-md-5">
+<h3>Thrive 100% Chicken Liver Cat Treats (25g)</h3>
+<p class="product-info-price mb20 mt10"><span class="money" id="productPrice">£3.70</span></p>
+<p class="text-smaller text-muted">Thrive 100% real liver treats are made using only the finest quality liver, with no preservatives, colours or additives of any kind. Then they are gently freeze-dried to lock in all the key nutrients and flavours. You can also sprinkle any powder onto their food as a tasty and nutritious flavour enhancer.
+Ingredients: Chicken Liver 100% </p>
+<form action="/cart/add" class="form-add-to-cart form-horizontal" enctype="multipart/form-data" id="form--collections-cats-products-thrive-100-chicken-liver-cat-treats-25g" method="post">
+<input id="product-select-1366290366573" name="id" type="hidden" value="12425899999341">
+<hr/>
+<input class="modal-button" id="addToCart" name="add" type="submit" value="Add to Cart"/>
+<a class="modal-button2" href="/collections/cats/products/thrive-100-chicken-liver-cat-treats-25g">More Info</a>
+</input></form>
+</div>
+</div>
+</div>
+<script>
+  $(function() {
+    if(typeof app.selectCallback !== 'undefined'){ // make sure the app callback is available
+
+      // get ID string
+      var qvpID = 'qv--collections-cats-products-thrive-100-chicken-liver-cat-treats-25g';
+
+      // find the element with the matching string in the DOM
+      var singleQuickViewPanel = $('#'+qvpID);
+
+      // double check that we are not loading a double up
+      if(singleQuickViewPanel.length === 1 && typeof singleQuickViewPanel.data('processed') === 'undefined'){
+
+        // set the panel as processed, so we don't do it again
+        singleQuickViewPanel.data('processed',true);
+
+        // push the date for this product to our global object
+        app.data.product_thrive_100_chicken_liver_cat_treats_25g = {"id":1366290366573,"title":"Thrive 100% Chicken Liver Cat Treats (25g)","handle":"thrive-100-chicken-liver-cat-treats-25g","description":"\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eThrive 100% real liver treats are made using only the finest quality liver, with no preservatives, colours or additives of any kind. Then they are gently freeze-dried to lock in all the key nutrients and flavours. You can also sprinkle any powder onto their food as a tasty and nutritious flavour enhancer.\u003c\/span\u003e\u003c\/p\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eIngredients: \u003c\/strong\u003eChicken Liver 100% \u003c\/span\u003e\u003c\/p\u003e","published_at":"2018-07-14T18:08:27+01:00","created_at":"2018-07-14T18:13:04+01:00","vendor":"Thrive","type":"Treats","tags":["Brand_Thrive","Category_Treats","Pet_Cats"],"price":370,"price_min":370,"price_max":370,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12425899999341,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Thrive 100% Chicken Liver Cat Treats (25g)","public_title":null,"options":["Default Title"],"price":370,"weight":25,"compare_at_price":null,"inventory_quantity":10,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5023538101426","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Thrive_liver.jpg?v=1531588387"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Thrive_liver.jpg?v=1531588387","options":["Title"],"media":[{"alt":"Thrive 100% Chicken Liver Cat Treats","id":1057697759341,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1280,"width":1280,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Thrive_liver.jpg?v=1531588387"},"aspect_ratio":1.0,"height":1280,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Thrive_liver.jpg?v=1531588387","width":1280}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eThrive 100% real liver treats are made using only the finest quality liver, with no preservatives, colours or additives of any kind. Then they are gently freeze-dried to lock in all the key nutrients and flavours. You can also sprinkle any powder onto their food as a tasty and nutritious flavour enhancer.\u003c\/span\u003e\u003c\/p\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eIngredients: \u003c\/strong\u003eChicken Liver 100% \u003c\/span\u003e\u003c\/p\u003e"};
+
+        $(".quick-view-selector-1366290366573").on("change", function(){
+          var $form = $(this).closest("form"),
+          productVariantObj = [{"id":12425899999341,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Thrive 100% Chicken Liver Cat Treats (25g)","public_title":null,"options":["Default Title"],"price":370,"weight":25,"compare_at_price":null,"inventory_quantity":10,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5023538101426","requires_selling_plan":false,"selling_plan_allocations":[]}];
+
+        var option1 = $form.find("#SingleOptionSelector-0").val() || null,
+            option2 = $form.find("#SingleOptionSelector-1").val() || null,
+            option3 = $form.find("#SingleOptionSelector-2").val() || null,
+            flag = true;
+        for (var i=0,length=productVariantObj.length; i<length; i++) {
+          var productVar = productVariantObj[i];
+          if(option1==productVar.option1 && option2==productVar.option2 && option3==productVar.option3){
+            flag = false;
+            $('#product-select-1366290366573' ).val(productVar.id);
+              app.selectCallback(productVar, 1366290366573);
+            break;
+          }
+        }
+        if(flag){
+          app.selectCallback(null, 1366290366573);
+                             }
+
+                             });
+
+          // BEGIN SWATCHES
+
+          var indexArray=[];
+          var productVariantOptions = [{"id":12425899999341,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Thrive 100% Chicken Liver Cat Treats (25g)","public_title":null,"options":["Default Title"],"price":370,"weight":25,"compare_at_price":null,"inventory_quantity":10,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5023538101426","requires_selling_plan":false,"selling_plan_allocations":[]}];
+          $("[data-id=1366290366573] .single-option-selector option:selected").each(function() {
+            indexArray.push($(this).index());
+        });
+        var form = jQuery('#product-select-1366290366573').closest('form');
+                          var variantIndex = jQuery('#product-select-1366290366573 option:selected').index(); 
+                          if(variantIndex>=0){      
+          var variant = productVariantOptions[variantIndex];                  
+          for (var i=0,length=variant.options.length; i<length; i++) {
+            var num = indexArray[i];
+            var radioButtonDiv = form.find('.swatch[data-option-index="' + i + '"] div.swatch-element')[num];
+            var radioButton = $(radioButtonDiv).find(":radio");
+            if (radioButton.size()) {
+              radioButton.get(0).checked = true;
+            }
+          }
+        }
+
+        // END SWATCHES
+
+
+        
+       	 singleQuickViewPanel.find('.selector-wrapper').addClass('hidden');
+        
+
+        // Auto-select first available variant on page load. Otherwise the product looks sold out.
+
+        
+        
+        
+        
+        
+        
+        singleQuickViewPanel.find('#qv--collections-cats-products-thrive-100-chicken-liver-cat-treats-25g .quick-view-selector-1366290366573:eq(0)').val("Default Title").trigger('change');
+        
+        
+        
+        
+      }
+    }
+  });
+</script>
+</div>
+</div>, 'name': 'Thrive 100% Chicken Liver Cat Treats (25g)', 'price': ' £3.70 '}

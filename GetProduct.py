@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 
 
-url = "https://www.rollerblade.com/uk/en/all"
+url = "https://thecabinetshop.co.uk/collections/all-cabinets?page=8"
 
 # Send a GET request to the website
 response = requests.get(url)
@@ -14,21 +14,28 @@ if response.status_code == 200:
     soup = BeautifulSoup(html_content, 'html.parser')
     
     # Find all product containers
-    products = soup.find_all('div', class_='prod col-6 col-xl-3')
-    counter = 0
+    products = soup.find_all('li', class_='grid__item')
+    counter =112    
     # Extract product details
     for product in products:
+        
+        name = product.find('h3', class_="card__heading h5").text
+        
+        try:
+            price = product.find('span', class_="price-item price-item--regular").text
+        except:
+            continue
+        #image = product.find('img', class_='imgprd')
+        #productPage = product.find('a', attrs={"class": None})
+        productJSON = {"html":str(product), "name":name,"price":price}
+        #labeled_data.append(productJSON)
+        print(name)
+        print(price)
         counter+=1
-        name = product.find('p', class_='skate-list-name text-uppercase mb-0')
-        price = product.find('span', class_='price skates-list-price')
-        image = product.find('img', class_='imgprd')
-        productPage = product.find('a', attrs={"class": None})
-        productJSON = {"html":product, "name":name,"price":price,"image":image, "productPage":productPage}
-        labeled_data.append(productJSON)
         file = open("Products/rollerbladeSkates"+str(counter)+".txt","w")
         file.write(str(productJSON))
         file.close()
-
+        labeled_data.append(productJSON)
         
         
 else:

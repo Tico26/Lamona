@@ -1,0 +1,124 @@
+{'html': <div class="col-md-3 col-sm-6 col-xs-6 element mb30">
+<div class="main_box quick-view-overlay">
+<div class="box_1">
+<div class="sold-out">Sold Out</div>
+<div class="product-image">
+<a href="/collections/cats/products/frontline-flea-spray-400ml"><img alt="Frontline Flea Spray (400ml)" src="//portopets.co.uk/cdn/shop/products/Frontline_Flea_Spray_800x.jpg?v=1531686991"/></a>
+</div>
+<div class="overlay hidden-sm hidden-xs">
+<a class="absolute-pos popup-text quick-view-btn btn_c cart_btn_1" data-effect="mfp-move-from-top" data-placement="top" data-toggle="tooltip" href="#qv--collections-cats-products-frontline-flea-spray-400ml" title="Quick View">Quick View</a>
+<a class="overlay-second-link" href="/collections/cats/products/frontline-flea-spray-400ml"></a>
+</div>
+</div>
+<div class="desc">
+<h5><a href="/collections/cats/products/frontline-flea-spray-400ml">Frontline Flea Spray (400ml)</a></h5>
+<p>Home</p>
+<div class="price"><span class="money"> £22.00 </span></div>
+</div>
+<div class="mfp-with-anim mfp-hide mfp-dialog mfp-dialog-big clearfix quick-view-panel" data-id="1367530733677" data-name="product_frontline_flea_spray_400ml" id="qv--collections-cats-products-frontline-flea-spray-400ml">
+<div class="data-qvp">{"id":1367530733677,"title":"Frontline Flea Spray (400ml)","handle":"frontline-flea-spray-400ml","description":"\u003cspan style=\"color: #000000;\"\u003eFrontline Home Gard is an aerosol surface spray for use in the home and surrounding environments (carpets, cracks \u0026amp; crevices in flooring, animal bedding, soft upholstered furniture, car) to eradicate fleas and prevent re-infestation. \u003c\/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eKills fleas for 6 weeks \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003ePrevents the development of flea eggs for 12 months \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eOne can covers 100 square meters (equivalent to an average 3-bedroom house) \u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eFrontline Home Gard complements regular on-pet flea treatments.\u003c\/span\u003e\u003c\/p\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eHow to use: \u003c\/strong\u003e\u003c\/span\u003e\u003cspan style=\"color: #000000;\"\u003eRemove pets and children from the area and remove\/cover fish tanks prior to treatment. Ensure treated areas are well ventilated. \u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eSpray lightly from a distance of 50 cm (knee height), a 5 second burst per 2 square meter of surface. Ensure all areas are treated, including under furniture. It is recommended to do a patch test prior to use on delicate fabrics\/surfaces. Use sparingly on glossy or wooden surfaces to avoid spotting. \u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eDo not re-enter area for 30 minutes after treatment or until treated areas are dry.\u003c\/span\u003e\n\u003c\/div\u003e","published_at":"2018-07-15T21:20:29+01:00","created_at":"2018-07-15T21:36:28+01:00","vendor":"Frontline","type":"Home","tags":["Brand_Frontline","Category_Home","Category_Treatments","Pet_Cats","Pet_Dogs"],"price":2200,"price_min":2200,"price_max":2200,"available":false,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12445551689837,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Frontline Flea Spray (400ml)","public_title":null,"options":["Default Title"],"price":2200,"weight":397,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5023534022497","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Frontline_Flea_Spray.jpg?v=1531686991"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Frontline_Flea_Spray.jpg?v=1531686991","options":["Title"],"media":[{"alt":null,"id":1062222135405,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1280,"width":1280,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Frontline_Flea_Spray.jpg?v=1531686991"},"aspect_ratio":1.0,"height":1280,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Frontline_Flea_Spray.jpg?v=1531686991","width":1280}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cspan style=\"color: #000000;\"\u003eFrontline Home Gard is an aerosol surface spray for use in the home and surrounding environments (carpets, cracks \u0026amp; crevices in flooring, animal bedding, soft upholstered furniture, car) to eradicate fleas and prevent re-infestation. \u003c\/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eKills fleas for 6 weeks \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003ePrevents the development of flea eggs for 12 months \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eOne can covers 100 square meters (equivalent to an average 3-bedroom house) \u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eFrontline Home Gard complements regular on-pet flea treatments.\u003c\/span\u003e\u003c\/p\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eHow to use: \u003c\/strong\u003e\u003c\/span\u003e\u003cspan style=\"color: #000000;\"\u003eRemove pets and children from the area and remove\/cover fish tanks prior to treatment. Ensure treated areas are well ventilated. \u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eSpray lightly from a distance of 50 cm (knee height), a 5 second burst per 2 square meter of surface. Ensure all areas are treated, including under furniture. It is recommended to do a patch test prior to use on delicate fabrics\/surfaces. Use sparingly on glossy or wooden surfaces to avoid spotting. \u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eDo not re-enter area for 30 minutes after treatment or until treated areas are dry.\u003c\/span\u003e\n\u003c\/div\u003e"}</div>
+<div class="row">
+<div class="col-md-7">
+<div class="slider_1 clearfix">
+<div class="slides"><img alt="Frontline Flea Spray (400ml)" src="//portopets.co.uk/cdn/shop/products/Frontline_Flea_Spray_1024x.jpg?v=1531686991"/></div>
+</div>
+</div>
+<div class="col-md-5">
+<h3>Frontline Flea Spray (400ml)</h3>
+<p class="product-info-price mb20 mt10"><span class="money" id="productPrice">£22.00</span></p>
+<p class="text-smaller text-muted">Frontline Home Gard is an aerosol surface spray for use in the home and surrounding environments (carpets, cracks &amp; crevices in flooring, animal bedding, soft upholstered furniture, car) to eradicate fleas and prevent re-infestation. 
+
+Kills fleas for 6 weeks 
+Prevents the development of flea eggs for 12 months 
+One can covers 100 square met...</p>
+<form action="/cart/add" class="form-add-to-cart form-horizontal" enctype="multipart/form-data" id="form--collections-cats-products-frontline-flea-spray-400ml" method="post">
+<input id="product-select-1367530733677" name="id" type="hidden" value="12445551689837">
+<hr/>
+<input class="modal-button disabled" disabled="" id="addToCart" name="add" type="submit" value="Sold Out"/>
+<a class="modal-button2" href="/collections/cats/products/frontline-flea-spray-400ml">More Info</a>
+</input></form>
+</div>
+</div>
+</div>
+<script>
+  $(function() {
+    if(typeof app.selectCallback !== 'undefined'){ // make sure the app callback is available
+
+      // get ID string
+      var qvpID = 'qv--collections-cats-products-frontline-flea-spray-400ml';
+
+      // find the element with the matching string in the DOM
+      var singleQuickViewPanel = $('#'+qvpID);
+
+      // double check that we are not loading a double up
+      if(singleQuickViewPanel.length === 1 && typeof singleQuickViewPanel.data('processed') === 'undefined'){
+
+        // set the panel as processed, so we don't do it again
+        singleQuickViewPanel.data('processed',true);
+
+        // push the date for this product to our global object
+        app.data.product_frontline_flea_spray_400ml = {"id":1367530733677,"title":"Frontline Flea Spray (400ml)","handle":"frontline-flea-spray-400ml","description":"\u003cspan style=\"color: #000000;\"\u003eFrontline Home Gard is an aerosol surface spray for use in the home and surrounding environments (carpets, cracks \u0026amp; crevices in flooring, animal bedding, soft upholstered furniture, car) to eradicate fleas and prevent re-infestation. \u003c\/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eKills fleas for 6 weeks \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003ePrevents the development of flea eggs for 12 months \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eOne can covers 100 square meters (equivalent to an average 3-bedroom house) \u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eFrontline Home Gard complements regular on-pet flea treatments.\u003c\/span\u003e\u003c\/p\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eHow to use: \u003c\/strong\u003e\u003c\/span\u003e\u003cspan style=\"color: #000000;\"\u003eRemove pets and children from the area and remove\/cover fish tanks prior to treatment. Ensure treated areas are well ventilated. \u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eSpray lightly from a distance of 50 cm (knee height), a 5 second burst per 2 square meter of surface. Ensure all areas are treated, including under furniture. It is recommended to do a patch test prior to use on delicate fabrics\/surfaces. Use sparingly on glossy or wooden surfaces to avoid spotting. \u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eDo not re-enter area for 30 minutes after treatment or until treated areas are dry.\u003c\/span\u003e\n\u003c\/div\u003e","published_at":"2018-07-15T21:20:29+01:00","created_at":"2018-07-15T21:36:28+01:00","vendor":"Frontline","type":"Home","tags":["Brand_Frontline","Category_Home","Category_Treatments","Pet_Cats","Pet_Dogs"],"price":2200,"price_min":2200,"price_max":2200,"available":false,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12445551689837,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Frontline Flea Spray (400ml)","public_title":null,"options":["Default Title"],"price":2200,"weight":397,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5023534022497","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Frontline_Flea_Spray.jpg?v=1531686991"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Frontline_Flea_Spray.jpg?v=1531686991","options":["Title"],"media":[{"alt":null,"id":1062222135405,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1280,"width":1280,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Frontline_Flea_Spray.jpg?v=1531686991"},"aspect_ratio":1.0,"height":1280,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Frontline_Flea_Spray.jpg?v=1531686991","width":1280}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cspan style=\"color: #000000;\"\u003eFrontline Home Gard is an aerosol surface spray for use in the home and surrounding environments (carpets, cracks \u0026amp; crevices in flooring, animal bedding, soft upholstered furniture, car) to eradicate fleas and prevent re-infestation. \u003c\/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eKills fleas for 6 weeks \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003ePrevents the development of flea eggs for 12 months \u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eOne can covers 100 square meters (equivalent to an average 3-bedroom house) \u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eFrontline Home Gard complements regular on-pet flea treatments.\u003c\/span\u003e\u003c\/p\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eHow to use: \u003c\/strong\u003e\u003c\/span\u003e\u003cspan style=\"color: #000000;\"\u003eRemove pets and children from the area and remove\/cover fish tanks prior to treatment. Ensure treated areas are well ventilated. \u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eSpray lightly from a distance of 50 cm (knee height), a 5 second burst per 2 square meter of surface. Ensure all areas are treated, including under furniture. It is recommended to do a patch test prior to use on delicate fabrics\/surfaces. Use sparingly on glossy or wooden surfaces to avoid spotting. \u003c\/span\u003e\n\u003c\/div\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eDo not re-enter area for 30 minutes after treatment or until treated areas are dry.\u003c\/span\u003e\n\u003c\/div\u003e"};
+
+        $(".quick-view-selector-1367530733677").on("change", function(){
+          var $form = $(this).closest("form"),
+          productVariantObj = [{"id":12445551689837,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Frontline Flea Spray (400ml)","public_title":null,"options":["Default Title"],"price":2200,"weight":397,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5023534022497","requires_selling_plan":false,"selling_plan_allocations":[]}];
+
+        var option1 = $form.find("#SingleOptionSelector-0").val() || null,
+            option2 = $form.find("#SingleOptionSelector-1").val() || null,
+            option3 = $form.find("#SingleOptionSelector-2").val() || null,
+            flag = true;
+        for (var i=0,length=productVariantObj.length; i<length; i++) {
+          var productVar = productVariantObj[i];
+          if(option1==productVar.option1 && option2==productVar.option2 && option3==productVar.option3){
+            flag = false;
+            $('#product-select-1367530733677' ).val(productVar.id);
+              app.selectCallback(productVar, 1367530733677);
+            break;
+          }
+        }
+        if(flag){
+          app.selectCallback(null, 1367530733677);
+                             }
+
+                             });
+
+          // BEGIN SWATCHES
+
+          var indexArray=[];
+          var productVariantOptions = [{"id":12445551689837,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":false,"name":"Frontline Flea Spray (400ml)","public_title":null,"options":["Default Title"],"price":2200,"weight":397,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5023534022497","requires_selling_plan":false,"selling_plan_allocations":[]}];
+          $("[data-id=1367530733677] .single-option-selector option:selected").each(function() {
+            indexArray.push($(this).index());
+        });
+        var form = jQuery('#product-select-1367530733677').closest('form');
+                          var variantIndex = jQuery('#product-select-1367530733677 option:selected').index(); 
+                          if(variantIndex>=0){      
+          var variant = productVariantOptions[variantIndex];                  
+          for (var i=0,length=variant.options.length; i<length; i++) {
+            var num = indexArray[i];
+            var radioButtonDiv = form.find('.swatch[data-option-index="' + i + '"] div.swatch-element')[num];
+            var radioButton = $(radioButtonDiv).find(":radio");
+            if (radioButton.size()) {
+              radioButton.get(0).checked = true;
+            }
+          }
+        }
+
+        // END SWATCHES
+
+
+        
+       	 singleQuickViewPanel.find('.selector-wrapper').addClass('hidden');
+        
+
+        // Auto-select first available variant on page load. Otherwise the product looks sold out.
+
+        
+        
+        
+        
+      }
+    }
+  });
+</script>
+</div>
+</div>, 'name': 'Frontline Flea Spray (400ml)', 'price': ' £22.00 '}

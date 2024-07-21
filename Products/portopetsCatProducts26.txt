@@ -1,0 +1,126 @@
+{'html': <div class="col-md-3 col-sm-6 col-xs-6 element mb30">
+<div class="main_box quick-view-overlay">
+<div class="box_1">
+<div class="product-image">
+<a href="/collections/cats/products/beaphar-hairball-paste-100g"><img alt="Beaphar Hairball Paste" src="//portopets.co.uk/cdn/shop/products/hairball_paste_800x.jpg?v=1531679141"/></a>
+</div>
+<div class="overlay hidden-sm hidden-xs">
+<a class="absolute-pos popup-text quick-view-btn btn_c cart_btn_1" data-effect="mfp-move-from-top" data-placement="top" data-toggle="tooltip" href="#qv--collections-cats-products-beaphar-hairball-paste-100g" title="Quick View">Quick View</a>
+<a class="overlay-second-link" href="/collections/cats/products/beaphar-hairball-paste-100g"></a>
+</div>
+</div>
+<div class="desc">
+<h5><a href="/collections/cats/products/beaphar-hairball-paste-100g">Beaphar - Hairball Paste (100g)</a></h5>
+<p>Treatments</p>
+<div class="price"><span class="money"> £5.50 </span></div>
+</div>
+<div class="mfp-with-anim mfp-hide mfp-dialog mfp-dialog-big clearfix quick-view-panel" data-id="1367347167341" data-name="product_beaphar_hairball_paste_100g" id="qv--collections-cats-products-beaphar-hairball-paste-100g">
+<div class="data-qvp">{"id":1367347167341,"title":"Beaphar - Hairball Paste (100g)","handle":"beaphar-hairball-paste-100g","description":"\u003cp class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\u003cspan style=\"color: #000000;\"\u003eBeaphar Hairball Paste is a unique hairball remedy with dual action in one tube. The first stripe is rich in vegetable-oils which lubricates \u0026amp; eases the passage of hairballs through the cat. \u003c\/span\u003e\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eThe second stripe is rich in bioMOS - a pre-biotic supplement that aids digestion by encouraging a healthy gut-flora. As an added bonus, cats can't resist the flavour! (100g)\u003c\/span\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHelps hairballs to pass smoothly and gently through the intestines\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eEasy-to-use\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eTasty and effective\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e \u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eInstructions\u003c\/strong\u003e\u003c\/span\u003e\u003c\/p\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eLong haired cats: Give 6 cm paste daily.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eShort haired cats: Give 4 cm paste daily.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eBeaphar Hairball Paste can be given either over the food or directly from the tube. Try applying the paste to a paw and let them lick it off! Give daily fresh drinking water. Suitable for pets older than 6 weeks.\u003c\/span\u003e\u003c\/p\u003e\n\u003c\/div\u003e","published_at":"2018-07-15T19:12:53+01:00","created_at":"2018-07-15T19:25:37+01:00","vendor":"Beaphar","type":"Treatments","tags":["Brand_Beaphar","Category_Treatments","Pet_Cats"],"price":550,"price_min":550,"price_max":550,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12445110108269,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Beaphar - Hairball Paste (100g)","public_title":null,"options":["Default Title"],"price":550,"weight":100,"compare_at_price":null,"inventory_quantity":6,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5021284193252","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/hairball_paste.jpg?v=1531679141"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/hairball_paste.jpg?v=1531679141","options":["Title"],"media":[{"alt":"Beaphar Hairball Paste","id":1062136316013,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1280,"width":1280,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/hairball_paste.jpg?v=1531679141"},"aspect_ratio":1.0,"height":1280,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/hairball_paste.jpg?v=1531679141","width":1280}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\u003cspan style=\"color: #000000;\"\u003eBeaphar Hairball Paste is a unique hairball remedy with dual action in one tube. The first stripe is rich in vegetable-oils which lubricates \u0026amp; eases the passage of hairballs through the cat. \u003c\/span\u003e\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eThe second stripe is rich in bioMOS - a pre-biotic supplement that aids digestion by encouraging a healthy gut-flora. As an added bonus, cats can't resist the flavour! (100g)\u003c\/span\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHelps hairballs to pass smoothly and gently through the intestines\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eEasy-to-use\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eTasty and effective\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e \u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eInstructions\u003c\/strong\u003e\u003c\/span\u003e\u003c\/p\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eLong haired cats: Give 6 cm paste daily.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eShort haired cats: Give 4 cm paste daily.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eBeaphar Hairball Paste can be given either over the food or directly from the tube. Try applying the paste to a paw and let them lick it off! Give daily fresh drinking water. Suitable for pets older than 6 weeks.\u003c\/span\u003e\u003c\/p\u003e\n\u003c\/div\u003e"}</div>
+<div class="row">
+<div class="col-md-7">
+<div class="slider_1 clearfix">
+<div class="slides"><img alt="Beaphar Hairball Paste" src="//portopets.co.uk/cdn/shop/products/hairball_paste_1024x.jpg?v=1531679141"/></div>
+</div>
+</div>
+<div class="col-md-5">
+<h3>Beaphar - Hairball Paste (100g)</h3>
+<p class="product-info-price mb20 mt10"><span class="money" id="productPrice">£5.50</span></p>
+<p class="text-smaller text-muted">Beaphar Hairball Paste is a unique hairball remedy with dual action in one tube. The first stripe is rich in vegetable-oils which lubricates &amp; eases the passage of hairballs through the cat. The second stripe is rich in bioMOS - a pre-biotic supplement that aids digestion by encouraging a healthy gut-flora. As an added bonus, cats can't resi...</p>
+<form action="/cart/add" class="form-add-to-cart form-horizontal" enctype="multipart/form-data" id="form--collections-cats-products-beaphar-hairball-paste-100g" method="post">
+<input id="product-select-1367347167341" name="id" type="hidden" value="12445110108269">
+<hr/>
+<input class="modal-button" id="addToCart" name="add" type="submit" value="Add to Cart"/>
+<a class="modal-button2" href="/collections/cats/products/beaphar-hairball-paste-100g">More Info</a>
+</input></form>
+</div>
+</div>
+</div>
+<script>
+  $(function() {
+    if(typeof app.selectCallback !== 'undefined'){ // make sure the app callback is available
+
+      // get ID string
+      var qvpID = 'qv--collections-cats-products-beaphar-hairball-paste-100g';
+
+      // find the element with the matching string in the DOM
+      var singleQuickViewPanel = $('#'+qvpID);
+
+      // double check that we are not loading a double up
+      if(singleQuickViewPanel.length === 1 && typeof singleQuickViewPanel.data('processed') === 'undefined'){
+
+        // set the panel as processed, so we don't do it again
+        singleQuickViewPanel.data('processed',true);
+
+        // push the date for this product to our global object
+        app.data.product_beaphar_hairball_paste_100g = {"id":1367347167341,"title":"Beaphar - Hairball Paste (100g)","handle":"beaphar-hairball-paste-100g","description":"\u003cp class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\u003cspan style=\"color: #000000;\"\u003eBeaphar Hairball Paste is a unique hairball remedy with dual action in one tube. The first stripe is rich in vegetable-oils which lubricates \u0026amp; eases the passage of hairballs through the cat. \u003c\/span\u003e\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eThe second stripe is rich in bioMOS - a pre-biotic supplement that aids digestion by encouraging a healthy gut-flora. As an added bonus, cats can't resist the flavour! (100g)\u003c\/span\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHelps hairballs to pass smoothly and gently through the intestines\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eEasy-to-use\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eTasty and effective\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e \u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eInstructions\u003c\/strong\u003e\u003c\/span\u003e\u003c\/p\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eLong haired cats: Give 6 cm paste daily.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eShort haired cats: Give 4 cm paste daily.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eBeaphar Hairball Paste can be given either over the food or directly from the tube. Try applying the paste to a paw and let them lick it off! Give daily fresh drinking water. Suitable for pets older than 6 weeks.\u003c\/span\u003e\u003c\/p\u003e\n\u003c\/div\u003e","published_at":"2018-07-15T19:12:53+01:00","created_at":"2018-07-15T19:25:37+01:00","vendor":"Beaphar","type":"Treatments","tags":["Brand_Beaphar","Category_Treatments","Pet_Cats"],"price":550,"price_min":550,"price_max":550,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12445110108269,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Beaphar - Hairball Paste (100g)","public_title":null,"options":["Default Title"],"price":550,"weight":100,"compare_at_price":null,"inventory_quantity":6,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5021284193252","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/hairball_paste.jpg?v=1531679141"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/hairball_paste.jpg?v=1531679141","options":["Title"],"media":[{"alt":"Beaphar Hairball Paste","id":1062136316013,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1280,"width":1280,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/hairball_paste.jpg?v=1531679141"},"aspect_ratio":1.0,"height":1280,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/hairball_paste.jpg?v=1531679141","width":1280}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\u003cspan style=\"color: #000000;\"\u003eBeaphar Hairball Paste is a unique hairball remedy with dual action in one tube. The first stripe is rich in vegetable-oils which lubricates \u0026amp; eases the passage of hairballs through the cat. \u003c\/span\u003e\u003cbr\u003e\u003cbr\u003e\u003cspan style=\"color: #000000;\"\u003eThe second stripe is rich in bioMOS - a pre-biotic supplement that aids digestion by encouraging a healthy gut-flora. As an added bonus, cats can't resist the flavour! (100g)\u003c\/span\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHelps hairballs to pass smoothly and gently through the intestines\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eEasy-to-use\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eTasty and effective\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp class=\"headline util-margin-bottom-extra-small\"\u003e \u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eInstructions\u003c\/strong\u003e\u003c\/span\u003e\u003c\/p\u003e\n\u003cdiv class=\"bop-content-body content-body util-margin-bottom-small\"\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eLong haired cats: Give 6 cm paste daily.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eShort haired cats: Give 4 cm paste daily.\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e\u003cspan style=\"color: #000000;\"\u003eBeaphar Hairball Paste can be given either over the food or directly from the tube. Try applying the paste to a paw and let them lick it off! Give daily fresh drinking water. Suitable for pets older than 6 weeks.\u003c\/span\u003e\u003c\/p\u003e\n\u003c\/div\u003e"};
+
+        $(".quick-view-selector-1367347167341").on("change", function(){
+          var $form = $(this).closest("form"),
+          productVariantObj = [{"id":12445110108269,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Beaphar - Hairball Paste (100g)","public_title":null,"options":["Default Title"],"price":550,"weight":100,"compare_at_price":null,"inventory_quantity":6,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5021284193252","requires_selling_plan":false,"selling_plan_allocations":[]}];
+
+        var option1 = $form.find("#SingleOptionSelector-0").val() || null,
+            option2 = $form.find("#SingleOptionSelector-1").val() || null,
+            option3 = $form.find("#SingleOptionSelector-2").val() || null,
+            flag = true;
+        for (var i=0,length=productVariantObj.length; i<length; i++) {
+          var productVar = productVariantObj[i];
+          if(option1==productVar.option1 && option2==productVar.option2 && option3==productVar.option3){
+            flag = false;
+            $('#product-select-1367347167341' ).val(productVar.id);
+              app.selectCallback(productVar, 1367347167341);
+            break;
+          }
+        }
+        if(flag){
+          app.selectCallback(null, 1367347167341);
+                             }
+
+                             });
+
+          // BEGIN SWATCHES
+
+          var indexArray=[];
+          var productVariantOptions = [{"id":12445110108269,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Beaphar - Hairball Paste (100g)","public_title":null,"options":["Default Title"],"price":550,"weight":100,"compare_at_price":null,"inventory_quantity":6,"inventory_management":"shopify","inventory_policy":"deny","barcode":"5021284193252","requires_selling_plan":false,"selling_plan_allocations":[]}];
+          $("[data-id=1367347167341] .single-option-selector option:selected").each(function() {
+            indexArray.push($(this).index());
+        });
+        var form = jQuery('#product-select-1367347167341').closest('form');
+                          var variantIndex = jQuery('#product-select-1367347167341 option:selected').index(); 
+                          if(variantIndex>=0){      
+          var variant = productVariantOptions[variantIndex];                  
+          for (var i=0,length=variant.options.length; i<length; i++) {
+            var num = indexArray[i];
+            var radioButtonDiv = form.find('.swatch[data-option-index="' + i + '"] div.swatch-element')[num];
+            var radioButton = $(radioButtonDiv).find(":radio");
+            if (radioButton.size()) {
+              radioButton.get(0).checked = true;
+            }
+          }
+        }
+
+        // END SWATCHES
+
+
+        
+       	 singleQuickViewPanel.find('.selector-wrapper').addClass('hidden');
+        
+
+        // Auto-select first available variant on page load. Otherwise the product looks sold out.
+
+        
+        
+        
+        
+        
+        
+        singleQuickViewPanel.find('#qv--collections-cats-products-beaphar-hairball-paste-100g .quick-view-selector-1367347167341:eq(0)').val("Default Title").trigger('change');
+        
+        
+        
+        
+      }
+    }
+  });
+</script>
+</div>
+</div>, 'name': 'Beaphar - Hairball Paste (100g)', 'price': ' £5.50 '}

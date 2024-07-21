@@ -1,0 +1,131 @@
+{'html': <div class="col-md-3 col-sm-6 col-xs-6 element mb30">
+<div class="main_box quick-view-overlay">
+<div class="box_1">
+<div class="product-image">
+<a href="/collections/cats/products/royal-canin-health-nutrition-instinctive-in-jelly-85g"><img alt="Royal Canin Health Nutrition Instinctive in Jelly " src="//portopets.co.uk/cdn/shop/products/Royal_Canin_-_Instintive_Jelly_800x.jpg?v=1531518657"/></a>
+</div>
+<div class="overlay hidden-sm hidden-xs">
+<a class="absolute-pos popup-text quick-view-btn btn_c cart_btn_1" data-effect="mfp-move-from-top" data-placement="top" data-toggle="tooltip" href="#qv--collections-cats-products-royal-canin-health-nutrition-instinctive-in-jelly-85g" title="Quick View">Quick View</a>
+<a class="overlay-second-link" href="/collections/cats/products/royal-canin-health-nutrition-instinctive-in-jelly-85g"></a>
+</div>
+</div>
+<div class="desc">
+<h5><a href="/collections/cats/products/royal-canin-health-nutrition-instinctive-in-jelly-85g">Royal Canin - Health Nutrition Instinctive in Jelly (85g)</a></h5>
+<p>Wet Food</p>
+<div class="price"><span class="money"> £1.20 </span></div>
+</div>
+<div class="mfp-with-anim mfp-hide mfp-dialog mfp-dialog-big clearfix quick-view-panel" data-id="1365782495341" data-name="product_royal_canin_health_nutrition_instinctive_in_jelly_85g" id="qv--collections-cats-products-royal-canin-health-nutrition-instinctive-in-jelly-85g">
+<div class="data-qvp">{"id":1365782495341,"title":"Royal Canin - Health Nutrition Instinctive in Jelly (85g)","handle":"royal-canin-health-nutrition-instinctive-in-jelly-85g","description":"\u003cspan style=\"color: #000000;\"\u003eComplete feed for adult cats. Formulated to match the optimal nutritional profile instinctively preferred by adult cats.\u003c\/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHealthy urinary system - Helps promote a healthy urinary system.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHelps maintain ideal weight\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eIngredients: \u003c\/strong\u003emeat and animal derivatives, vegetable protein extracts, oils and fats, derivatives of vegetable origin, minerals, various sugars.\u003c\/span\u003e","published_at":"2018-07-13T22:47:02+01:00","created_at":"2018-07-13T22:50:54+01:00","vendor":"Royal Canin","type":"Wet Food","tags":["Brand_Royal Canin","Category_Wet Food","Pet_Cats"],"price":120,"price_min":120,"price_max":120,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12417849753709,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Royal Canin - Health Nutrition Instinctive in Jelly (85g)","public_title":null,"options":["Default Title"],"price":120,"weight":85,"compare_at_price":null,"inventory_quantity":123,"inventory_management":"shopify","inventory_policy":"deny","barcode":"9003579309513","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_-_Instintive_Jelly.jpg?v=1531518657"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_-_Instintive_Jelly.jpg?v=1531518657","options":["Title"],"media":[{"alt":"Royal Canin Health Nutrition Instinctive in Jelly ","id":1055697371245,"position":1,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_-_Instintive_Jelly.jpg?v=1531518657"},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_-_Instintive_Jelly.jpg?v=1531518657","width":500}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cspan style=\"color: #000000;\"\u003eComplete feed for adult cats. Formulated to match the optimal nutritional profile instinctively preferred by adult cats.\u003c\/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHealthy urinary system - Helps promote a healthy urinary system.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHelps maintain ideal weight\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eIngredients: \u003c\/strong\u003emeat and animal derivatives, vegetable protein extracts, oils and fats, derivatives of vegetable origin, minerals, various sugars.\u003c\/span\u003e"}</div>
+<div class="row">
+<div class="col-md-7">
+<div class="slider_1 clearfix">
+<div class="slides"><img alt="Royal Canin Health Nutrition Instinctive in Jelly " src="//portopets.co.uk/cdn/shop/products/Royal_Canin_-_Instintive_Jelly_1024x.jpg?v=1531518657"/></div>
+</div>
+</div>
+<div class="col-md-5">
+<h3>Royal Canin - Health Nutrition Instinctive in Jelly (85g)</h3>
+<p class="product-info-price mb20 mt10"><span class="money" id="productPrice">£1.20</span></p>
+<p class="text-smaller text-muted">Complete feed for adult cats. Formulated to match the optimal nutritional profile instinctively preferred by adult cats.
+
+Healthy urinary system - Helps promote a healthy urinary system.
+Helps maintain ideal weight
+
+Ingredients: meat and animal derivatives, vegetable protein extracts, oils and fats, derivatives of vegetable origin, minerals, var...</p>
+<form action="/cart/add" class="form-add-to-cart form-horizontal" enctype="multipart/form-data" id="form--collections-cats-products-royal-canin-health-nutrition-instinctive-in-jelly-85g" method="post">
+<input id="product-select-1365782495341" name="id" type="hidden" value="12417849753709">
+<hr/>
+<input class="modal-button" id="addToCart" name="add" type="submit" value="Add to Cart"/>
+<a class="modal-button2" href="/collections/cats/products/royal-canin-health-nutrition-instinctive-in-jelly-85g">More Info</a>
+</input></form>
+</div>
+</div>
+</div>
+<script>
+  $(function() {
+    if(typeof app.selectCallback !== 'undefined'){ // make sure the app callback is available
+
+      // get ID string
+      var qvpID = 'qv--collections-cats-products-royal-canin-health-nutrition-instinctive-in-jelly-85g';
+
+      // find the element with the matching string in the DOM
+      var singleQuickViewPanel = $('#'+qvpID);
+
+      // double check that we are not loading a double up
+      if(singleQuickViewPanel.length === 1 && typeof singleQuickViewPanel.data('processed') === 'undefined'){
+
+        // set the panel as processed, so we don't do it again
+        singleQuickViewPanel.data('processed',true);
+
+        // push the date for this product to our global object
+        app.data.product_royal_canin_health_nutrition_instinctive_in_jelly_85g = {"id":1365782495341,"title":"Royal Canin - Health Nutrition Instinctive in Jelly (85g)","handle":"royal-canin-health-nutrition-instinctive-in-jelly-85g","description":"\u003cspan style=\"color: #000000;\"\u003eComplete feed for adult cats. Formulated to match the optimal nutritional profile instinctively preferred by adult cats.\u003c\/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHealthy urinary system - Helps promote a healthy urinary system.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHelps maintain ideal weight\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eIngredients: \u003c\/strong\u003emeat and animal derivatives, vegetable protein extracts, oils and fats, derivatives of vegetable origin, minerals, various sugars.\u003c\/span\u003e","published_at":"2018-07-13T22:47:02+01:00","created_at":"2018-07-13T22:50:54+01:00","vendor":"Royal Canin","type":"Wet Food","tags":["Brand_Royal Canin","Category_Wet Food","Pet_Cats"],"price":120,"price_min":120,"price_max":120,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":12417849753709,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Royal Canin - Health Nutrition Instinctive in Jelly (85g)","public_title":null,"options":["Default Title"],"price":120,"weight":85,"compare_at_price":null,"inventory_quantity":123,"inventory_management":"shopify","inventory_policy":"deny","barcode":"9003579309513","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_-_Instintive_Jelly.jpg?v=1531518657"],"featured_image":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_-_Instintive_Jelly.jpg?v=1531518657","options":["Title"],"media":[{"alt":"Royal Canin Health Nutrition Instinctive in Jelly ","id":1055697371245,"position":1,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_-_Instintive_Jelly.jpg?v=1531518657"},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"\/\/portopets.co.uk\/cdn\/shop\/products\/Royal_Canin_-_Instintive_Jelly.jpg?v=1531518657","width":500}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cspan style=\"color: #000000;\"\u003eComplete feed for adult cats. Formulated to match the optimal nutritional profile instinctively preferred by adult cats.\u003c\/span\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHealthy urinary system - Helps promote a healthy urinary system.\u003c\/span\u003e\u003c\/li\u003e\n\u003cli\u003e\u003cspan style=\"color: #000000;\"\u003eHelps maintain ideal weight\u003c\/span\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cspan style=\"color: #000000;\"\u003e\u003cstrong\u003eIngredients: \u003c\/strong\u003emeat and animal derivatives, vegetable protein extracts, oils and fats, derivatives of vegetable origin, minerals, various sugars.\u003c\/span\u003e"};
+
+        $(".quick-view-selector-1365782495341").on("change", function(){
+          var $form = $(this).closest("form"),
+          productVariantObj = [{"id":12417849753709,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Royal Canin - Health Nutrition Instinctive in Jelly (85g)","public_title":null,"options":["Default Title"],"price":120,"weight":85,"compare_at_price":null,"inventory_quantity":123,"inventory_management":"shopify","inventory_policy":"deny","barcode":"9003579309513","requires_selling_plan":false,"selling_plan_allocations":[]}];
+
+        var option1 = $form.find("#SingleOptionSelector-0").val() || null,
+            option2 = $form.find("#SingleOptionSelector-1").val() || null,
+            option3 = $form.find("#SingleOptionSelector-2").val() || null,
+            flag = true;
+        for (var i=0,length=productVariantObj.length; i<length; i++) {
+          var productVar = productVariantObj[i];
+          if(option1==productVar.option1 && option2==productVar.option2 && option3==productVar.option3){
+            flag = false;
+            $('#product-select-1365782495341' ).val(productVar.id);
+              app.selectCallback(productVar, 1365782495341);
+            break;
+          }
+        }
+        if(flag){
+          app.selectCallback(null, 1365782495341);
+                             }
+
+                             });
+
+          // BEGIN SWATCHES
+
+          var indexArray=[];
+          var productVariantOptions = [{"id":12417849753709,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Royal Canin - Health Nutrition Instinctive in Jelly (85g)","public_title":null,"options":["Default Title"],"price":120,"weight":85,"compare_at_price":null,"inventory_quantity":123,"inventory_management":"shopify","inventory_policy":"deny","barcode":"9003579309513","requires_selling_plan":false,"selling_plan_allocations":[]}];
+          $("[data-id=1365782495341] .single-option-selector option:selected").each(function() {
+            indexArray.push($(this).index());
+        });
+        var form = jQuery('#product-select-1365782495341').closest('form');
+                          var variantIndex = jQuery('#product-select-1365782495341 option:selected').index(); 
+                          if(variantIndex>=0){      
+          var variant = productVariantOptions[variantIndex];                  
+          for (var i=0,length=variant.options.length; i<length; i++) {
+            var num = indexArray[i];
+            var radioButtonDiv = form.find('.swatch[data-option-index="' + i + '"] div.swatch-element')[num];
+            var radioButton = $(radioButtonDiv).find(":radio");
+            if (radioButton.size()) {
+              radioButton.get(0).checked = true;
+            }
+          }
+        }
+
+        // END SWATCHES
+
+
+        
+       	 singleQuickViewPanel.find('.selector-wrapper').addClass('hidden');
+        
+
+        // Auto-select first available variant on page load. Otherwise the product looks sold out.
+
+        
+        
+        
+        
+        
+        
+        singleQuickViewPanel.find('#qv--collections-cats-products-royal-canin-health-nutrition-instinctive-in-jelly-85g .quick-view-selector-1365782495341:eq(0)').val("Default Title").trigger('change');
+        
+        
+        
+        
+      }
+    }
+  });
+</script>
+</div>
+</div>, 'name': 'Royal Canin - Health Nutrition Instinctive in Jelly (85g)', 'price': ' £1.20 '}
