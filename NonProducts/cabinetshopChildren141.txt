@@ -1,0 +1,21 @@
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="https://thecabinetshop.co.uk/pages/mdfconstruction">
+                                                    MDF Range
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/melamine-construction">
+                                                    Colours Melamine Range
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/lux-supermatt-construction">
+                                                    LUXE supermatt Range
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/face-frames">
+                                                    What is a face-frame?
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/door-styles">
+                                                    Door Styles
+                                                  </a>
+</li></ul>

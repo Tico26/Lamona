@@ -1,0 +1,33 @@
+<div class="nav-secondary-links py-lg-4 py-lg-3 pb-lg-5 px-lg-2">
+<div class="nav-secondary-links__header font-brand-light h6 text-uppercase text-left font-weight-bold d-none">
+                                                        Shop by Size
+                                                    </div>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-14">
+Size 14                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-16">
+Size 16                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-18">
+Size 18                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-20">
+Size 20                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-22">
+Size 22                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-24">
+Size 24                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-26">
+Size 26                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-28">
+Size 28                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-30">
+Size 30                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-32">
+Size 32                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-34">
+Size 34                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-36">
+Size 36                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-38">
+Size 38                                                    </a>
+<a class="btn w-100 text-left btn-sm d-none" href="/loungewear/size-40">
+Size 40                                                    </a>
+</div>

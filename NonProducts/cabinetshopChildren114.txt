@@ -1,0 +1,20 @@
+<div class="menu-drawer__inner-submenu">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                  Shop by room
+                                </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li><a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/all-cabinets?gf_509712=Room_Living+Room">
+                                          Living Room
+                                        </a></li><li><a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/all-cabinets?gf_509712=Room_Bedroom">
+                                          Bedroom
+                                        </a></li><li><a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/all-cabinets?gf_509712=Room_Kitchen">
+                                          Kitchen
+                                        </a></li><li><a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/all-cabinets?gf_509712=Room_Bathroom">
+                                          Bathroom
+                                        </a></li><li><a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/all-cabinets?gf_509712=Room_Office">
+                                          Office
+                                        </a></li><li><a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/all-cabinets?gf_509712=Room_Utility">
+                                          Utility
+                                        </a></li></ul>
+</div>

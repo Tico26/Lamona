@@ -1,0 +1,65 @@
+<li><details id="Details-menu-drawer-scooters-complete-scooters">
+<summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset" id="HeaderDrawer-scooters-complete-scooters">
+                                      Complete Scooters
+                                      
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="childlink-complete-scooters">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                        Complete Scooters
+                                      </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1">
+<li>
+<a aria-current="page" class="menu-drawer__menu-item link link--text list-menu__item focus-inset menu-drawer__menu-item--active" href="/collections/scooters" id="HeaderDrawer-scooters-complete-scooters-all-scooters">
+                                              ALL Scooters
+                                            </a>
+</li>
+<li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/stunt-scooters" id="HeaderDrawer-scooters-complete-scooters-stunt-scooters">
+                                              Stunt Scooters
+                                            </a>
+</li>
+<li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/foldable-scooters" id="HeaderDrawer-scooters-complete-scooters-foldable-scooters">
+                                              Foldable Scooters
+                                            </a>
+</li>
+<li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/neochrome-scooters-and-parts" id="HeaderDrawer-scooters-complete-scooters-neochrome-scooters">
+                                              Neochrome Scooters
+                                            </a>
+</li>
+<li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/kids-mini-stunt-scooters" id="HeaderDrawer-scooters-complete-scooters-mini-stunt-scooters">
+                                              Mini Stunt Scooters
+                                            </a>
+</li>
+<li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/toddler-scooters" id="HeaderDrawer-scooters-complete-scooters-toddler-scooters">
+                                              Toddler Scooters
+                                            </a>
+</li>
+<li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/trampoline-indoor-scooters" id="HeaderDrawer-scooters-complete-scooters-trampoline-indoor-scooters">
+                                              Trampoline Indoor Scooters
+                                            </a>
+</li>
+<li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/commuter-scooters" id="HeaderDrawer-scooters-complete-scooters-commuter-scooters">
+                                              Commuter Scooters
+                                            </a>
+</li>
+<li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/scissor-scooters" id="HeaderDrawer-scooters-complete-scooters-scissor-scooters">
+                                              Scissor Scooters
+                                            </a>
+</li>
+<li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="https://www.skates.co.uk/collections/finger-toys" id="HeaderDrawer-scooters-complete-scooters-finger-scooters">
+                                              Finger Scooters
+                                            </a>
+</li></ul>
+</div>
+</details></li>

@@ -1,0 +1,86 @@
+<div data-appearance="default" data-content-type="html" data-decoded="true" data-element="main"><div class="row">
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Laptop Types">Type</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/home-laptops" title="Home Laptops">Home / Everyday</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/business-laptops" title="Business Laptops">Business</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/gaming-laptops" title="Gaming Laptops">Gaming</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/chromebook-laptops" title="Chromebook Laptops">Chromebooks</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/2-in-1-laptops" title="2 in 1 Laptops">2 in 1s</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a href="https://www.tekshop.co.uk/brands-all" title="Laptop Brands">Brand</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/acer-laptops" title="Acer Laptops">Acer</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/asus-laptops" title="ASUS Laptops">ASUS</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/dell-laptops" title="Dell Laptops">Dell</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/hp-laptops" title="HP Laptops">HP</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/lenovo-laptops" title="Lenovo Laptops">Lenovo</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/razer-laptops" title="Razer Laptops">Razer</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/huawei-laptops" title="Huawei Laptops">Huawei</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/msi-laptops" title="MSI Laptops">MSI</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Laptop By Grade">Grade</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/brand-new-laptops" title="Brand New Laptops">Brand New</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/open-box-as-new" title="Open Box Laptops">Open Box</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/refurbished-laptops" title="All Refurbished Laptops">All Refurbished</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/grade-a-refurbished" title="Grade A Refurbished Laptops">Grade A Refurbished</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/grade-b-refurbished" title="Grade B Refurbished Laptops">Grade B Refurbished</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Laptops By Screen Size">Screen Size</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/11-inch-laptops" title="10 - 12 Inch Laptops">10 - 12.9"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/13-inch-laptops" title="13 Inch Laptops">13 - 13.9"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/14-inch-laptops" title="14 Inch Laptops">14 - 14.9"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/15-inch-laptops" title="15 Inch Laptops">15 - 15.9"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/17-inch-laptops" title="17 Inch Laptops">17 - 17.9"</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Laptops By CPU">Processor</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/amd-laptops" title="AMD Laptops">AMD</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/intel-laptops" title="Intel Laptops">Intel</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Laptops By GPU">Graphics Card</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/nvidia-laptops" title="NVIDIA Laptops">NVIDIA</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-gtx-series-laptops" title="NVIDIA GTX Laptops">- GTX</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-rtx-30-series-laptops" title="NVIDIA RTX 30 Series Laptops">- RTX 3000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-rtx-40-series-laptops" title="NVIDIA RTX 40 Series Laptops">- RTX 4000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/amd-gpu-laptops" title="AMD GPU Laptops">AMD</a>
+</nav>
+</div>
+</div>
+</div></div>

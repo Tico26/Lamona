@@ -1,0 +1,11 @@
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Desktops By Type">Type</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/home-pcs" title="Home PCs">Home / Everyday</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/business-pcs" title="Business PCs">Business</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/gaming-pcs" title="Gaming PCs">Gaming</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/all-in-one-pcs" title="AIO PCs">All-In-One (AIO)</a>
+</nav>
+</div>

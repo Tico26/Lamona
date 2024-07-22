@@ -1,0 +1,13 @@
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/cut-to-size-panels">
+                                                    Cut-to-Size Panels
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/bespoke-doors">
+                                                    Made-to-Measure Doors
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/floating-shelf">
+                                                    Floating Alcove Shelves
+                                                  </a>
+</li></ul>

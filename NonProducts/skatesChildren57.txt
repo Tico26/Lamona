@@ -1,0 +1,8 @@
+<div class="cart__ctas">
+
+<button class="cart__checkout-button hover:!tw-bg-[#3c6d2b] tw-transition-all button" disabled="" form="CartDrawer-Form" id="CartDrawer-Checkout" name="checkout" type="submit">
+
+
+            Checkout
+          </button>
+</div>

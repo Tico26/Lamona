@@ -1,0 +1,3 @@
+<a class="disclosure-list__option disclosure-option-with-parts" data-disclosure-option="" data-value="WF" href="#">
+<span class="disclosure-option-with-parts__part">Wallis &amp; Futuna</span> <span class="disclosure-option-with-parts__part">(XPF Fr)</span>
+</a>

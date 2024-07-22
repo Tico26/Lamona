@@ -1,0 +1,1 @@
+<img class="img-fluid" src="https://www.rollerblade.com/assets/img/2021/filter-empty.svg"/>

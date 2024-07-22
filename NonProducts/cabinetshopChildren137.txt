@@ -1,0 +1,35 @@
+<details id="Details-menu-drawer-submenu-1">
+<summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Cabinet Manufacture Details
+                                            
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="childlink-Cabinet Manufacture Details">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                              Cabinet Manufacture Details
+                                            </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="https://thecabinetshop.co.uk/pages/mdfconstruction">
+                                                    MDF Range
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/melamine-construction">
+                                                    Colours Melamine Range
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/lux-supermatt-construction">
+                                                    LUXE supermatt Range
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/face-frames">
+                                                    What is a face-frame?
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/door-styles">
+                                                    Door Styles
+                                                  </a>
+</li></ul>
+</div>
+</details>

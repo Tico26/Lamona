@@ -1,0 +1,20 @@
+<ul class="sub-nav-list">
+<li class="sub-nav-item">
+<a href="#"><span class="sub-nav-item-title">By Heel Height</span></a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/collections/heels?filter.p.m.my_fields.heel_height_group=Low+Heel+%280%22+-+2%22%29">
+<span class="sub-nav-item-link-title">Low Heels</span>
+</a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/collections/heels?filter.p.m.my_fields.heel_height_group=Medium+Heel+%282%22+-+3%22%29">
+<span class="sub-nav-item-link-title">Medium Heels</span>
+</a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/collections/heels?filter.p.m.my_fields.heel_height_group=High+Heel+%283%22%2B%29">
+<span class="sub-nav-item-link-title">High Heels</span>
+</a>
+</li>
+</ul>

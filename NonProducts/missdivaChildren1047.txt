@@ -1,0 +1,3 @@
+<a class="main-search__results-close-link btn alt outline" href="#">
+              Close
+            </a>

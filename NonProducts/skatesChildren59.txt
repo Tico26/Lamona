@@ -1,0 +1,3 @@
+<div class="additional-checkout-buttons">
+<div class="dynamic-checkout__content" data-shopify="dynamic-checkout-cart" id="dynamic-checkout-cart"></div>
+</div>

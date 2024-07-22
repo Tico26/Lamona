@@ -1,0 +1,81 @@
+<div class="container">
+<li>
+                            PC Components                                                            <div data-appearance="default" data-content-type="html" data-decoded="true" data-element="main"><div class="row">
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Processors">Processors</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/processors/intel" title="Intel Processors">Intel</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/processors/amd" title="AMD Processors">AMD</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Processor Cooling Solutions">Processor Cooling</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/cpu-coolers/water-cooling" title="CPU Water Coolers">Water Cooling</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/cpu-coolers/air-cooling" title="CPU Air Coolers">Air Cooling</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Desktop Power Supplies">Power Supplies</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/power-supplies/above-500w" title="Above 500W Power Supplies">Above 500W</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/power-supplies/below-500w" title="Under 500W Supplies">Below 500W</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/power-supplies/gaming-psus" title="Gaming Power Supplies">Gaming PSUs</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="PC Storage">Storage (SSD/HDD)</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/ssds" title="SSD Storage">SSD</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/m-2-drives" title="M.2 SSDs">- M.2</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/sata-ssds" title="SATA SSDs">- SATA</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/hdds" title="HDD Storage">HDD</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/hdds/2-5-hdds" title='2.5" HDDs'>- 2.5"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/hdds/3-5-hdds" title='3.5" HDDs'>- 3.5"</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Components By Grade">Grade</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/brand-new" title="Brand New PC Components">Brand New</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/refurbished" title="Refurbished PC Components">Refurbished</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="PC Graphics Cards">Graphics Card</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/gpus/nvidia" title="NVIDIA GPUs">NVIDIA</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/gpus/nvidia/gtx-series" title="NVIDIA GTX Series GPUs">- GTX</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-20-series" title="NVIDIA RTX 2000 Series GPUs">- RTX 2000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-30-series" title="NVIDIA RTX 3000 Series GPUs">- RTX 3000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-40-series" title="NVIDIA RTX 4000 Series GPUs">- RTX 4000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/gpus/amd" title="AMD GPUs">AMD</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/gpus/amd/amd-rx-70-series" title="AMD RX 7000 Series GPUs">- RX 7000</a>
+</nav>
+</div>
+</div>
+</div></div> </li>
+</div>

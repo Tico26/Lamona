@@ -1,0 +1,10 @@
+<a class="sub-nav-item-link" href="/collections/new-in">
+<div class="sub-nav-item-image"><div class="rimage-outer-wrapper" style="max-width: 1242px">
+<div class="rimage-wrapper lazyload--placeholder" style="padding-top:123.91304347826086%">
+<img alt="" class="rimage__image" data-lazy-src="//missdiva.co.uk/cdn/shop/files/IMG_4309_{width}x.jpg?v=1708277307" height="1539" loading="lazy" style="object-position: 50.0% 50.0%" width="1242"/>
+
+</div>
+</div>
+</div>
+<div class="sub-nav-item-image-title"></div>
+</a>

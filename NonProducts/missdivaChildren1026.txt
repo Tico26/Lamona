@@ -1,0 +1,9 @@
+<div class="toolbar-logo toolbar-logo--large">
+<div class="logo align-center">
+
+<a href="/" itemprop="url">
+<img alt="" class="logo-desktop" height="179" itemprop="logo" src="//missdiva.co.uk/cdn/shop/files/MD_LOGO_320x.svg?v=1704970489" width="890"/>
+<img alt="" class="logo-mobile" height="179" src="//missdiva.co.uk/cdn/shop/files/MD_LOGO_BEIGE_320x.svg?v=1708362744" width="890"/>
+</a>
+</div>
+</div>

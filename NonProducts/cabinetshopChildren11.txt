@@ -1,0 +1,12 @@
+<link href="//thecabinetshop.co.uk/cdn/shop/t/18/assets/base.css?v=163625806595264365201662721165" media="all" rel="stylesheet" type="text/css">
+<link as="font" crossorigin="" href="//thecabinetshop.co.uk/cdn/fonts/montserrat/montserrat_n4.1d581f6d4bf1a97f4cbc0b88b933bc136d38d178.woff2?h1=dGhlY2FiaW5ldHNob3AuY28udWs&amp;h2=bWFya25pY2hvbHN0aGVjYWJpbmV0c2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&amp;hmac=40b940cb0e064f86c6c1abfda3aa522e18b4aae2a76dcc8406ab44f95a1265cb" rel="preload" type="font/woff2"/><link as="font" crossorigin="" href="//thecabinetshop.co.uk/cdn/fonts/montserrat/montserrat_n4.1d581f6d4bf1a97f4cbc0b88b933bc136d38d178.woff2?h1=dGhlY2FiaW5ldHNob3AuY28udWs&amp;h2=bWFya25pY2hvbHN0aGVjYWJpbmV0c2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&amp;hmac=40b940cb0e064f86c6c1abfda3aa522e18b4aae2a76dcc8406ab44f95a1265cb" rel="preload" type="font/woff2"/><link href="//thecabinetshop.co.uk/cdn/shop/t/18/assets/component-predictive-search.css?v=165644661289088488651657786493" media="print" onload="this.media='all'" rel="stylesheet"/>
+
+<!-- BEGIN app block: shopify://apps/smart-product-filter-search/blocks/app-embed/5cc1944c-3014-4a2a-af40-7d65abc0ef73 --><link href="https://filter-eu.globosoftware.net" rel="preconnect">
+<link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.js" rel="preload"/>
+<link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.759.min.js" rel="preload"/>
+<link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.filter.min.js" rel="preload"/>
+<link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.index.min.js" rel="preload"/>
+<link href="//cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.css" media="all" rel="stylesheet" type="text/css">
+<link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.search.min.js" rel="preload"/>
+<link href="//cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.search.css" media="all" rel="stylesheet" type="text/css">
+</link></link></link></link>

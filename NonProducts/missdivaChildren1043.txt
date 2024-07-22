@@ -1,0 +1,9 @@
+<div class="main_search__popup">
+<div class="main-search__results"></div>
+<div class="main-search__footer-buttons">
+<div class="all-results-container"></div>
+<a class="main-search__results-close-link btn alt outline" href="#">
+              Close
+            </a>
+</div>
+</div>

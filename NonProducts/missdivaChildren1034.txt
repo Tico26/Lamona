@@ -1,0 +1,1 @@
+<div class="hidden-search-container__veil"></div>

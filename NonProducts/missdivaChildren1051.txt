@@ -1,0 +1,3 @@
+<span class="current-cart-icon current-cart-icon--basket2">
+
+</span>

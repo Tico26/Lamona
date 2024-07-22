@@ -1,0 +1,2 @@
+<link href="//cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.search.css" media="all" rel="stylesheet" type="text/css">
+</link>

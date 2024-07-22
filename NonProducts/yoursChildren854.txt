@@ -1,0 +1,5 @@
+<div class="nav-secondary-links py-lg-4 py-lg-3 pb-lg-5 px-lg-2">
+<a class="btn w-100 text-left btn-sm" href="/nightwear">
+<img alt="image" class="lazyload img-fade img-fluid img-center d-none d-lg-block" data-src="https://content.yoursclothing.com/nav/14/232b880d_nightwear.jpg" intrinsicsize="0x0"/>
+</a>
+</div>

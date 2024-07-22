@@ -1,0 +1,1 @@
+<link as="font" crossorigin="" href="//thecabinetshop.co.uk/cdn/fonts/montserrat/montserrat_n4.1d581f6d4bf1a97f4cbc0b88b933bc136d38d178.woff2?h1=dGhlY2FiaW5ldHNob3AuY28udWs&amp;h2=bWFya25pY2hvbHN0aGVjYWJpbmV0c2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&amp;hmac=40b940cb0e064f86c6c1abfda3aa522e18b4aae2a76dcc8406ab44f95a1265cb" rel="preload" type="font/woff2"/>

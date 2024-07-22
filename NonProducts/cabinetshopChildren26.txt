@@ -1,0 +1,1 @@
+<div aria-label="Announcement" class="announcement-bar color-accent-1 gradient" role="region"></div>

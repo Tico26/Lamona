@@ -1,0 +1,8 @@
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/acer-pcs" title="Acer PCs">Acer</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/asus-pcs" title="ASUS PCs">Asus</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/dell-pcs" title="Dell PCs">Dell</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/hp-pcs" title="HP PCs">HP</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/lenovo-pcs" title="Lenovo PCs">Lenovo</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/msi-pcs" title="MSI PCs">MSI</a>
+</nav>

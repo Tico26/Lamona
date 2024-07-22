@@ -1,0 +1,52 @@
+<link href="/collections/scooters.atom" rel="alternate" title="Feed" type="application/atom+xml">
+<link href="/collections/scooters?page=2" rel="next"/>
+<link href="https://www.skates.co.uk/collections/scooters.oembed" rel="alternate" type="application/json+oembed"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="//www.skates.co.uk/cdn/shop/t/1/assets/base.css?v=73591094356908372941718617958" media="all" rel="stylesheet" type="text/css">
+<link href="//www.skates.co.uk/cdn/shop/t/1/assets/component-predictive-search.css?v=161111547572434404041715329715" media="all" rel="stylesheet" type="text/css">
+<link href="//www.skates.co.uk/cdn/shop/t/1/assets/sp-main.css?v=4406031796827084571716304456" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+<!-- SlideRule Script Start -->
+
+
+<!-- SlideRule Script End -->
+
+
+<!-- CHEQ INVOCATION TAG -->
+
+<!-- END CHEQ INVOCATION TAG -->
+<!-- BEGIN app block: shopify://apps/smart-product-filter-search/blocks/app-embed/5cc1944c-3014-4a2a-af40-7d65abc0ef73 --><link href="https://filter-en.globosoftware.net" rel="preconnect"/>
+<link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.js" rel="preload"/>
+<link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.759.min.js" rel="preload"/>
+<link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.filter.min.js" rel="preload"/>
+<link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.index.min.js" rel="preload"/>
+<link href="//cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.css" media="all" rel="stylesheet" type="text/css">
+<link href="//cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.slider.css" media="all" rel="stylesheet" type="text/css"><link as="script" href="https://cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.filter.search.min.js" rel="preload"/>
+<link href="//cdn.shopify.com/extensions/13218fdc-f3df-472c-bcb8-b7148967dff0/smart-product-filter-search-161/assets/globo.search.css" media="all" rel="stylesheet" type="text/css">
+</link></link></link></link></link></link>

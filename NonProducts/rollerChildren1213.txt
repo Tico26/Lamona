@@ -1,0 +1,20 @@
+<div class="row m-auto" id="filtri_prezzo">
+<div class="col-6 col-lg-4 p-0 sel">
+<a class="a-filters-price-selected" href="https://www.rollerblade.com/uk/en/all?">ALL</a>
+</div>
+<div class="col-6 col-lg-4 p-0">
+<a class="a-filters-price" href="https://www.rollerblade.com/uk/en/all?price=0-100">&lt; £ 100</a>
+</div>
+<div class="col-6 col-lg-4 p-0">
+<a class="a-filters-price" href="https://www.rollerblade.com/uk/en/all?price=100-150">£100 - 150</a>
+</div>
+<div class="col-6 col-lg-4 p-0">
+<a class="a-filters-price" href="https://www.rollerblade.com/uk/en/all?price=150-200">£ 150 - 200</a>
+</div>
+<div class="col-6 col-lg-4 p-0">
+<a class="a-filters-price" href="https://www.rollerblade.com/uk/en/all?price=200-300">£ 200 - 300</a>
+</div>
+<div class="col-6 col-lg-4 p-0">
+<a class="a-filters-price" href="https://www.rollerblade.com/uk/en/all?price=300%2B">&gt; £ 300</a>
+</div>
+</div>

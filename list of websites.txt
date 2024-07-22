@@ -1,18 +1,21 @@
-Missdiva:180 items 
+Missdiva:180 items - clothes
 https://missdiva.co.uk/collections/heels
 
-Yours-Clothing: 180 items
+Yours-Clothing: 180 items - clothes
 https://www.yoursclothing.co.uk/collections/crops-shorts
 
-Rollerblade: 61 items
+Rollerblade: 61 items - skates
 https://www.rollerblade.com/uk/en/all
 
-Cabinet-shop: 119 items
+Cabinet-shop: 119 items - furniture
 https://thecabinetshop.co.uk/collections/all-cabinets
 
-Portobello-Cats: - 174 items 
-https://portopets.co.uk/collections/cats?page=2
+Portobello-Cats: - 174 items - petshop
+https://portopets.co.uk/collections/cats
 
-Tekshop: 180 items
+Tekshop: 180 items - electronics
 https://www.tekshop.co.uk/laptops/home-laptops?p=11
 
+
+Skates: 132 items - scooters
+https://www.skates.co.uk/collections/scooters

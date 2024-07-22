@@ -1,0 +1,49 @@
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/bookcases">
+                                                    Bookcases
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/mdf-storage-boxes">
+                                                    Boxes
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/cabinet-carcasses">
+                                                    Carcasses
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/cupboards">
+                                                    Cupboards
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/desks">
+                                                    Desks
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/drawers">
+                                                    Drawers
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/mdf-dressers">
+                                                    Dressers
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/meter-box-cupboards">
+                                                    Meter Box Cupboards
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/modular-dressers">
+                                                    Modular Media Units
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/tv-stands">
+                                                    TV Stands
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/coloured-wall-units">
+                                                    Wall Units
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/wardrobes">
+                                                    Wardrobes
+                                                  </a>
+</li></ul>

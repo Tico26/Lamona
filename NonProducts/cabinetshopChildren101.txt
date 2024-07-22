@@ -1,0 +1,17 @@
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/110-cupboard-door-hinge-with-euro-screws">
+                                                    Hinges
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/shelf-supports-pins-o5-mm">
+                                                    Shelf Pins
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/suspense-shelf">
+                                                    Shelf Brackets
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/j-wall-hooks">
+                                                    Wall Hooks
+                                                  </a>
+</li></ul>

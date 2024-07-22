@@ -1,0 +1,7 @@
+<a href="/wide-fit-shoes">
+<header class="card card--category-intro border-0 rounded-0 d-lg-none">
+<div class="btn btn-sm m-1 position-absolute js-close-parent-menu-panel">
+<img alt="Back" class="lazyload img-fade img-fluid img-center" data-src="/content/img/icons/svg/icon-arrow-left.svg" height="20" intrinsicsize="20x20" width="20"/>
+</div>
+</header>
+</a>

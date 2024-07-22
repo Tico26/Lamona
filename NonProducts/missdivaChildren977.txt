@@ -1,0 +1,3 @@
+<a class="disclosure-list__option disclosure-option-with-parts" data-disclosure-option="" data-value="VU" href="#">
+<span class="disclosure-option-with-parts__part">Vanuatu</span> <span class="disclosure-option-with-parts__part">(VUV Vt)</span>
+</a>

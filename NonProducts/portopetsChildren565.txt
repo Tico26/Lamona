@@ -1,0 +1,5 @@
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/power-supplies/above-500w" title="Above 500W Power Supplies">Above 500W</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/power-supplies/below-500w" title="Under 500W Supplies">Below 500W</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/power-supplies/gaming-psus" title="Gaming Power Supplies">Gaming PSUs</a>
+</nav>

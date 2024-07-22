@@ -1,0 +1,12 @@
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Laptops By GPU">Graphics Card</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/nvidia-laptops" title="NVIDIA Laptops">NVIDIA</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-gtx-series-laptops" title="NVIDIA GTX Laptops">- GTX</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-rtx-30-series-laptops" title="NVIDIA RTX 30 Series Laptops">- RTX 3000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-rtx-40-series-laptops" title="NVIDIA RTX 40 Series Laptops">- RTX 4000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/amd-gpu-laptops" title="AMD GPU Laptops">AMD</a>
+</nav>
+</div>

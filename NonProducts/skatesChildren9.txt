@@ -1,0 +1,1 @@
+<link href="https://www.skates.co.uk/collections/scooters.oembed" rel="alternate" type="application/json+oembed"/>

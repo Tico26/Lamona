@@ -1,0 +1,13 @@
+<div class="cart-drawer__warnings center">
+<div class="cart-drawer__empty-content">
+<h2 class="cart__empty-text">Your cart is empty</h2>
+<button aria-label="Close" class="drawer__close" onclick="this.closest('cart-drawer').close()" type="button">
+
+</button>
+<a class="button" href="/collections/all">
+                Continue shopping
+              </a><p class="cart__login-title h3">Have an account?</p>
+<p class="cart__login-paragraph">
+<a class="link underlined-link" href="/account/login">Log in</a> to check out faster.
+                </p></div>
+</div>

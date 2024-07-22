@@ -1,0 +1,5 @@
+<div class="drawer__contents js-contents" id="CartDrawer-CartItems"><p class="visually-hidden" id="CartDrawer-LiveRegionText" role="status"></p>
+<p aria-hidden="true" class="visually-hidden" id="CartDrawer-LineItemStatus" role="status">
+              Loading...
+            </p>
+</div>

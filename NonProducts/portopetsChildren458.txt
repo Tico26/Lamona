@@ -1,0 +1,9 @@
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Laptops By CPU">Processor</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/amd-laptops" title="AMD Laptops">AMD</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/intel-laptops" title="Intel Laptops">Intel</a>
+</nav>
+</div>

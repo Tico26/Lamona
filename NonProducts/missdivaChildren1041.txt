@@ -1,0 +1,1 @@
+<input aria-label="Search Store" autocomplete="off" class="main-search__input" name="q" placeholder="Search..." type="text" value=""/>

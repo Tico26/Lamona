@@ -1,0 +1,1 @@
+<img alt="Back" class="lazyload img-fade img-fluid img-center" data-src="/content/img/icons/svg/icon-arrow-left.svg" height="20" intrinsicsize="20x20" width="20"/>

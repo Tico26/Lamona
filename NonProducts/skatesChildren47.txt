@@ -1,0 +1,3 @@
+<p aria-hidden="true" class="visually-hidden" id="CartDrawer-LineItemStatus" role="status">
+              Loading...
+            </p>

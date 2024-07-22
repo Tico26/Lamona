@@ -1,0 +1,1 @@
+<h2 class="cart__empty-text">Your cart is empty</h2>

@@ -1,0 +1,12 @@
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Laptop By Grade">Grade</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/brand-new-laptops" title="Brand New Laptops">Brand New</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/open-box-as-new" title="Open Box Laptops">Open Box</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/refurbished-laptops" title="All Refurbished Laptops">All Refurbished</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/grade-a-refurbished" title="Grade A Refurbished Laptops">Grade A Refurbished</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/grade-b-refurbished" title="Grade B Refurbished Laptops">Grade B Refurbished</a>
+</nav>
+</div>

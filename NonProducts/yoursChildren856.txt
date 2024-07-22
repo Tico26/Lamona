@@ -1,0 +1,1 @@
+<img alt="image" class="lazyload img-fade img-fluid img-center d-none d-lg-block" data-src="https://content.yoursclothing.com/nav/14/232b880d_nightwear.jpg" intrinsicsize="0x0"/>

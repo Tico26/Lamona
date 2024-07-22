@@ -1,0 +1,19 @@
+<div class="container sub-nav-links-column sub-nav-links-column--count-1 sub-nav-links-column--beside-1-images sub-nav-links-column--beside-images">
+<div class="sub-nav-links-column-grid-wrapper">
+<ul class="sub-nav-list">
+<li class="sub-nav-item">
+<a href="/collections/new-in"><span class="sub-nav-item-title">All New In</span></a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/new-in/shoes/">
+<span class="sub-nav-item-link-title">Shoes</span>
+</a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" data-img="//missdiva.co.uk/cdn/shop/files/08d3a851-988c-4b83-afac-7a227ff552c0_400x.jpg?v=1684425189" href="/collections/bags">
+<span class="sub-nav-item-link-title">Bags</span>
+</a>
+</li>
+</ul>
+</div>
+</div>

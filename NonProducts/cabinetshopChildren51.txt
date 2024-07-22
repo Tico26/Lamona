@@ -1,0 +1,126 @@
+<div class="menu-drawer__inner-submenu">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                  Shop by product
+                                </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li><details id="Details-menu-drawer-submenu-1">
+<summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Cabinets
+                                            
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="childlink-Cabinets">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                              Cabinets
+                                            </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/bookcases">
+                                                    Bookcases
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/mdf-storage-boxes">
+                                                    Boxes
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/cabinet-carcasses">
+                                                    Carcasses
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/cupboards">
+                                                    Cupboards
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/desks">
+                                                    Desks
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/drawers">
+                                                    Drawers
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/mdf-dressers">
+                                                    Dressers
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/meter-box-cupboards">
+                                                    Meter Box Cupboards
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/modular-dressers">
+                                                    Modular Media Units
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/tv-stands">
+                                                    TV Stands
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/coloured-wall-units">
+                                                    Wall Units
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/collections/wardrobes">
+                                                    Wardrobes
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id="Details-menu-drawer-submenu-2">
+<summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Doors, Shelves and Panels
+                                            
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="childlink-Doors, Shelves and Panels">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                              Doors, Shelves and Panels
+                                            </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/cut-to-size-panels">
+                                                    Cut-to-Size Panels
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/bespoke-doors">
+                                                    Made-to-Measure Doors
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/floating-shelf">
+                                                    Floating Alcove Shelves
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id="Details-menu-drawer-submenu-3">
+<summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Hardware
+                                            
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="childlink-Hardware">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                              Hardware
+                                            </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/110-cupboard-door-hinge-with-euro-screws">
+                                                    Hinges
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/shelf-supports-pins-o5-mm">
+                                                    Shelf Pins
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/suspense-shelf">
+                                                    Shelf Brackets
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/products/j-wall-hooks">
+                                                    Wall Hooks
+                                                  </a>
+</li></ul>
+</div>
+</details></li></ul>
+</div>

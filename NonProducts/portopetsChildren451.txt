@@ -1,0 +1,7 @@
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/11-inch-laptops" title="10 - 12 Inch Laptops">10 - 12.9"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/13-inch-laptops" title="13 Inch Laptops">13 - 13.9"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/14-inch-laptops" title="14 Inch Laptops">14 - 14.9"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/15-inch-laptops" title="15 Inch Laptops">15 - 15.9"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/17-inch-laptops" title="17 Inch Laptops">17 - 17.9"</a>
+</nav>

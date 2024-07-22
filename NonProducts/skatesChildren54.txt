@@ -1,0 +1,1 @@
+<p class="totals__total-value" data-hulkapps-cart-total="">£0.00 GBP</p>

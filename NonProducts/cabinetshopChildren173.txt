@@ -1,0 +1,3 @@
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="https://cdn.shopify.com/s/files/1/2983/8052/files/HINGE_FITTING_GUIDE_1.pdf?v=1622047540">
+                                                    Hinge Guide
+                                                  </a>

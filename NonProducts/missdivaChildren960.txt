@@ -1,0 +1,5 @@
+<li class="disclosure-list__item disclosure-list__item--current">
+<a aria-current="true" class="disclosure-list__option disclosure-option-with-parts" data-disclosure-option="" data-value="GB" href="#">
+<span class="disclosure-option-with-parts__part">United Kingdom</span> <span class="disclosure-option-with-parts__part">(GBP £)</span>
+</a>
+</li>

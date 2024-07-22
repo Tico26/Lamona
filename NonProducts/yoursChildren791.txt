@@ -1,0 +1,3 @@
+<a class="js-open-menu-panel btn btn-sm btn-tall-mobile text-uppercase px-xl-2 px-xxl-3 justify-content-between" href="/wide-fit-shoes" style="color: #000000">
+<b>Footwear</b>
+</a>

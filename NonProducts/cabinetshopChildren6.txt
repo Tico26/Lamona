@@ -1,0 +1,1 @@
+<link crossorigin="" href="https://fonts.shopifycdn.com" rel="preconnect"/>

@@ -1,0 +1,80 @@
+<div class="row">
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Desktops By Type">Type</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/home-pcs" title="Home PCs">Home / Everyday</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/business-pcs" title="Business PCs">Business</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/gaming-pcs" title="Gaming PCs">Gaming</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/all-in-one-pcs" title="AIO PCs">All-In-One (AIO)</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Desktops By Brand">Brand</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/acer-pcs" title="Acer PCs">Acer</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/asus-pcs" title="ASUS PCs">Asus</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/dell-pcs" title="Dell PCs">Dell</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/hp-pcs" title="HP PCs">HP</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/lenovo-pcs" title="Lenovo PCs">Lenovo</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/msi-pcs" title="MSI PCs">MSI</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Desktops By Grade">Grade</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/brand-new-pcs" title="Brand New PCs">Brand New</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/open-box-pcs" title="Open Box PCs">Open Box</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/grade-a-refurbished" title="Grade A Refurbished">Grade A Refurbished</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/grade-b-refurbished" title="Grade B Refurbished">Grade B Refurbished</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/refurbished-pcs" title="Refurbished PCs">All Refurbished</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Desktops By Form Factor">Size</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/micro-form-factor-pcs" title="Micro Form Factor PCs">Micro Form Factor (MFF)</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/small-form-factor-pcs" title="Small Form Factor PCs">Small Form Factor (SFF)</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/mid-tower-pcs" title="Mid Tower PCs">Mid Tower</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/full-tower-pcs" title="Full Tower PCs">Full Tower</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Desktops By GPU">Graphics Card</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs" title="NVIDIA PCs">NVIDIA</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-gtx-series-pcs" title="NVIDIA GTX PCs">- GTX</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-20-series-pcs" title="NVIDIA RTX 2000 PCs">- RTX 2000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-30-series-pcs" title="NVIDIA RTX 3000 PCs">- RTX 3000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-40-series-pcs" title="NVIDIA RTX 4000 PCs">- RTX 4000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/amd-pcs" title="AMD PCs">AMD</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/amd-pcs/amd-rx-70-series-pcs" title="AMD RX 7000 PCs">- RX 7000</a>
+</nav>
+</div>
+</div>
+<div class="col-m-2 menu-bannner">
+<p>Up to
+          <strong>40% off</strong>
+<span>Gaming Desktops</span></p>
+<picture><source alt="Gaming Desktops" srcset="https://www.tekshop.co.uk/media/wysiwyg/menu/desktop.webp" type="image/webp"/><img alt="Gaming Desktops" loading="lazy" src="https://www.tekshop.co.uk/media/wysiwyg/menu/desktop.jpg"/></picture>
+<a class="action primary" href="https://www.tekshop.co.uk/desktop-pcs/gaming-pcs">Shop now</a>
+</div>
+</div>

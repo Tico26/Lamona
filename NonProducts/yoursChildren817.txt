@@ -1,0 +1,29 @@
+<div class="nav-secondary-links py-lg-4 py-lg-3 pb-lg-5 px-lg-2">
+<div class="nav-secondary-links__header font-brand-light h6 text-uppercase text-left font-weight-bold">
+                                                        SHOP BY SIZE
+                                                    </div>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;shoesize=3,3eee">
+Size 3                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;shoesize=4,4eee">
+Size 4                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;shoesize=5,5eee">
+Size 5                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;shoesize=6,6eee">
+Size 6                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;shoesize=7,7eee">
+Size 7                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;shoesize=8,8eee">
+Size 8                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;shoesize=9,9eee">
+Size 9                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;shoesize=10,10eee">
+Size 10                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;size=11">
+Size 11                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;size=12">
+Size 12                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes?f=t&amp;size=13">
+Size 13                                                    </a>
+<a class="btn w-100 text-left btn-sm" href=" ">
+</a>
+</div>

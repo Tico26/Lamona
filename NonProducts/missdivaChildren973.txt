@@ -1,0 +1,3 @@
+<a class="disclosure-list__option disclosure-option-with-parts" data-disclosure-option="" data-value="UZ" href="#">
+<span class="disclosure-option-with-parts__part">Uzbekistan</span> <span class="disclosure-option-with-parts__part">(UZS )</span>
+</a>

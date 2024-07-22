@@ -1,0 +1,2 @@
+<small class="tax-note caption-large rte">Tax included. <a href="/policies/shipping-policy">Shipping</a> and discounts calculated at checkout.
+</small>

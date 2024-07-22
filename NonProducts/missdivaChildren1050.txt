@@ -1,0 +1,5 @@
+<a class="current-cart toggle-cart-summary" href="/cart" title="Go to cart">
+<span class="current-cart-icon current-cart-icon--basket2">
+
+</span>
+</a>

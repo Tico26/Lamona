@@ -1,0 +1,2 @@
+<div class="shopify-section" id="shopify-section-announcement-bar"><div aria-label="Announcement" class="announcement-bar color-accent-1 gradient" role="region"></div>
+</div>

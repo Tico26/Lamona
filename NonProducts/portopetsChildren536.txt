@@ -1,0 +1,1 @@
+<picture><source alt="Gaming Desktops" srcset="https://www.tekshop.co.uk/media/wysiwyg/menu/desktop.webp" type="image/webp"/><img alt="Gaming Desktops" loading="lazy" src="https://www.tekshop.co.uk/media/wysiwyg/menu/desktop.jpg"/></picture>

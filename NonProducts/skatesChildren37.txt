@@ -1,0 +1,3 @@
+<p class="cart__login-paragraph">
+<a class="link underlined-link" href="/account/login">Log in</a> to check out faster.
+                </p>

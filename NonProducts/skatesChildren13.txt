@@ -1,0 +1,1 @@
+<link href="https://filter-en.globosoftware.net" rel="preconnect"/>

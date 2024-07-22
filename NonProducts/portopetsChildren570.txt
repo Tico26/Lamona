@@ -1,0 +1,13 @@
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="PC Storage">Storage (SSD/HDD)</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/ssds" title="SSD Storage">SSD</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/m-2-drives" title="M.2 SSDs">- M.2</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/sata-ssds" title="SATA SSDs">- SATA</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/hdds" title="HDD Storage">HDD</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/hdds/2-5-hdds" title='2.5" HDDs'>- 2.5"</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/storage/hdds/3-5-hdds" title='3.5" HDDs'>- 3.5"</a>
+</nav>
+</div>

@@ -1,0 +1,9 @@
+<div class="cart-drawer__footer">
+<div></div>
+<div class="totals" role="status">
+<h2 class="totals__total">Subtotal:</h2>
+<p class="totals__total-value" data-hulkapps-cart-total="">£0.00 GBP</p>
+</div>
+<small class="tax-note caption-large rte">Tax included. <a href="/policies/shipping-policy">Shipping</a> and discounts calculated at checkout.
+</small>
+</div>

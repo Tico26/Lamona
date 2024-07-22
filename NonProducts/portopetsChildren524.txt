@@ -1,0 +1,9 @@
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs" title="NVIDIA PCs">NVIDIA</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-gtx-series-pcs" title="NVIDIA GTX PCs">- GTX</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-20-series-pcs" title="NVIDIA RTX 2000 PCs">- RTX 2000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-30-series-pcs" title="NVIDIA RTX 3000 PCs">- RTX 3000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-40-series-pcs" title="NVIDIA RTX 4000 PCs">- RTX 4000</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/amd-pcs" title="AMD PCs">AMD</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/amd-pcs/amd-rx-70-series-pcs" title="AMD RX 7000 PCs">- RX 7000</a>
+</nav>

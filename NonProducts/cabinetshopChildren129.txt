@@ -1,0 +1,137 @@
+<li><details id="Details-menu-drawer-menu-item-3">
+<summary class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                              Information
+                              
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="link-Information" tabindex="-1">
+<div class="menu-drawer__inner-submenu">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                  Information
+                                </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li><details id="Details-menu-drawer-submenu-1">
+<summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Cabinet Manufacture Details
+                                            
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="childlink-Cabinet Manufacture Details">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                              Cabinet Manufacture Details
+                                            </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="https://thecabinetshop.co.uk/pages/mdfconstruction">
+                                                    MDF Range
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/melamine-construction">
+                                                    Colours Melamine Range
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/lux-supermatt-construction">
+                                                    LUXE supermatt Range
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/face-frames">
+                                                    What is a face-frame?
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/door-styles">
+                                                    Door Styles
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id="Details-menu-drawer-submenu-2">
+<summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Components
+                                            
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="childlink-Components">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                              Components
+                                            </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/our-handles">
+                                                    Our Handles
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/our-legs">
+                                                    Our Legs
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id="Details-menu-drawer-submenu-3">
+<summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Help
+                                            
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="childlink-Help">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                              Help
+                                            </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/general-assembly-guide">
+                                                    General Assembly Guide
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/what-tools-you-need">
+                                                    What tools you'll need
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="https://cdn.shopify.com/s/files/1/2983/8052/files/HINGE_FITTING_GUIDE_1.pdf?v=1622047540">
+                                                    Hinge Guide
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/faqs">
+                                                    FAQ's
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id="Details-menu-drawer-submenu-4">
+<summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            About
+                                            
+
+</summary>
+<div class="menu-drawer__submenu has-submenu gradient motion-reduce" id="childlink-About">
+<button aria-expanded="true" class="menu-drawer__close-button link link--text focus-inset">
+
+
+                                              About
+                                            </button>
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/about-us">
+                                                    About Us
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/contact-us-1">
+                                                    Contact Us
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/how-it-works">
+                                                    How it works
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/greener-planet">
+                                                    Greener Planet
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/careers">
+                                                    Careers
+                                                  </a>
+</li></ul>
+</div>
+</details></li></ul>
+</div>
+</div>
+</details></li>

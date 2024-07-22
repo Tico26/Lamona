@@ -1,0 +1,214 @@
+<div class="nav-main-links--has-dropdown">
+<div class="d-lg-none">
+<a class="js-open-menu-panel btn btn-sm btn-tall-mobile text-uppercase justify-content-between" href="/lingerie" style="color:#000000">
+<b>Lingerie</b>
+</a>
+</div>
+<div class="d-none d-lg-block">
+<a class="js-open-menu-panel btn btn-sm btn-tall-mobile text-uppercase px-xl-2 px-xxl-3 justify-content-between" href="/lingerie" style="color: #000000">
+<b>Lingerie</b>
+</a>
+</div>
+<div class="dropdown-menu off-canvas-panel off-canvas-panel--right">
+<div class="w-100 d-lg-flex dropdown-menu__wrapper">
+<a href="/lingerie">
+<header class="card card--category-intro border-0 rounded-0 d-lg-none">
+<div class="btn btn-sm m-1 position-absolute js-close-parent-menu-panel">
+<img alt="Back" class="lazyload img-fade img-fluid img-center" data-src="/content/img/icons/svg/icon-arrow-left.svg" height="20" intrinsicsize="20x20" width="20"/>
+</div>
+</header>
+</a>
+<div class="nav-secondary-links py-lg-4 py-lg-3 pb-lg-5 px-lg-2">
+<a class="btn w-100 text-left btn-sm" href="/lingerie">
+<img alt="Image" class="lazyload img-fade img-fluid img-center d-none d-lg-block" data-src="https://content.yoursclothing.com/nav/14/80c234f6_lingerie.jpg" intrinsicsize="0x0"/>
+</a>
+</div>
+<div class="nav-secondary-links py-lg-4 py-lg-3 pb-lg-5 px-lg-2">
+<div class="nav-secondary-links__header font-brand-light h6 text-uppercase text-left font-weight-bold">
+                                                        Lingerie
+                                                    </div>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/lingerie">
+View All Lingerie                                                    </a>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/lingerie?f=t&amp;sortby=latest">
+New In Lingerie                                                    </a>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/lingerie">
+Most Wanted Lingerie                                                    </a>
+<a class="btn w-100 text-left btn-sm text-danger font-weight-bold" href="/lingerie?f=t&amp;sale=true">
+Sale Lingerie                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bras">
+Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/knickers/briefs">
+Knickers                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/sets">
+Lingerie Sets                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/multi-packs">
+Multipacks                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/sexy-lingerie">
+Sexy Lingerie                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/shapewear">
+Shapewear                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/socks">
+Socks                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/tights/socks">
+Tights                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/">
+</a>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/collections/offers-and-multibuys?f=t&amp;category=lingerie&amp;sortby=ourfavourites">
+Offers &amp; Multibuys                                                    </a>
+</div>
+<div class="nav-secondary-links py-lg-4 py-lg-3 pb-lg-5 px-lg-2">
+<div class="nav-secondary-links__header font-brand-light h6 text-uppercase text-left font-weight-bold">
+                                                        Bras
+                                                    </div>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/lingerie/bras">
+View All Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bra/balcony">
+Balcony Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/sets">
+Lingerie Sets                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bra/lounge-bras">
+Lounge Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bra/multiway">
+Multiway Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bra/multipack">
+Multi-pack Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bra/non-wired">
+Non-Wired Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bra/plunged ">
+Plunge Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bras/push-up">
+Push Up Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bra/multiway">
+Strapless Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bra/tshirt">
+T-Shirt Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/bra/wired">
+Wired Bras                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="">
+</a>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/bra-fit-guide">
+Bra Fit Guide                                                    </a>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/bra-style-guide">
+Bra Style Guide                                                    </a>
+</div>
+<div class="nav-secondary-links py-lg-4 py-lg-3 pb-lg-5 px-lg-2">
+<div class="nav-secondary-links__header font-brand-light h6 text-uppercase text-left font-weight-bold">
+                                                        Knickers
+                                                    </div>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/knickers">
+View All Knickers                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/briefs">
+Briefs                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/knickers/high-waisted">
+High Waisted                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/knickers/value-packs">
+Multipacks                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/knickers/shorts">
+Shorts                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/lingerie/knickers/thigh-slimmers">
+Thigh Smoothers                                                    </a>
+</div>
+<div class="mt-4 mb-7 mb-sm-4 my-lg-3 size-builder-wrapper">
+<div class="container size-builder">
+<div class="row">
+<div class="col">
+<h2 class="font-weight-bold lead d-block d-lg-none my-4 text-left">Size Builder</h2>
+<h3 class="p-0 d-block h5 text-left nav-size-builder">SHOP BY SIZE</h3>
+<form class="js-size-builder-form size-builder__form">
+<div class="my-4">
+<h5 class="p-0 text-left">Band size</h5>
+<div class="d-flex flex-wrap">
+<div class="js-size-builder-band">
+<label class="size-builder__selector mr-2 mb-2 text-center font-weight-light">
+<input class="size-builder__radio" name="band-size" type="radio" value="38"/>
+<span>38</span>
+</label>
+</div>
+<div class="js-size-builder-band">
+<label class="size-builder__selector mr-2 mb-2 text-center font-weight-light">
+<input class="size-builder__radio" name="band-size" type="radio" value="40"/>
+<span>40</span>
+</label>
+</div>
+<div class="js-size-builder-band">
+<label class="size-builder__selector mr-2 mb-2 text-center font-weight-light">
+<input class="size-builder__radio" name="band-size" type="radio" value="42"/>
+<span>42</span>
+</label>
+</div>
+<div class="js-size-builder-band">
+<label class="size-builder__selector mr-2 mb-2 text-center font-weight-light">
+<input class="size-builder__radio" name="band-size" type="radio" value="44"/>
+<span>44</span>
+</label>
+</div>
+<div class="js-size-builder-band">
+<label class="size-builder__selector mr-2 mb-2 text-center font-weight-light">
+<input class="size-builder__radio" name="band-size" type="radio" value="46"/>
+<span>46</span>
+</label>
+</div>
+<div class="js-size-builder-band">
+<label class="size-builder__selector mr-2 mb-2 text-center font-weight-light">
+<input class="size-builder__radio" name="band-size" type="radio" value="48"/>
+<span>48</span>
+</label>
+</div>
+<div class="js-size-builder-band">
+<label class="size-builder__selector mr-2 mb-2 text-center font-weight-light">
+<input class="size-builder__radio" name="band-size" type="radio" value="50"/>
+<span>50</span>
+</label>
+</div>
+</div>
+</div>
+<div class="my-4 js-size-builder-cup-header">
+<h3 class="p-0 h5 text-left">Cup size</h3>
+<div class="js-size-builder-cup">
+<div class="d-flex flex-wrap">
+<label class="size-builder__selector m-1 text-center font-weight-light">
+<input class="size-builder__radio" name="cup-size" type="radio" value="C"/>
+<span>C</span>
+</label>
+<label class="size-builder__selector m-1 text-center font-weight-light">
+<input class="size-builder__radio" name="cup-size" type="radio" value="D"/>
+<span>D</span>
+</label>
+<label class="size-builder__selector m-1 text-center font-weight-light">
+<input class="size-builder__radio" name="cup-size" type="radio" value="DD"/>
+<span>DD</span>
+</label>
+<label class="size-builder__selector m-1 text-center font-weight-light">
+<input class="size-builder__radio" name="cup-size" type="radio" value="E"/>
+<span>E</span>
+</label>
+<label class="size-builder__selector m-1 text-center font-weight-light">
+<input class="size-builder__radio" name="cup-size" type="radio" value="F"/>
+<span>F</span>
+</label>
+<label class="size-builder__selector m-1 text-center font-weight-light">
+<input class="size-builder__radio" name="cup-size" type="radio" value="G"/>
+<span>G</span>
+</label>
+<label class="size-builder__selector m-1 text-center font-weight-light">
+<input class="size-builder__radio" name="cup-size" type="radio" value="H"/>
+<span>H</span>
+</label>
+<label class="size-builder__selector m-1 text-center font-weight-light">
+<input class="size-builder__radio" name="cup-size" type="radio" value="J"/>
+<span>J</span>
+</label>
+</div>
+</div>
+</div>
+<div class="d-flex">
+<button class="btn btn-primary text-uppercase disabled" type="submit">Show results</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

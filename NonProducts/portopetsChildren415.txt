@@ -1,0 +1,12 @@
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Laptop Types">Type</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/home-laptops" title="Home Laptops">Home / Everyday</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/business-laptops" title="Business Laptops">Business</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/gaming-laptops" title="Gaming Laptops">Gaming</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/chromebook-laptops" title="Chromebook Laptops">Chromebooks</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/2-in-1-laptops" title="2 in 1 Laptops">2 in 1s</a>
+</nav>
+</div>

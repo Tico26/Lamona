@@ -1,0 +1,1 @@
+<link href="/collections/all-cabinets?page=2" rel="next"/>

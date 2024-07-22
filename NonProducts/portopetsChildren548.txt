@@ -1,0 +1,9 @@
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Processors">Processors</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/processors/intel" title="Intel Processors">Intel</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/pc-components/processors/amd" title="AMD Processors">AMD</a>
+</nav>
+</div>

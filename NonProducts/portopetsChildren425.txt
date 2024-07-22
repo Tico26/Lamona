@@ -1,0 +1,15 @@
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a href="https://www.tekshop.co.uk/brands-all" title="Laptop Brands">Brand</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/acer-laptops" title="Acer Laptops">Acer</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/asus-laptops" title="ASUS Laptops">ASUS</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/dell-laptops" title="Dell Laptops">Dell</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/hp-laptops" title="HP Laptops">HP</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/lenovo-laptops" title="Lenovo Laptops">Lenovo</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/razer-laptops" title="Razer Laptops">Razer</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/huawei-laptops" title="Huawei Laptops">Huawei</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/laptops/msi-laptops" title="MSI Laptops">MSI</a>
+</nav>
+</div>

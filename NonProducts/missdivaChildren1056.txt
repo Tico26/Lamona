@@ -1,0 +1,40 @@
+<li class="nav-item first dropdown drop-uber">
+<a aria-expanded="false" aria-haspopup="true" class="nav-item-link" href="/collections/new-in">
+<span class="nav-item-link-title">New In</span>
+
+</a>
+<div class="sub-nav"><div class="container sub-nav-links-column sub-nav-links-column--count-1 sub-nav-links-column--beside-1-images sub-nav-links-column--beside-images">
+<div class="sub-nav-links-column-grid-wrapper">
+<ul class="sub-nav-list">
+<li class="sub-nav-item">
+<a href="/collections/new-in"><span class="sub-nav-item-title">All New In</span></a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/new-in/shoes/">
+<span class="sub-nav-item-link-title">Shoes</span>
+</a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" data-img="//missdiva.co.uk/cdn/shop/files/08d3a851-988c-4b83-afac-7a227ff552c0_400x.jpg?v=1684425189" href="/collections/bags">
+<span class="sub-nav-item-link-title">Bags</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="sub-nav-images-column sub-nav-images-column--count-1"><ul class="sub-nav-list sub-nav-image-list">
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="/collections/new-in">
+<div class="sub-nav-item-image"><div class="rimage-outer-wrapper" style="max-width: 1242px">
+<div class="rimage-wrapper lazyload--placeholder" style="padding-top:123.91304347826086%">
+<img alt="" class="rimage__image" data-lazy-src="//missdiva.co.uk/cdn/shop/files/IMG_4309_{width}x.jpg?v=1708277307" height="1539" loading="lazy" style="object-position: 50.0% 50.0%" width="1242"/>
+
+</div>
+</div>
+</div>
+<div class="sub-nav-item-image-title"></div>
+</a>
+</li>
+</ul></div>
+</div>
+</li>

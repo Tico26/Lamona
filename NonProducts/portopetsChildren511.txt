@@ -1,0 +1,13 @@
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Desktops By Form Factor">Size</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/micro-form-factor-pcs" title="Micro Form Factor PCs">Micro Form Factor (MFF)</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/small-form-factor-pcs" title="Small Form Factor PCs">Small Form Factor (SFF)</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/mid-tower-pcs" title="Mid Tower PCs">Mid Tower</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/full-tower-pcs" title="Full Tower PCs">Full Tower</a>
+</nav>
+</div>
+</div>

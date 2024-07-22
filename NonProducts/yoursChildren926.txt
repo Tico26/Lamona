@@ -1,0 +1,1 @@
+<img alt="Image" class="lazyload img-fade img-fluid img-center d-none d-lg-block" data-src="https://content.yoursclothing.com/nav/14/80c234f6_lingerie.jpg" intrinsicsize="0x0"/>

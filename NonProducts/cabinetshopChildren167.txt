@@ -1,0 +1,17 @@
+<ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/general-assembly-guide">
+                                                    General Assembly Guide
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/what-tools-you-need">
+                                                    What tools you'll need
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="https://cdn.shopify.com/s/files/1/2983/8052/files/HINGE_FITTING_GUIDE_1.pdf?v=1622047540">
+                                                    Hinge Guide
+                                                  </a>
+</li><li>
+<a class="menu-drawer__menu-item link link--text list-menu__item focus-inset" href="/pages/faqs">
+                                                    FAQ's
+                                                  </a>
+</li></ul>

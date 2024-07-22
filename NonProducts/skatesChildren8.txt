@@ -1,0 +1,1 @@
+<link href="/collections/scooters?page=2" rel="next"/>

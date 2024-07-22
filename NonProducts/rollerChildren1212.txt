@@ -1,0 +1,1 @@
+<p class="filters-label">Filter by Price</p>

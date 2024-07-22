@@ -1,0 +1,4 @@
+<p class="filters-label">
+FILTER BY SIZE (IN EU)
+<a class="size-guide-fancy" data-fancybox="" href="https://www.rollerblade.com/assets/img/2021/size-guide.jpg"></a>
+</p>

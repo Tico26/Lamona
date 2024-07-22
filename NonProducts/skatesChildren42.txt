@@ -1,0 +1,3 @@
+<button aria-label="Close" class="drawer__close" onclick="this.closest('cart-drawer').close()" type="button">
+
+</button>

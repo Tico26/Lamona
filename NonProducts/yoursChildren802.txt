@@ -1,0 +1,31 @@
+<div class="nav-secondary-links py-lg-4 py-lg-3 pb-lg-5 px-lg-2">
+<div class="nav-secondary-links__header font-brand-light h6 text-uppercase text-left font-weight-bold">
+                                                        Footwear
+                                                    </div>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/wide-fit-shoes">
+View All Footwear                                                    </a>
+<a class="btn w-100 text-left btn-sm font-weight-bold" href="/wide-fit-shoes?f=t&amp;sortby=latest">
+New In Footwear                                                    </a>
+<a class="btn w-100 text-left btn-sm text-danger font-weight-bold" href="/wide-fit-shoes?f=t&amp;sale=true">
+Sale Footwear                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes/sandals">
+Sandals                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes/heels">
+Heels                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes/wedges">
+Wedges                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes/ballerina-pumps">
+Pumps                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes/flat-shoes">
+Flat Shoes                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes/trainers">
+Extra Wide Fit Trainers                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/trainers">
+Trainers                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes/loafers">
+Loafers                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes/slippers">
+Slippers                                                    </a>
+<a class="btn w-100 text-left btn-sm" href="/wide-fit-shoes/boots">
+Boots                                                    </a>
+</div>

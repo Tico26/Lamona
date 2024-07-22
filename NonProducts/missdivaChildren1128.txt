@@ -1,0 +1,35 @@
+<ul class="sub-nav-list">
+<li class="sub-nav-item">
+<a href="#"><span class="sub-nav-item-title">Occasion</span></a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/collections/heels?usf_sort=r&amp;uff_qxjpxb_tags=Casual">
+<span class="sub-nav-item-link-title">Casual</span>
+</a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/collections/heels?usf_sort=r&amp;uff_qxjpxb_tags=Party">
+<span class="sub-nav-item-link-title">Party</span>
+</a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/collections/heels?usf_sort=r&amp;uff_qxjpxb_tags=Prom">
+<span class="sub-nav-item-link-title">Prom</span>
+</a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/collections/heels?usf_sort=r&amp;uff_qxjpxb_tags=Office">
+<span class="sub-nav-item-link-title">Office</span>
+</a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/collections/heels?usf_sort=r&amp;uff_qxjpxb_tags=Wedding">
+<span class="sub-nav-item-link-title">Wedding</span>
+</a>
+</li>
+<li class="sub-nav-item">
+<a class="sub-nav-item-link" href="https://missdiva.co.uk/collections/heels?usf_sort=r&amp;uff_qxjpxb_tags=Holiday">
+<span class="sub-nav-item-link-title">Holiday</span>
+</a>
+</li>
+</ul>

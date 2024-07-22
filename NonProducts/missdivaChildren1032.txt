@@ -1,0 +1,38 @@
+<div class="toolbar-icons">
+<div class="hidden-search-container">
+<div class="hidden-search-container__veil"></div>
+<a aria-label="Search" class="toolbar-search toolbar-search--icon" data-show-search-form="" href="/search">
+
+</a>
+<div class="main-search" data-live-search="true" data-live-search-meta="true" data-live-search-price="true" data-live-search-vendor="false" data-show-sale-label="true" data-show-sold-out-label="true">
+<div class="main-search__container">
+<form action="/search" autocomplete="off" class="main-search__form" method="get">
+<input name="type" type="hidden" value="product"/>
+<input name="options[prefix]" type="hidden" value="last"/>
+<input aria-label="Search Store" autocomplete="off" class="main-search__input" name="q" placeholder="Search..." type="text" value=""/>
+<button aria-label="Submit" type="submit">
+</button>
+</form>
+<div class="main_search__popup">
+<div class="main-search__results"></div>
+<div class="main-search__footer-buttons">
+<div class="all-results-container"></div>
+<a class="main-search__results-close-link btn alt outline" href="#">
+              Close
+            </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a aria-label="Account" class="toolbar-account" href="/account">
+
+</a>
+<span class="toolbar-cart">
+<a class="current-cart toggle-cart-summary" href="/cart" title="Go to cart">
+<span class="current-cart-icon current-cart-icon--basket2">
+
+</span>
+</a>
+</span>
+</div>

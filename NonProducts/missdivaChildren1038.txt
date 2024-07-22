@@ -1,0 +1,7 @@
+<form action="/search" autocomplete="off" class="main-search__form" method="get">
+<input name="type" type="hidden" value="product"/>
+<input name="options[prefix]" type="hidden" value="last"/>
+<input aria-label="Search Store" autocomplete="off" class="main-search__input" name="q" placeholder="Search..." type="text" value=""/>
+<button aria-label="Submit" type="submit">
+</button>
+</form>

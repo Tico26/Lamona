@@ -1,0 +1,1 @@
+<img alt="Footwear image" class="lazyload img-fade img-fluid img-center d-none d-lg-block" data-src="https://content.yoursclothing.com/nav/14/c98e7794_footwear.jpg" intrinsicsize="0x0"/>

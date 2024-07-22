@@ -1,0 +1,14 @@
+<div class="col-m-2">
+<div class="pixalicious-category-menu-widget">
+<div class="title">
+<a title="Desktops By Grade">Grade</a>
+</div>
+<nav class="nav">
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/brand-new-pcs" title="Brand New PCs">Brand New</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/open-box-pcs" title="Open Box PCs">Open Box</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/grade-a-refurbished" title="Grade A Refurbished">Grade A Refurbished</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/grade-b-refurbished" title="Grade B Refurbished">Grade B Refurbished</a>
+<a class="nav-link" href="https://www.tekshop.co.uk/desktop-pcs/refurbished-pcs" title="Refurbished PCs">All Refurbished</a>
+</nav>
+</div>
+</div>
