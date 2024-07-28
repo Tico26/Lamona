@@ -1,12 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
-import re
 import csv
 
 
 
 # Send a GET request to the website
-
+#products = soup.find_all('div',class_="prod col-6 col-xl-3")
+#for tags in products:
+ #       tags.decompose()
+#children = soup.findChildren()
 labeled_data = []
 def remove_unnecessary_element(soup):
     # remove all unnecessary elements
@@ -47,7 +49,6 @@ def extract_product_details():
             continue
         
         productJSON = {"html":product, "name":name.strip(),"price":price.strip()}
-        #labeled_data.append(productJSON)
         
         labeled_data.append(productJSON)
 
@@ -68,14 +69,6 @@ for items in range(6):
     remove_unnecessary_element(soup)
     extract_product_details()
 print("Number of items found: "+ str(len(labeled_data)))
-
-    
-
-  
-
-
-
-    
 
 
 

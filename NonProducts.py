@@ -1,21 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
-import re
+import csv
 
 
-url = "https://www.rollerblade.com/uk/en/all"
-
-# Send a GET request to the website
-response = requests.get(url)
-labeled_data = []
-
-# Check if the request was successful
-if response.status_code == 200:
-    html_content = response.text
-    soup = BeautifulSoup(html_content, 'html.parser')
-    
+tag_data = []
     # remove all unnecessary elements
-    products = soup.find_all('div',class_="prod col-6 col-xl-3")
+def get_tags_without_products(soup):
+    #remove products from page
+    products = soup.find_all('div',class_="product-block layout-align-above flex column max-cols-4 min-cols-2 product-block--gutter-0 product-block--gap-20 product-block--border-true product-block--no-quickbuy")
+    for tags in products:
+        tags.decompose()
+
     for script in soup("script"):
         script.decompose()
 
@@ -30,32 +25,31 @@ if response.status_code == 200:
 
     for meta in soup("meta"):
         meta.decompose() 
-
-    for tags in products:
-        tags.decompose()
-
+    
     children = soup.findChildren()
-    dataTags = []
-    counter = 0
+    counter =0
     for child in children:
         counter+=1
-        dataTags.append(child)
-    # Extract product details
+        if counter >= 904 and counter <=1084:
+            childJSON = {'html':child,'name':None,'price':None}
+            tag_data.append(childJSON)
         
-else:
-    print(f"Failed to retrieve content from {url}")
+    print(counter)
+url = "https://missdiva.co.uk/collections/heels"
 
+    # Send a GET request to the website
+saveAs = "missdiva"
+response = requests.get(url)
 
+html_content = response.text
+soup = BeautifulSoup(html_content, 'html.parser')
 
-newCounter=0
-for addTags in dataTags:
-    newCounter+=1
-   
-    if newCounter > 1139 and newCounter < 1241:
-        file = open("NonProducts/rollerChildren"+str(newCounter)+".txt","w")
-        file.write(str(addTags))
-        file.close()
+get_tags_without_products(soup)
 
+with open('CSV/Non-Products/'+saveAs+'Children.csv', 'w', newline='') as csvfile:
+    fieldnames = ['html', 'name', 'price']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-print(newCounter)
-
+    writer.writeheader()
+    for item in tag_data:
+        writer.writerow((item))
