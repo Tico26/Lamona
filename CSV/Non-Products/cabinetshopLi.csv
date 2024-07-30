@@ -1,0 +1,1611 @@
+html,name,price
+"<li><details id=""Details-menu-drawer-menu-item-1"">
+<summary class=""menu-drawer__menu-item list-menu__item link link--text focus-inset"">
+                              Shop by product
+                              <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""link-Shop by product"" tabindex=""-1"">
+<div class=""menu-drawer__inner-submenu"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                  Shop by product
+                                </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li><details id=""Details-menu-drawer-submenu-1"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Cabinets
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Cabinets"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Cabinets
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/bookcases"">
+                                                    Bookcases
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/mdf-storage-boxes"">
+                                                    Boxes
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/cabinet-carcasses"">
+                                                    Carcasses
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/cupboards"">
+                                                    Cupboards
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/desks"">
+                                                    Desks
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/drawers"">
+                                                    Drawers
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/mdf-dressers"">
+                                                    Dressers
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/meter-box-cupboards"">
+                                                    Meter Box Cupboards
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/modular-dressers"">
+                                                    Modular Media Units
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/tv-stands"">
+                                                    TV Stands
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/coloured-wall-units"">
+                                                    Wall Units
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/wardrobes"">
+                                                    Wardrobes
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id=""Details-menu-drawer-submenu-2"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Doors, Shelves and Panels
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Doors, Shelves and Panels"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Doors, Shelves and Panels
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/cut-to-size-panels"">
+                                                    Cut-to-Size Panels
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/bespoke-doors"">
+                                                    Made-to-Measure Doors
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/floating-shelf"">
+                                                    Floating Alcove Shelves
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id=""Details-menu-drawer-submenu-3"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Hardware
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Hardware"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Hardware
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/110-cupboard-door-hinge-with-euro-screws"">
+                                                    Hinges
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/shelf-supports-pins-o5-mm"">
+                                                    Shelf Pins
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/suspense-shelf"">
+                                                    Shelf Brackets
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/j-wall-hooks"">
+                                                    Wall Hooks
+                                                  </a>
+</li></ul>
+</div>
+</details></li></ul>
+</div>
+</div>
+</details></li>",,
+"<li><details id=""Details-menu-drawer-submenu-1"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Cabinets
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Cabinets"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Cabinets
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/bookcases"">
+                                                    Bookcases
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/mdf-storage-boxes"">
+                                                    Boxes
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/cabinet-carcasses"">
+                                                    Carcasses
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/cupboards"">
+                                                    Cupboards
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/desks"">
+                                                    Desks
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/drawers"">
+                                                    Drawers
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/mdf-dressers"">
+                                                    Dressers
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/meter-box-cupboards"">
+                                                    Meter Box Cupboards
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/modular-dressers"">
+                                                    Modular Media Units
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/tv-stands"">
+                                                    TV Stands
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/coloured-wall-units"">
+                                                    Wall Units
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/wardrobes"">
+                                                    Wardrobes
+                                                  </a>
+</li></ul>
+</div>
+</details></li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/bookcases"">
+                                                    Bookcases
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/mdf-storage-boxes"">
+                                                    Boxes
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/cabinet-carcasses"">
+                                                    Carcasses
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/cupboards"">
+                                                    Cupboards
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/desks"">
+                                                    Desks
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/drawers"">
+                                                    Drawers
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/mdf-dressers"">
+                                                    Dressers
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/meter-box-cupboards"">
+                                                    Meter Box Cupboards
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/modular-dressers"">
+                                                    Modular Media Units
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/tv-stands"">
+                                                    TV Stands
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/coloured-wall-units"">
+                                                    Wall Units
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/wardrobes"">
+                                                    Wardrobes
+                                                  </a>
+</li>",,
+"<li><details id=""Details-menu-drawer-submenu-2"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Doors, Shelves and Panels
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Doors, Shelves and Panels"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Doors, Shelves and Panels
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/cut-to-size-panels"">
+                                                    Cut-to-Size Panels
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/bespoke-doors"">
+                                                    Made-to-Measure Doors
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/floating-shelf"">
+                                                    Floating Alcove Shelves
+                                                  </a>
+</li></ul>
+</div>
+</details></li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/cut-to-size-panels"">
+                                                    Cut-to-Size Panels
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/bespoke-doors"">
+                                                    Made-to-Measure Doors
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/floating-shelf"">
+                                                    Floating Alcove Shelves
+                                                  </a>
+</li>",,
+"<li><details id=""Details-menu-drawer-submenu-3"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Hardware
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Hardware"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Hardware
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/110-cupboard-door-hinge-with-euro-screws"">
+                                                    Hinges
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/shelf-supports-pins-o5-mm"">
+                                                    Shelf Pins
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/suspense-shelf"">
+                                                    Shelf Brackets
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/j-wall-hooks"">
+                                                    Wall Hooks
+                                                  </a>
+</li></ul>
+</div>
+</details></li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/110-cupboard-door-hinge-with-euro-screws"">
+                                                    Hinges
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/shelf-supports-pins-o5-mm"">
+                                                    Shelf Pins
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/suspense-shelf"">
+                                                    Shelf Brackets
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/products/j-wall-hooks"">
+                                                    Wall Hooks
+                                                  </a>
+</li>",,
+"<li><details id=""Details-menu-drawer-menu-item-2"">
+<summary class=""menu-drawer__menu-item list-menu__item link link--text focus-inset"">
+                              Shop by room
+                              <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""link-Shop by room"" tabindex=""-1"">
+<div class=""menu-drawer__inner-submenu"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                  Shop by room
+                                </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Living+Room"">
+                                          Living Room
+                                        </a></li><li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Bedroom"">
+                                          Bedroom
+                                        </a></li><li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Kitchen"">
+                                          Kitchen
+                                        </a></li><li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Bathroom"">
+                                          Bathroom
+                                        </a></li><li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Office"">
+                                          Office
+                                        </a></li><li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Utility"">
+                                          Utility
+                                        </a></li></ul>
+</div>
+</div>
+</details></li>",,
+"<li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Living+Room"">
+                                          Living Room
+                                        </a></li>",,
+"<li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Bedroom"">
+                                          Bedroom
+                                        </a></li>",,
+"<li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Kitchen"">
+                                          Kitchen
+                                        </a></li>",,
+"<li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Bathroom"">
+                                          Bathroom
+                                        </a></li>",,
+"<li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Office"">
+                                          Office
+                                        </a></li>",,
+"<li><a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/collections/all-cabinets?gf_509712=Room_Utility"">
+                                          Utility
+                                        </a></li>",,
+"<li><details id=""Details-menu-drawer-menu-item-3"">
+<summary class=""menu-drawer__menu-item list-menu__item link link--text focus-inset"">
+                              Information
+                              <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""link-Information"" tabindex=""-1"">
+<div class=""menu-drawer__inner-submenu"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                  Information
+                                </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li><details id=""Details-menu-drawer-submenu-1"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Cabinet Manufacture Details
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Cabinet Manufacture Details"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Cabinet Manufacture Details
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""https://thecabinetshop.co.uk/pages/mdfconstruction"">
+                                                    MDF Range
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/melamine-construction"">
+                                                    Colours Melamine Range
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/lux-supermatt-construction"">
+                                                    LUXE supermatt Range
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/face-frames"">
+                                                    What is a face-frame?
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/door-styles"">
+                                                    Door Styles
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id=""Details-menu-drawer-submenu-2"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Components
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Components"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Components
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/our-handles"">
+                                                    Our Handles
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/our-legs"">
+                                                    Our Legs
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id=""Details-menu-drawer-submenu-3"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Help
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Help"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Help
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/general-assembly-guide"">
+                                                    General Assembly Guide
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/what-tools-you-need"">
+                                                    What tools you'll need
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""https://cdn.shopify.com/s/files/1/2983/8052/files/HINGE_FITTING_GUIDE_1.pdf?v=1622047540"">
+                                                    Hinge Guide
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/faqs"">
+                                                    FAQ's
+                                                  </a>
+</li></ul>
+</div>
+</details></li><li><details id=""Details-menu-drawer-submenu-4"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            About
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-About"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              About
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/about-us"">
+                                                    About Us
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/contact-us-1"">
+                                                    Contact Us
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/how-it-works"">
+                                                    How it works
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/greener-planet"">
+                                                    Greener Planet
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/careers"">
+                                                    Careers
+                                                  </a>
+</li></ul>
+</div>
+</details></li></ul>
+</div>
+</div>
+</details></li>",,
+"<li><details id=""Details-menu-drawer-submenu-1"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Cabinet Manufacture Details
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Cabinet Manufacture Details"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Cabinet Manufacture Details
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""https://thecabinetshop.co.uk/pages/mdfconstruction"">
+                                                    MDF Range
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/melamine-construction"">
+                                                    Colours Melamine Range
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/lux-supermatt-construction"">
+                                                    LUXE supermatt Range
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/face-frames"">
+                                                    What is a face-frame?
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/door-styles"">
+                                                    Door Styles
+                                                  </a>
+</li></ul>
+</div>
+</details></li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""https://thecabinetshop.co.uk/pages/mdfconstruction"">
+                                                    MDF Range
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/melamine-construction"">
+                                                    Colours Melamine Range
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/lux-supermatt-construction"">
+                                                    LUXE supermatt Range
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/face-frames"">
+                                                    What is a face-frame?
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/door-styles"">
+                                                    Door Styles
+                                                  </a>
+</li>",,
+"<li><details id=""Details-menu-drawer-submenu-2"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Components
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Components"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Components
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/our-handles"">
+                                                    Our Handles
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/our-legs"">
+                                                    Our Legs
+                                                  </a>
+</li></ul>
+</div>
+</details></li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/our-handles"">
+                                                    Our Handles
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/our-legs"">
+                                                    Our Legs
+                                                  </a>
+</li>",,
+"<li><details id=""Details-menu-drawer-submenu-3"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            Help
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-Help"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              Help
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/general-assembly-guide"">
+                                                    General Assembly Guide
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/what-tools-you-need"">
+                                                    What tools you'll need
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""https://cdn.shopify.com/s/files/1/2983/8052/files/HINGE_FITTING_GUIDE_1.pdf?v=1622047540"">
+                                                    Hinge Guide
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/faqs"">
+                                                    FAQ's
+                                                  </a>
+</li></ul>
+</div>
+</details></li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/general-assembly-guide"">
+                                                    General Assembly Guide
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/what-tools-you-need"">
+                                                    What tools you'll need
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""https://cdn.shopify.com/s/files/1/2983/8052/files/HINGE_FITTING_GUIDE_1.pdf?v=1622047540"">
+                                                    Hinge Guide
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/faqs"">
+                                                    FAQ's
+                                                  </a>
+</li>",,
+"<li><details id=""Details-menu-drawer-submenu-4"">
+<summary class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"">
+                                            About
+                                            <svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""menu-drawer__submenu has-submenu gradient motion-reduce"" id=""childlink-About"">
+<button aria-expanded=""true"" class=""menu-drawer__close-button link link--text focus-inset"">
+<svg aria-hidden=""true"" class=""icon icon-arrow"" fill=""none"" focusable=""false"" role=""presentation"" viewbox=""0 0 14 10"" xmlns=""http://www.w3.org/2000/svg"">
+<path clip-rule=""evenodd"" d=""M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+
+                                              About
+                                            </button>
+<ul class=""menu-drawer__menu list-menu"" role=""list"" tabindex=""-1""><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/about-us"">
+                                                    About Us
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/contact-us-1"">
+                                                    Contact Us
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/how-it-works"">
+                                                    How it works
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/greener-planet"">
+                                                    Greener Planet
+                                                  </a>
+</li><li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/careers"">
+                                                    Careers
+                                                  </a>
+</li></ul>
+</div>
+</details></li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/about-us"">
+                                                    About Us
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/contact-us-1"">
+                                                    Contact Us
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/how-it-works"">
+                                                    How it works
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/greener-planet"">
+                                                    Greener Planet
+                                                  </a>
+</li>",,
+"<li>
+<a class=""menu-drawer__menu-item link link--text list-menu__item focus-inset"" href=""/pages/careers"">
+                                                    Careers
+                                                  </a>
+</li>",,
+"<li><a class=""menu-drawer__menu-item list-menu__item link link--text focus-inset"" href=""/pages/our-colours"">
+                            Our Colours
+                          </a></li>",,
+"<li><a class=""menu-drawer__menu-item list-menu__item link link--text focus-inset"" href=""/pages/samples"">
+                            Samples
+                          </a></li>",,
+"<li class=""list-social__item"">
+<a class=""list-social__link link"" href=""https://www.facebook.com/TheCabinetShopUK/""><svg aria-hidden=""true"" class=""icon icon-facebook"" focusable=""false"" role=""presentation"" viewbox=""0 0 18 18"">
+<path d=""M16.42.61c.27 0 .5.1.69.28.19.2.28.42.28.7v15.44c0 .27-.1.5-.28.69a.94.94 0 01-.7.28h-4.39v-6.7h2.25l.31-2.65h-2.56v-1.7c0-.4.1-.72.28-.93.18-.2.5-.32 1-.32h1.37V3.35c-.6-.06-1.27-.1-2.01-.1-1.01 0-1.83.3-2.45.9-.62.6-.93 1.44-.93 2.53v1.97H7.04v2.65h2.24V18H.98c-.28 0-.5-.1-.7-.28a.94.94 0 01-.28-.7V1.59c0-.27.1-.5.28-.69a.94.94 0 01.7-.28h15.44z"" fill=""currentColor"">
+</path></svg>
+<span class=""visually-hidden"">Facebook</span>
+</a>
+</li>",,
+"<li class=""list-social__item"">
+<a class=""list-social__link link"" href=""https://pin.it/7h9XS3c""><svg aria-hidden=""true"" class=""icon icon-pinterest"" focusable=""false"" role=""presentation"" viewbox=""0 0 17 18"">
+<path d=""M8.48.58a8.42 8.42 0 015.9 2.45 8.42 8.42 0 011.33 10.08 8.28 8.28 0 01-7.23 4.16 8.5 8.5 0 01-2.37-.32c.42-.68.7-1.29.85-1.8l.59-2.29c.14.28.41.52.8.73.4.2.8.31 1.24.31.87 0 1.65-.25 2.34-.75a4.87 4.87 0 001.6-2.05 7.3 7.3 0 00.56-2.93c0-1.3-.5-2.41-1.49-3.36a5.27 5.27 0 00-3.8-1.43c-.93 0-1.8.16-2.58.48A5.23 5.23 0 002.85 8.6c0 .75.14 1.41.43 1.98.28.56.7.96 1.27 1.2.1.04.19.04.26 0 .07-.03.12-.1.15-.2l.18-.68c.05-.15.02-.3-.11-.45a2.35 2.35 0 01-.57-1.63A3.96 3.96 0 018.6 4.8c1.09 0 1.94.3 2.54.89.61.6.92 1.37.92 2.32 0 .8-.11 1.54-.33 2.21a3.97 3.97 0 01-.93 1.62c-.4.4-.87.6-1.4.6-.43 0-.78-.15-1.06-.47-.27-.32-.36-.7-.26-1.13a111.14 111.14 0 01.47-1.6l.18-.73c.06-.26.09-.47.09-.65 0-.36-.1-.66-.28-.89-.2-.23-.47-.35-.83-.35-.45 0-.83.2-1.13.62-.3.41-.46.93-.46 1.56a4.1 4.1 0 00.18 1.15l.06.15c-.6 2.58-.95 4.1-1.08 4.54-.12.55-.16 1.2-.13 1.94a8.4 8.4 0 01-5-7.65c0-2.3.81-4.28 2.44-5.9A8.04 8.04 0 018.48.57z"" fill=""currentColor"">
+</path></svg>
+<span class=""visually-hidden"">Pinterest</span>
+</a>
+</li>",,
+"<li class=""list-social__item"">
+<a class=""list-social__link link"" href=""https://www.instagram.com/thecabinetshopuk/""><svg aria-hidden=""true"" class=""icon icon-instagram"" focusable=""false"" role=""presentation"" viewbox=""0 0 18 18"">
+<path d=""M8.77 1.58c2.34 0 2.62.01 3.54.05.86.04 1.32.18 1.63.3.41.17.7.35 1.01.66.3.3.5.6.65 1 .12.32.27.78.3 1.64.05.92.06 1.2.06 3.54s-.01 2.62-.05 3.54a4.79 4.79 0 01-.3 1.63c-.17.41-.35.7-.66 1.01-.3.3-.6.5-1.01.66-.31.12-.77.26-1.63.3-.92.04-1.2.05-3.54.05s-2.62 0-3.55-.05a4.79 4.79 0 01-1.62-.3c-.42-.16-.7-.35-1.01-.66-.31-.3-.5-.6-.66-1a4.87 4.87 0 01-.3-1.64c-.04-.92-.05-1.2-.05-3.54s0-2.62.05-3.54c.04-.86.18-1.32.3-1.63.16-.41.35-.7.66-1.01.3-.3.6-.5 1-.65.32-.12.78-.27 1.63-.3.93-.05 1.2-.06 3.55-.06zm0-1.58C6.39 0 6.09.01 5.15.05c-.93.04-1.57.2-2.13.4-.57.23-1.06.54-1.55 1.02C1 1.96.7 2.45.46 3.02c-.22.56-.37 1.2-.4 2.13C0 6.1 0 6.4 0 8.77s.01 2.68.05 3.61c.04.94.2 1.57.4 2.13.23.58.54 1.07 1.02 1.56.49.48.98.78 1.55 1.01.56.22 1.2.37 2.13.4.94.05 1.24.06 3.62.06 2.39 0 2.68-.01 3.62-.05.93-.04 1.57-.2 2.13-.41a4.27 4.27 0 001.55-1.01c.49-.49.79-.98 1.01-1.56.22-.55.37-1.19.41-2.13.04-.93.05-1.23.05-3.61 0-2.39 0-2.68-.05-3.62a6.47 6.47 0 00-.4-2.13 4.27 4.27 0 00-1.02-1.55A4.35 4.35 0 0014.52.46a6.43 6.43 0 00-2.13-.41A69 69 0 008.77 0z"" fill=""currentColor""></path>
+<path d=""M8.8 4a4.5 4.5 0 100 9 4.5 4.5 0 000-9zm0 7.43a2.92 2.92 0 110-5.85 2.92 2.92 0 010 5.85zM13.43 5a1.05 1.05 0 100-2.1 1.05 1.05 0 000 2.1z"" fill=""currentColor"">
+</path></svg>
+<span class=""visually-hidden"">Instagram</span>
+</a>
+</li>",,
+"<li class=""list-social__item"">
+<a class=""list-social__link link"" href=""https://www.tiktok.com/@thecabinetshop""><svg aria-hidden=""true"" class=""icon icon-tiktok"" fill=""none"" focusable=""false"" height=""18"" role=""presentation"" width=""16"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M8.02 0H11s-.17 3.82 4.13 4.1v2.95s-2.3.14-4.13-1.26l.03 6.1a5.52 5.52 0 11-5.51-5.52h.77V9.4a2.5 2.5 0 101.76 2.4L8.02 0z"" fill=""currentColor"">
+</path></svg>
+<span class=""visually-hidden"">TikTok</span>
+</a>
+</li>",,
+"<li><header-menu>
+<details class=""mega-menu"" id=""Details-HeaderMenu-1"">
+<summary class=""header__menu-item list-menu__item link focus-inset"">
+<span>Shop by product</span>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""mega-menu__content gradient motion-reduce global-settings-popup"" id=""MegaMenu-Content-1"" tabindex=""-1"">
+<ul class=""mega-menu__list page-width"" role=""list""><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Cabinets
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/collections/bookcases"">
+                                        Bookcases
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/mdf-storage-boxes"">
+                                        Boxes
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/cabinet-carcasses"">
+                                        Carcasses
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/cupboards"">
+                                        Cupboards
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/desks"">
+                                        Desks
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/drawers"">
+                                        Drawers
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/mdf-dressers"">
+                                        Dressers
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/meter-box-cupboards"">
+                                        Meter Box Cupboards
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/modular-dressers"">
+                                        Modular Media Units
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/tv-stands"">
+                                        TV Stands
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/coloured-wall-units"">
+                                        Wall Units
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/wardrobes"">
+                                        Wardrobes
+                                      </a>
+</li></ul></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Doors, Shelves and Panels
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/products/cut-to-size-panels"">
+                                        Cut-to-Size Panels
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/bespoke-doors"">
+                                        Made-to-Measure Doors
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/floating-shelf"">
+                                        Floating Alcove Shelves
+                                      </a>
+</li></ul></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Hardware
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/products/110-cupboard-door-hinge-with-euro-screws"">
+                                        Hinges
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/shelf-supports-pins-o5-mm"">
+                                        Shelf Pins
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/suspense-shelf"">
+                                        Shelf Brackets
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/j-wall-hooks"">
+                                        Wall Hooks
+                                      </a>
+</li></ul></li></ul>
+</div>
+</details>
+</header-menu></li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Cabinets
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/collections/bookcases"">
+                                        Bookcases
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/mdf-storage-boxes"">
+                                        Boxes
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/cabinet-carcasses"">
+                                        Carcasses
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/cupboards"">
+                                        Cupboards
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/desks"">
+                                        Desks
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/drawers"">
+                                        Drawers
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/mdf-dressers"">
+                                        Dressers
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/meter-box-cupboards"">
+                                        Meter Box Cupboards
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/modular-dressers"">
+                                        Modular Media Units
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/tv-stands"">
+                                        TV Stands
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/coloured-wall-units"">
+                                        Wall Units
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/collections/wardrobes"">
+                                        Wardrobes
+                                      </a>
+</li></ul></li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/bookcases"">
+                                        Bookcases
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/mdf-storage-boxes"">
+                                        Boxes
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/cabinet-carcasses"">
+                                        Carcasses
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/cupboards"">
+                                        Cupboards
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/desks"">
+                                        Desks
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/drawers"">
+                                        Drawers
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/mdf-dressers"">
+                                        Dressers
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/meter-box-cupboards"">
+                                        Meter Box Cupboards
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/modular-dressers"">
+                                        Modular Media Units
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/tv-stands"">
+                                        TV Stands
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/coloured-wall-units"">
+                                        Wall Units
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/collections/wardrobes"">
+                                        Wardrobes
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Doors, Shelves and Panels
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/products/cut-to-size-panels"">
+                                        Cut-to-Size Panels
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/bespoke-doors"">
+                                        Made-to-Measure Doors
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/floating-shelf"">
+                                        Floating Alcove Shelves
+                                      </a>
+</li></ul></li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/products/cut-to-size-panels"">
+                                        Cut-to-Size Panels
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/products/bespoke-doors"">
+                                        Made-to-Measure Doors
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/products/floating-shelf"">
+                                        Floating Alcove Shelves
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Hardware
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/products/110-cupboard-door-hinge-with-euro-screws"">
+                                        Hinges
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/shelf-supports-pins-o5-mm"">
+                                        Shelf Pins
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/suspense-shelf"">
+                                        Shelf Brackets
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/products/j-wall-hooks"">
+                                        Wall Hooks
+                                      </a>
+</li></ul></li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/products/110-cupboard-door-hinge-with-euro-screws"">
+                                        Hinges
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/products/shelf-supports-pins-o5-mm"">
+                                        Shelf Pins
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/products/suspense-shelf"">
+                                        Shelf Brackets
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/products/j-wall-hooks"">
+                                        Wall Hooks
+                                      </a>
+</li>",,
+"<li><header-menu>
+<details class=""mega-menu"" id=""Details-HeaderMenu-2"">
+<summary class=""header__menu-item list-menu__item link focus-inset"">
+<span>Shop by room</span>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""mega-menu__content gradient motion-reduce global-settings-popup"" id=""MegaMenu-Content-2"" tabindex=""-1"">
+<ul class=""mega-menu__list page-width mega-menu__list--condensed"" role=""list""><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Living+Room"">
+                                Living Room
+                              </a></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Bedroom"">
+                                Bedroom
+                              </a></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Kitchen"">
+                                Kitchen
+                              </a></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Bathroom"">
+                                Bathroom
+                              </a></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Office"">
+                                Office
+                              </a></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Utility"">
+                                Utility
+                              </a></li></ul>
+</div>
+</details>
+</header-menu></li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Living+Room"">
+                                Living Room
+                              </a></li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Bedroom"">
+                                Bedroom
+                              </a></li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Kitchen"">
+                                Kitchen
+                              </a></li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Bathroom"">
+                                Bathroom
+                              </a></li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Office"">
+                                Office
+                              </a></li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""/collections/all-cabinets?gf_509712=Room_Utility"">
+                                Utility
+                              </a></li>",,
+"<li><header-menu>
+<details class=""mega-menu"" id=""Details-HeaderMenu-3"">
+<summary class=""header__menu-item list-menu__item link focus-inset"">
+<span>Information</span>
+<svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</summary>
+<div class=""mega-menu__content gradient motion-reduce global-settings-popup"" id=""MegaMenu-Content-3"" tabindex=""-1"">
+<ul class=""mega-menu__list page-width"" role=""list""><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Cabinet Manufacture Details
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""https://thecabinetshop.co.uk/pages/mdfconstruction"">
+                                        MDF Range
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/melamine-construction"">
+                                        Colours Melamine Range
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/lux-supermatt-construction"">
+                                        LUXE supermatt Range
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/face-frames"">
+                                        What is a face-frame?
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/door-styles"">
+                                        Door Styles
+                                      </a>
+</li></ul></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Components
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/pages/our-handles"">
+                                        Our Handles
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/our-legs"">
+                                        Our Legs
+                                      </a>
+</li></ul></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Help
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/pages/general-assembly-guide"">
+                                        General Assembly Guide
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/what-tools-you-need"">
+                                        What tools you'll need
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""https://cdn.shopify.com/s/files/1/2983/8052/files/HINGE_FITTING_GUIDE_1.pdf?v=1622047540"">
+                                        Hinge Guide
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/faqs"">
+                                        FAQ's
+                                      </a>
+</li></ul></li><li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                About
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/pages/about-us"">
+                                        About Us
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/contact-us-1"">
+                                        Contact Us
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/how-it-works"">
+                                        How it works
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/greener-planet"">
+                                        Greener Planet
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/careers"">
+                                        Careers
+                                      </a>
+</li></ul></li></ul>
+</div>
+</details>
+</header-menu></li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Cabinet Manufacture Details
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""https://thecabinetshop.co.uk/pages/mdfconstruction"">
+                                        MDF Range
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/melamine-construction"">
+                                        Colours Melamine Range
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/lux-supermatt-construction"">
+                                        LUXE supermatt Range
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/face-frames"">
+                                        What is a face-frame?
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/door-styles"">
+                                        Door Styles
+                                      </a>
+</li></ul></li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""https://thecabinetshop.co.uk/pages/mdfconstruction"">
+                                        MDF Range
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/melamine-construction"">
+                                        Colours Melamine Range
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/lux-supermatt-construction"">
+                                        LUXE supermatt Range
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/face-frames"">
+                                        What is a face-frame?
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/door-styles"">
+                                        Door Styles
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Components
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/pages/our-handles"">
+                                        Our Handles
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/our-legs"">
+                                        Our Legs
+                                      </a>
+</li></ul></li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/our-handles"">
+                                        Our Handles
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/our-legs"">
+                                        Our Legs
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                Help
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/pages/general-assembly-guide"">
+                                        General Assembly Guide
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/what-tools-you-need"">
+                                        What tools you'll need
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""https://cdn.shopify.com/s/files/1/2983/8052/files/HINGE_FITTING_GUIDE_1.pdf?v=1622047540"">
+                                        Hinge Guide
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/faqs"">
+                                        FAQ's
+                                      </a>
+</li></ul></li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/general-assembly-guide"">
+                                        General Assembly Guide
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/what-tools-you-need"">
+                                        What tools you'll need
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""https://cdn.shopify.com/s/files/1/2983/8052/files/HINGE_FITTING_GUIDE_1.pdf?v=1622047540"">
+                                        Hinge Guide
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/faqs"">
+                                        FAQ's
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link mega-menu__link--level-2 link"" href=""#"">
+                                About
+                              </a><ul class=""list-unstyled"" role=""list""><li>
+<a class=""mega-menu__link link"" href=""/pages/about-us"">
+                                        About Us
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/contact-us-1"">
+                                        Contact Us
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/how-it-works"">
+                                        How it works
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/greener-planet"">
+                                        Greener Planet
+                                      </a>
+</li><li>
+<a class=""mega-menu__link link"" href=""/pages/careers"">
+                                        Careers
+                                      </a>
+</li></ul></li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/about-us"">
+                                        About Us
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/contact-us-1"">
+                                        Contact Us
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/how-it-works"">
+                                        How it works
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/greener-planet"">
+                                        Greener Planet
+                                      </a>
+</li>",,
+"<li>
+<a class=""mega-menu__link link"" href=""/pages/careers"">
+                                        Careers
+                                      </a>
+</li>",,
+"<li><a class=""header__menu-item header__menu-item list-menu__item link link--text focus-inset"" href=""/pages/our-colours"">
+<span>Our Colours</span>
+</a></li>",,
+"<li><a class=""header__menu-item header__menu-item list-menu__item link link--text focus-inset"" href=""/pages/samples"">
+<span>Samples</span>
+</a></li>",,
+"<li><a aria-current=""page"" aria-disabled=""true"" aria-label=""Page 1"" class=""pagination__item pagination__item--current light"" role=""link"">1</a></li>",,
+"<li><a aria-label=""Page 2"" class=""pagination__item link"" href=""/collections/all-cabinets?page=2"">2</a></li>",,
+"<li><a aria-label=""Page 3"" class=""pagination__item link"" href=""/collections/all-cabinets?page=3"">3</a></li>",,
+"<li><span class=""pagination__item"">…</span></li>",,
+"<li><a aria-label=""Page 8"" class=""pagination__item link"" href=""/collections/all-cabinets?page=8"">8</a></li>",,
+"<li>
+<a aria-label=""Next page"" class=""pagination__item pagination__item--prev pagination__item-arrow link motion-reduce"" href=""/collections/all-cabinets?page=2""><svg aria-hidden=""true"" class=""icon icon-caret"" focusable=""false"" role=""presentation"" viewbox=""0 0 10 6"">
+<path clip-rule=""evenodd"" d=""M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"" fill=""currentColor"" fill-rule=""evenodd"">
+</path></svg>
+</a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/moisture-resistant-mdf"">
+                            Our MDF
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/our-handles"">
+                            Our Handles
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/delivery-info"">
+                            Delivery Info
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/faqs"">
+                            FAQ's
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/privacy-policy"">
+                            Privacy Policy
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/terms-conditions"">
+                            Terms &amp; Conditions
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/moisture-resistant-mdf"">
+                            Our MDF
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/our-handles"">
+                            Our Handles
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/delivery-info"">
+                            Delivery Info
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/faqs"">
+                            FAQ's
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/privacy-policy"">
+                            Privacy Policy
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/terms-conditions"">
+                            Terms &amp; Conditions
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/contact-us-1"">
+                            Contact Us
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/about-us"">
+                            About Us
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/greener-planet"">
+                            Greener Planet
+                          </a>
+</li>",,
+"<li>
+<a class=""link link--text list-menu__item list-menu__item--link"" href=""/pages/careers"">
+                            Careers
+                          </a>
+</li>",,
+"<li class=""list-social__item"">
+<a class=""link list-social__link"" href=""https://www.facebook.com/TheCabinetShopUK/""><svg aria-hidden=""true"" class=""icon icon-facebook"" focusable=""false"" role=""presentation"" viewbox=""0 0 18 18"">
+<path d=""M16.42.61c.27 0 .5.1.69.28.19.2.28.42.28.7v15.44c0 .27-.1.5-.28.69a.94.94 0 01-.7.28h-4.39v-6.7h2.25l.31-2.65h-2.56v-1.7c0-.4.1-.72.28-.93.18-.2.5-.32 1-.32h1.37V3.35c-.6-.06-1.27-.1-2.01-.1-1.01 0-1.83.3-2.45.9-.62.6-.93 1.44-.93 2.53v1.97H7.04v2.65h2.24V18H.98c-.28 0-.5-.1-.7-.28a.94.94 0 01-.28-.7V1.59c0-.27.1-.5.28-.69a.94.94 0 01.7-.28h15.44z"" fill=""currentColor"">
+</path></svg>
+<span class=""visually-hidden"">Facebook</span>
+</a>
+</li>",,
+"<li class=""list-social__item"">
+<a class=""link list-social__link"" href=""https://pin.it/7h9XS3c""><svg aria-hidden=""true"" class=""icon icon-pinterest"" focusable=""false"" role=""presentation"" viewbox=""0 0 17 18"">
+<path d=""M8.48.58a8.42 8.42 0 015.9 2.45 8.42 8.42 0 011.33 10.08 8.28 8.28 0 01-7.23 4.16 8.5 8.5 0 01-2.37-.32c.42-.68.7-1.29.85-1.8l.59-2.29c.14.28.41.52.8.73.4.2.8.31 1.24.31.87 0 1.65-.25 2.34-.75a4.87 4.87 0 001.6-2.05 7.3 7.3 0 00.56-2.93c0-1.3-.5-2.41-1.49-3.36a5.27 5.27 0 00-3.8-1.43c-.93 0-1.8.16-2.58.48A5.23 5.23 0 002.85 8.6c0 .75.14 1.41.43 1.98.28.56.7.96 1.27 1.2.1.04.19.04.26 0 .07-.03.12-.1.15-.2l.18-.68c.05-.15.02-.3-.11-.45a2.35 2.35 0 01-.57-1.63A3.96 3.96 0 018.6 4.8c1.09 0 1.94.3 2.54.89.61.6.92 1.37.92 2.32 0 .8-.11 1.54-.33 2.21a3.97 3.97 0 01-.93 1.62c-.4.4-.87.6-1.4.6-.43 0-.78-.15-1.06-.47-.27-.32-.36-.7-.26-1.13a111.14 111.14 0 01.47-1.6l.18-.73c.06-.26.09-.47.09-.65 0-.36-.1-.66-.28-.89-.2-.23-.47-.35-.83-.35-.45 0-.83.2-1.13.62-.3.41-.46.93-.46 1.56a4.1 4.1 0 00.18 1.15l.06.15c-.6 2.58-.95 4.1-1.08 4.54-.12.55-.16 1.2-.13 1.94a8.4 8.4 0 01-5-7.65c0-2.3.81-4.28 2.44-5.9A8.04 8.04 0 018.48.57z"" fill=""currentColor"">
+</path></svg>
+<span class=""visually-hidden"">Pinterest</span>
+</a>
+</li>",,
+"<li class=""list-social__item"">
+<a class=""link list-social__link"" href=""https://www.instagram.com/thecabinetshopuk/""><svg aria-hidden=""true"" class=""icon icon-instagram"" focusable=""false"" role=""presentation"" viewbox=""0 0 18 18"">
+<path d=""M8.77 1.58c2.34 0 2.62.01 3.54.05.86.04 1.32.18 1.63.3.41.17.7.35 1.01.66.3.3.5.6.65 1 .12.32.27.78.3 1.64.05.92.06 1.2.06 3.54s-.01 2.62-.05 3.54a4.79 4.79 0 01-.3 1.63c-.17.41-.35.7-.66 1.01-.3.3-.6.5-1.01.66-.31.12-.77.26-1.63.3-.92.04-1.2.05-3.54.05s-2.62 0-3.55-.05a4.79 4.79 0 01-1.62-.3c-.42-.16-.7-.35-1.01-.66-.31-.3-.5-.6-.66-1a4.87 4.87 0 01-.3-1.64c-.04-.92-.05-1.2-.05-3.54s0-2.62.05-3.54c.04-.86.18-1.32.3-1.63.16-.41.35-.7.66-1.01.3-.3.6-.5 1-.65.32-.12.78-.27 1.63-.3.93-.05 1.2-.06 3.55-.06zm0-1.58C6.39 0 6.09.01 5.15.05c-.93.04-1.57.2-2.13.4-.57.23-1.06.54-1.55 1.02C1 1.96.7 2.45.46 3.02c-.22.56-.37 1.2-.4 2.13C0 6.1 0 6.4 0 8.77s.01 2.68.05 3.61c.04.94.2 1.57.4 2.13.23.58.54 1.07 1.02 1.56.49.48.98.78 1.55 1.01.56.22 1.2.37 2.13.4.94.05 1.24.06 3.62.06 2.39 0 2.68-.01 3.62-.05.93-.04 1.57-.2 2.13-.41a4.27 4.27 0 001.55-1.01c.49-.49.79-.98 1.01-1.56.22-.55.37-1.19.41-2.13.04-.93.05-1.23.05-3.61 0-2.39 0-2.68-.05-3.62a6.47 6.47 0 00-.4-2.13 4.27 4.27 0 00-1.02-1.55A4.35 4.35 0 0014.52.46a6.43 6.43 0 00-2.13-.41A69 69 0 008.77 0z"" fill=""currentColor""></path>
+<path d=""M8.8 4a4.5 4.5 0 100 9 4.5 4.5 0 000-9zm0 7.43a2.92 2.92 0 110-5.85 2.92 2.92 0 010 5.85zM13.43 5a1.05 1.05 0 100-2.1 1.05 1.05 0 000 2.1z"" fill=""currentColor"">
+</path></svg>
+<span class=""visually-hidden"">Instagram</span>
+</a>
+</li>",,
+"<li class=""list-social__item"">
+<a class=""link list-social__link"" href=""https://www.tiktok.com/@thecabinetshop""><svg aria-hidden=""true"" class=""icon icon-tiktok"" fill=""none"" focusable=""false"" height=""18"" role=""presentation"" width=""16"" xmlns=""http://www.w3.org/2000/svg"">
+<path d=""M8.02 0H11s-.17 3.82 4.13 4.1v2.95s-2.3.14-4.13-1.26l.03 6.1a5.52 5.52 0 11-5.51-5.52h.77V9.4a2.5 2.5 0 101.76 2.4L8.02 0z"" fill=""currentColor"">
+</path></svg>
+<span class=""visually-hidden"">TikTok</span>
+</a>
+</li>",,
+"<li class=""list-payment__item"">
+<svg aria-labelledby=""pi-american_express"" class=""icon icon--full-color"" height=""24"" role=""img"" viewbox=""0 0 38 24"" width=""38"" xmlns=""http://www.w3.org/2000/svg""><title id=""pi-american_express"">American Express</title><path d=""M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z"" fill=""#000"" opacity="".07""></path><path d=""M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z"" fill=""#006FCF""></path><path d=""M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z"" fill=""#FFF""></path><path d=""M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z"" fill=""#006FCF""></path><path d=""m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z"" fill=""#006FCF""></path><path d=""M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z"" fill=""#FFF""></path><path d=""m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z"" fill=""#006FCF""></path><path d=""M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z"" fill=""#006FCF""></path></svg>
+</li>",,
+"<li class=""list-payment__item"">
+<svg aria-labelledby=""pi-diners_club"" class=""icon icon--full-color"" height=""24"" role=""img"" viewbox=""0 0 38 24"" width=""38"" xmlns=""http://www.w3.org/2000/svg""><title id=""pi-diners_club"">Diners Club</title><path d=""M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"" opacity="".07""></path><path d=""M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"" fill=""#fff""></path><path d=""M12 12v3.7c0 .3-.2.3-.5.2-1.9-.8-3-3.3-2.3-5.4.4-1.1 1.2-2 2.3-2.4.4-.2.5-.1.5.2V12zm2 0V8.3c0-.3 0-.3.3-.2 2.1.8 3.2 3.3 2.4 5.4-.4 1.1-1.2 2-2.3 2.4-.4.2-.4.1-.4-.2V12zm7.2-7H13c3.8 0 6.8 3.1 6.8 7s-3 7-6.8 7h8.2c3.8 0 6.8-3.1 6.8-7s-3-7-6.8-7z"" fill=""#3086C8""></path></svg>
+</li>",,
+"<li class=""list-payment__item"">
+<svg aria-labelledby=""pi-discover"" class=""icon icon--full-color"" fill=""none"" height=""24"" role=""img"" viewbox=""0 0 38 24"" width=""38"" xmlns=""http://www.w3.org/2000/svg""><title id=""pi-discover"">Discover</title><path d=""M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"" fill=""#000"" opacity="".07""></path><path d=""M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32z"" fill=""#fff""></path><path d=""M3.57 7.16H2v5.5h1.57c.83 0 1.43-.2 1.96-.63.63-.52 1-1.3 1-2.11-.01-1.63-1.22-2.76-2.96-2.76zm1.26 4.14c-.34.3-.77.44-1.47.44h-.29V8.1h.29c.69 0 1.11.12 1.47.44.37.33.59.84.59 1.37 0 .53-.22 1.06-.59 1.39zm2.19-4.14h1.07v5.5H7.02v-5.5zm3.69 2.11c-.64-.24-.83-.4-.83-.69 0-.35.34-.61.8-.61.32 0 .59.13.86.45l.56-.73c-.46-.4-1.01-.61-1.62-.61-.97 0-1.72.68-1.72 1.58 0 .76.35 1.15 1.35 1.51.42.15.63.25.74.31.21.14.32.34.32.57 0 .45-.35.78-.83.78-.51 0-.92-.26-1.17-.73l-.69.67c.49.73 1.09 1.05 1.9 1.05 1.11 0 1.9-.74 1.9-1.81.02-.89-.35-1.29-1.57-1.74zm1.92.65c0 1.62 1.27 2.87 2.9 2.87.46 0 .86-.09 1.34-.32v-1.26c-.43.43-.81.6-1.29.6-1.08 0-1.85-.78-1.85-1.9 0-1.06.79-1.89 1.8-1.89.51 0 .9.18 1.34.62V7.38c-.47-.24-.86-.34-1.32-.34-1.61 0-2.92 1.28-2.92 2.88zm12.76.94l-1.47-3.7h-1.17l2.33 5.64h.58l2.37-5.64h-1.16l-1.48 3.7zm3.13 1.8h3.04v-.93h-1.97v-1.48h1.9v-.93h-1.9V8.1h1.97v-.94h-3.04v5.5zm7.29-3.87c0-1.03-.71-1.62-1.95-1.62h-1.59v5.5h1.07v-2.21h.14l1.48 2.21h1.32l-1.73-2.32c.81-.17 1.26-.72 1.26-1.56zm-2.16.91h-.31V8.03h.33c.67 0 1.03.28 1.03.82 0 .55-.36.85-1.05.85z"" fill=""#231F20""></path><path d=""M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z"" fill=""url(#pi-paint0_linear)""></path><path d=""M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z"" fill=""url(#pi-paint1_linear)"" opacity="".65""></path><path d=""M36.57 7.506c0-.1-.07-.15-.18-.15h-.16v.48h.12v-.19l.14.19h.14l-.16-.2c.06-.01.1-.06.1-.13zm-.2.07h-.02v-.13h.02c.06 0 .09.02.09.06 0 .05-.03.07-.09.07z"" fill=""#231F20""></path><path d=""M36.41 7.176c-.23 0-.42.19-.42.42 0 .23.19.42.42.42.23 0 .42-.19.42-.42 0-.23-.19-.42-.42-.42zm0 .77c-.18 0-.34-.15-.34-.35 0-.19.15-.35.34-.35.18 0 .33.16.33.35 0 .19-.15.35-.33.35z"" fill=""#231F20""></path><path d=""M37 12.984S27.09 19.873 8.976 23h26.023a2 2 0 002-1.984l.024-3.02L37 12.985z"" fill=""#F48120""></path><defs><lineargradient gradientunits=""userSpaceOnUse"" id=""pi-paint0_linear"" x1=""21.657"" x2=""19.632"" y1=""12.275"" y2=""9.104""><stop stop-color=""#F89F20""></stop><stop offset="".25"" stop-color=""#F79A20""></stop><stop offset="".533"" stop-color=""#F68D20""></stop><stop offset="".62"" stop-color=""#F58720""></stop><stop offset="".723"" stop-color=""#F48120""></stop><stop offset=""1"" stop-color=""#F37521""></stop></lineargradient><lineargradient gradientunits=""userSpaceOnUse"" id=""pi-paint1_linear"" x1=""21.338"" x2=""18.378"" y1=""12.232"" y2=""6.446""><stop stop-color=""#F58720""></stop><stop offset="".359"" stop-color=""#E16F27""></stop><stop offset="".703"" stop-color=""#D4602C""></stop><stop offset="".982"" stop-color=""#D05B2E""></stop></lineargradient></defs></svg>
+</li>",,
+"<li class=""list-payment__item"">
+<svg aria-labelledby=""pi-maestro"" class=""icon icon--full-color"" height=""24"" role=""img"" viewbox=""0 0 38 24"" width=""38"" xmlns=""http://www.w3.org/2000/svg""><title id=""pi-maestro"">Maestro</title><path d=""M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"" opacity="".07""></path><path d=""M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"" fill=""#fff""></path><circle cx=""15"" cy=""12"" fill=""#EB001B"" r=""7""></circle><circle cx=""23"" cy=""12"" fill=""#00A2E5"" r=""7""></circle><path d=""M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"" fill=""#7375CF""></path></svg>
+</li>",,
+"<li class=""list-payment__item"">
+<svg aria-labelledby=""pi-master"" class=""icon icon--full-color"" height=""24"" role=""img"" viewbox=""0 0 38 24"" width=""38"" xmlns=""http://www.w3.org/2000/svg""><title id=""pi-master"">Mastercard</title><path d=""M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"" opacity="".07""></path><path d=""M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"" fill=""#fff""></path><circle cx=""15"" cy=""12"" fill=""#EB001B"" r=""7""></circle><circle cx=""23"" cy=""12"" fill=""#F79E1B"" r=""7""></circle><path d=""M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"" fill=""#FF5F00""></path></svg>
+</li>",,
+"<li class=""list-payment__item"">
+<svg aria-labelledby=""pi-unionpay"" class=""icon icon--full-color"" height=""24"" role=""img"" viewbox=""-36 25 38 24"" width=""38"" xmlns=""http://www.w3.org/2000/svg""><title id=""pi-unionpay"">Union Pay</title><path d=""M-36 46.8v.7-.7zM-18.3 25v24h-7.2c-1.3 0-2.1-1-1.8-2.3l4.4-19.4c.3-1.3 1.9-2.3 3.2-2.3h1.4zm12.6 0c-1.3 0-2.9 1-3.2 2.3l-4.5 19.4c-.3 1.3.5 2.3 1.8 2.3h-4.9V25h10.8z"" fill=""#005B9A""></path><path d=""M-19.7 25c-1.3 0-2.9 1.1-3.2 2.3l-4.4 19.4c-.3 1.3.5 2.3 1.8 2.3h-8.9c-.8 0-1.5-.6-1.5-1.4v-21c0-.8.7-1.6 1.5-1.6h14.7z"" fill=""#E9292D""></path><path d=""M-5.7 25c-1.3 0-2.9 1.1-3.2 2.3l-4.4 19.4c-.3 1.3.5 2.3 1.8 2.3H-26h.5c-1.3 0-2.1-1-1.8-2.3l4.4-19.4c.3-1.3 1.9-2.3 3.2-2.3h14z"" fill=""#0E73B9""></path><path d=""M2 26.6v21c0 .8-.6 1.4-1.5 1.4h-12.1c-1.3 0-2.1-1.1-1.8-2.3l4.5-19.4C-8.6 26-7 25-5.7 25H.5c.9 0 1.5.7 1.5 1.6z"" fill=""#059DA4""></path><path d=""M-21.122 38.645h.14c.14 0 .28-.07.28-.14l.42-.63h1.19l-.21.35h1.4l-.21.63h-1.68c-.21.28-.42.42-.7.42h-.84l.21-.63m-.21.91h3.01l-.21.7h-1.19l-.21.7h1.19l-.21.7h-1.19l-.28 1.05c-.07.14 0 .28.28.21h.98l-.21.7h-1.89c-.35 0-.49-.21-.35-.63l.35-1.33h-.77l.21-.7h.77l.21-.7h-.7l.21-.7zm4.83-1.75v.42s.56-.42 1.12-.42h1.96l-.77 2.66c-.07.28-.35.49-.77.49h-2.24l-.49 1.89c0 .07 0 .14.14.14h.42l-.14.56h-1.12c-.42 0-.56-.14-.49-.35l1.47-5.39h.91zm1.68.77h-1.75l-.21.7s.28-.21.77-.21h1.05l.14-.49zm-.63 1.68c.14 0 .21 0 .21-.14l.14-.35h-1.75l-.14.56 1.54-.07zm-1.19.84h.98v.42h.28c.14 0 .21-.07.21-.14l.07-.28h.84l-.14.49c-.07.35-.35.49-.77.56h-.56v.77c0 .14.07.21.35.21h.49l-.14.56h-1.19c-.35 0-.49-.14-.49-.49l.07-2.1zm4.2-2.45l.21-.84h1.19l-.07.28s.56-.28 1.05-.28h1.47l-.21.84h-.21l-1.12 3.85h.21l-.21.77h-.21l-.07.35h-1.19l.07-.35h-2.17l.21-.77h.21l1.12-3.85h-.28m1.26 0l-.28 1.05s.49-.21.91-.28c.07-.35.21-.77.21-.77h-.84zm-.49 1.54l-.28 1.12s.56-.28.98-.28c.14-.42.21-.77.21-.77l-.91-.07zm.21 2.31l.21-.77h-.84l-.21.77h.84zm2.87-4.69h1.12l.07.42c0 .07.07.14.21.14h.21l-.21.7h-.77c-.28 0-.49-.07-.49-.35l-.14-.91zm-.35 1.47h3.57l-.21.77h-1.19l-.21.7h1.12l-.21.77h-1.26l-.28.42h.63l.14.84c0 .07.07.14.21.14h.21l-.21.7h-.7c-.35 0-.56-.07-.56-.35l-.14-.77-.56.84c-.14.21-.35.35-.63.35h-1.05l.21-.7h.35c.14 0 .21-.07.35-.21l.84-1.26h-1.05l.21-.77h1.19l.21-.7h-1.19l.21-.77zm-19.74-5.04c-.14.7-.42 1.19-.91 1.54-.49.35-1.12.56-1.89.56-.7 0-1.26-.21-1.54-.56-.21-.28-.35-.56-.35-.98 0-.14 0-.35.07-.56l.84-3.92h1.19l-.77 3.92v.28c0 .21.07.35.14.49.14.21.35.28.7.28s.7-.07.91-.28c.21-.21.42-.42.49-.77l.77-3.92h1.19l-.84 3.92m1.12-1.54h.84l-.07.49.14-.14c.28-.28.63-.42 1.05-.42.35 0 .63.14.77.35.14.21.21.49.14.91l-.49 2.38h-.91l.42-2.17c.07-.28.07-.49 0-.56-.07-.14-.21-.14-.35-.14-.21 0-.42.07-.56.21-.14.14-.28.35-.28.63l-.42 2.03h-.91l.63-3.57m9.8 0h.84l-.07.49.14-.14c.28-.28.63-.42 1.05-.42.35 0 .63.14.77.35s.21.49.14.91l-.49 2.38h-.91l.42-2.24c.07-.21 0-.42-.07-.49-.07-.14-.21-.14-.35-.14-.21 0-.42.07-.56.21-.14.14-.28.35-.28.63l-.42 2.03h-.91l.7-3.57m-5.81 0h.98l-.77 3.5h-.98l.77-3.5m.35-1.33h.98l-.21.84h-.98l.21-.84zm1.4 4.55c-.21-.21-.35-.56-.35-.98v-.21c0-.07 0-.21.07-.28.14-.56.35-1.05.7-1.33.35-.35.84-.49 1.33-.49.42 0 .77.14 1.05.35.21.21.35.56.35.98v.21c0 .07 0 .21-.07.28-.14.56-.35.98-.7 1.33-.35.35-.84.49-1.33.49-.35 0-.7-.14-1.05-.35m1.89-.7c.14-.21.28-.49.35-.84v-.35c0-.21-.07-.35-.14-.49a.635.635 0 0 0-.49-.21c-.28 0-.49.07-.63.28-.14.21-.28.49-.35.84v.28c0 .21.07.35.14.49.14.14.28.21.49.21.28.07.42 0 .63-.21m6.51-4.69h2.52c.49 0 .84.14 1.12.35.28.21.35.56.35.91v.28c0 .07 0 .21-.07.28-.07.49-.35.98-.7 1.26-.42.35-.84.49-1.4.49h-1.4l-.42 2.03h-1.19l1.19-5.6m.56 2.59h1.12c.28 0 .49-.07.7-.21.14-.14.28-.35.35-.63v-.28c0-.21-.07-.35-.21-.42-.14-.07-.35-.14-.7-.14h-.91l-.35 1.68zm8.68 3.71c-.35.77-.7 1.26-.91 1.47-.21.21-.63.7-1.61.7l.07-.63c.84-.28 1.26-1.4 1.54-1.96l-.28-3.78h1.19l.07 2.38.91-2.31h1.05l-2.03 4.13m-2.94-3.85l-.42.28c-.42-.35-.84-.56-1.54-.21-.98.49-1.89 4.13.91 2.94l.14.21h1.12l.7-3.29-.91.07m-.56 1.82c-.21.56-.56.84-.91.77-.28-.14-.35-.63-.21-1.19.21-.56.56-.84.91-.77.28.14.35.63.21 1.19"" fill=""#fff""></path></svg>
+</li>",,
+"<li class=""list-payment__item"">
+<svg aria-labelledby=""pi-visa"" class=""icon icon--full-color"" height=""24"" role=""img"" viewbox=""0 0 38 24"" width=""38"" xmlns=""http://www.w3.org/2000/svg""><title id=""pi-visa"">Visa</title><path d=""M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"" opacity="".07""></path><path d=""M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"" fill=""#fff""></path><path d=""M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z"" fill=""#142688""></path></svg>
+</li>",,
+"<li id=""a11y-refresh-page-message"">Choosing a selection results in a full page refresh.</li>",,
+"<li id=""a11y-new-window-message"">Opens in a new window.</li>",,

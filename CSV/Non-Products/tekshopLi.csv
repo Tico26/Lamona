@@ -1,0 +1,2043 @@
+html,name,price
+"<li><a href=""https://www.tekshop.co.uk/customer/account/"" id=""idM4C2dtsi"">My Account</a></li>",,
+"<li class=""nav item authorization-link"">
+<div class=""dropdown"">
+<div class=""toggle"" data-mage-init='{""dropdown"":{}}' data-toggle=""dropdown"" data-trigger-keypress-button=""true"">
+<span>Account</span>
+</div>
+<div class=""dropdown-menu"" data-target=""dropdown"">
+<div class=""row"">
+<div class=""col-m-6 text-center"">
+<a class=""action white"" href=""https://www.tekshop.co.uk/customer/account/create/"" title="" Create an Account"">
+                            Create an Account                        </a>
+</div>
+<div class=""col-m-6 text-center"">
+<a class=""action primary login"" href=""https://www.tekshop.co.uk/customer/account/login/"" title=""Log In"">
+                            Log In <i class=""fas fa-chevron-right""></i>
+</a>
+</div>
+</div>
+<hr class=""row""/>
+<div class=""title"">
+<i class=""far fa-user""></i> Your account            </div>
+<ul>
+<li>
+<a href=""https://www.tekshop.co.uk/customer/account/index/"" title=""Your Account"">Your Account <i class=""fas fa-chevron-right""></i></a>
+</li>
+<li>
+<a href=""https://www.tekshop.co.uk/sales/order/history/"" title=""Your Orders"">Your Orders <i class=""fas fa-chevron-right""></i></a>
+</li>
+</ul>
+</div>
+</div>
+</li>",,
+"<li>
+<a href=""https://www.tekshop.co.uk/customer/account/index/"" title=""Your Account"">Your Account <i class=""fas fa-chevron-right""></i></a>
+</li>",,
+"<li>
+<a href=""https://www.tekshop.co.uk/sales/order/history/"" title=""Your Orders"">Your Orders <i class=""fas fa-chevron-right""></i></a>
+</li>",,
+"<li><a href=""https://www.tekshop.co.uk/customer/account/create/"" id=""idymgzp5wO"">Create an Account</a></li>",,
+"<li class=""nav item authorization-link"">
+<div class=""dropdown"">
+<div class=""toggle"" data-mage-init='{""dropdown"":{}}' data-toggle=""dropdown"" data-trigger-keypress-button=""true"">
+<span>Account</span>
+</div>
+<div class=""dropdown-menu"" data-target=""dropdown"">
+<div class=""row"">
+<div class=""col-m-6 text-center"">
+<a class=""action white"" href=""https://www.tekshop.co.uk/customer/account/create/"" title="" Create an Account"">
+                            Create an Account                        </a>
+</div>
+<div class=""col-m-6 text-center"">
+<a class=""action primary login"" href=""https://www.tekshop.co.uk/customer/account/login/"" title=""Log In"">
+                            Log In <i class=""fas fa-chevron-right""></i>
+</a>
+</div>
+</div>
+<hr class=""row""/>
+<div class=""title"">
+<i class=""far fa-user""></i> Your account            </div>
+<ul>
+<li>
+<a href=""https://www.tekshop.co.uk/customer/account/index/"" title=""Your Account"">Your Account <i class=""fas fa-chevron-right""></i></a>
+</li>
+<li>
+<a href=""https://www.tekshop.co.uk/sales/order/history/"" title=""Your Orders"">Your Orders <i class=""fas fa-chevron-right""></i></a>
+</li>
+</ul>
+</div>
+</div>
+</li>",,
+"<li>
+<a href=""https://www.tekshop.co.uk/customer/account/index/"" title=""Your Account"">Your Account <i class=""fas fa-chevron-right""></i></a>
+</li>",,
+"<li>
+<a href=""https://www.tekshop.co.uk/sales/order/history/"" title=""Your Orders"">Your Orders <i class=""fas fa-chevron-right""></i></a>
+</li>",,
+"<li class=""link wishlist"" data-bind=""scope: 'wishlist'"">
+<a href=""https://www.tekshop.co.uk/wishlist/"" title=""Wishlist"">Wishlist        <!-- ko if: wishlist().counter -->
+<span class=""counter qty"" data-bind=""text: wishlist().counter""></span>
+<!-- /ko -->
+</a>
+</li>",,
+"<li class=""level0 nav-1 category-item first has-active level-top parent""><a class=""level-top"" href=""https://www.tekshop.co.uk/laptops""><span>Laptops</span></a><ul class=""level0 submenu""><li class=""level1 nav-1-1 category-item first""><a href=""https://www.tekshop.co.uk/laptops/home-laptops""><span>Home Laptops</span></a></li><li class=""level1 nav-1-2 category-item""><a href=""https://www.tekshop.co.uk/laptops/business-laptops""><span>Business Laptops</span></a></li><li class=""level1 nav-1-3 category-item""><a href=""https://www.tekshop.co.uk/laptops/gaming-laptops""><span>Gaming Laptops</span></a></li><li class=""level1 nav-1-4 category-item""><a href=""https://www.tekshop.co.uk/laptops/2-in-1-laptops""><span>2 In 1 Laptops</span></a></li><li class=""level1 nav-1-5 category-item""><a href=""https://www.tekshop.co.uk/laptops/chromebook-laptops""><span>Chromebooks</span></a></li><li class=""level1 nav-1-6 category-item last""><a href=""https://www.tekshop.co.uk/laptops/refurbished-laptops""><span>All Refurbished</span></a></li></ul></li>",,
+"<li class=""level1 nav-1-1 category-item first""><a href=""https://www.tekshop.co.uk/laptops/home-laptops""><span>Home Laptops</span></a></li>",,
+"<li class=""level1 nav-1-2 category-item""><a href=""https://www.tekshop.co.uk/laptops/business-laptops""><span>Business Laptops</span></a></li>",,
+"<li class=""level1 nav-1-3 category-item""><a href=""https://www.tekshop.co.uk/laptops/gaming-laptops""><span>Gaming Laptops</span></a></li>",,
+"<li class=""level1 nav-1-4 category-item""><a href=""https://www.tekshop.co.uk/laptops/2-in-1-laptops""><span>2 In 1 Laptops</span></a></li>",,
+"<li class=""level1 nav-1-5 category-item""><a href=""https://www.tekshop.co.uk/laptops/chromebook-laptops""><span>Chromebooks</span></a></li>",,
+"<li class=""level1 nav-1-6 category-item last""><a href=""https://www.tekshop.co.uk/laptops/refurbished-laptops""><span>All Refurbished</span></a></li>",,
+"<li class=""level0 nav-2 category-item level-top parent""><a class=""level-top"" href=""https://www.tekshop.co.uk/desktop-pcs""><span>Desktops</span></a><ul class=""level0 submenu""><li class=""level1 nav-2-1 category-item first""><a href=""https://www.tekshop.co.uk/desktop-pcs/home-pcs""><span>Home Desktops</span></a></li><li class=""level1 nav-2-2 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/business-pcs""><span>Business Desktops</span></a></li><li class=""level1 nav-2-3 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/gaming-pcs""><span>Gaming Desktops</span></a></li><li class=""level1 nav-2-4 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/all-in-one-pcs""><span>All-In-One Desktops</span></a></li><li class=""level1 nav-2-5 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/grade-a-refurbished""><span>Grade A Refurbished</span></a></li><li class=""level1 nav-2-6 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/grade-b-refurbished""><span>Grade B Refurbished</span></a></li><li class=""level1 nav-2-7 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/refurbished-pcs""><span>All Refurbished</span></a></li><li class=""level1 nav-2-8 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/small-form-factor-pcs""><span>Small Form Factor Desktops</span></a></li><li class=""level1 nav-2-9 category-item last""><a href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs""><span>Nvidia PCs</span></a></li></ul></li>",,
+"<li class=""level1 nav-2-1 category-item first""><a href=""https://www.tekshop.co.uk/desktop-pcs/home-pcs""><span>Home Desktops</span></a></li>",,
+"<li class=""level1 nav-2-2 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/business-pcs""><span>Business Desktops</span></a></li>",,
+"<li class=""level1 nav-2-3 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/gaming-pcs""><span>Gaming Desktops</span></a></li>",,
+"<li class=""level1 nav-2-4 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/all-in-one-pcs""><span>All-In-One Desktops</span></a></li>",,
+"<li class=""level1 nav-2-5 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/grade-a-refurbished""><span>Grade A Refurbished</span></a></li>",,
+"<li class=""level1 nav-2-6 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/grade-b-refurbished""><span>Grade B Refurbished</span></a></li>",,
+"<li class=""level1 nav-2-7 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/refurbished-pcs""><span>All Refurbished</span></a></li>",,
+"<li class=""level1 nav-2-8 category-item""><a href=""https://www.tekshop.co.uk/desktop-pcs/small-form-factor-pcs""><span>Small Form Factor Desktops</span></a></li>",,
+"<li class=""level1 nav-2-9 category-item last""><a href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs""><span>Nvidia PCs</span></a></li>",,
+"<li class=""level0 nav-3 category-item level-top parent""><a class=""level-top"" href=""https://www.tekshop.co.uk/pc-components""><span>PC Components</span></a><ul class=""level0 submenu""><li class=""level1 nav-3-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/processors""><span>Processors / CPUs</span></a></li><li class=""level1 nav-3-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/cpu-coolers""><span>Processor / CPU Coolers</span></a></li><li class=""level1 nav-3-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/power-supplies""><span>Power Supplies </span></a></li><li class=""level1 nav-3-4 category-item parent""><a href=""https://www.tekshop.co.uk/pc-components/storage""><span>Storage (SSD / HDD)</span></a><ul class=""level1 submenu""><li class=""level2 nav-3-4-1 category-item first last""><a href=""https://www.tekshop.co.uk/pc-components/storage/ssds""><span>SSDs</span></a></li></ul></li><li class=""level1 nav-3-5 category-item parent""><a href=""https://www.tekshop.co.uk/pc-components/gpus""><span>Graphics Card</span></a><ul class=""level1 submenu""><li class=""level2 nav-3-5-1 category-item first parent""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia""><span>NVIDIA</span></a><ul class=""level2 submenu""><li class=""level3 nav-3-5-1-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/gtx-series""><span>GeForce GTX Series</span></a></li><li class=""level3 nav-3-5-1-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-20-series""><span>GeForce RTX 2000 Series</span></a></li><li class=""level3 nav-3-5-1-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-30-series""><span>GeForce RTX 3000 Series</span></a></li><li class=""level3 nav-3-5-1-4 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-40-series""><span>GeForce RTX 4000 Series</span></a></li></ul></li><li class=""level2 nav-3-5-2 category-item last parent""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd""><span>AMD</span></a><ul class=""level2 submenu""><li class=""level3 nav-3-5-2-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-6000-series""><span>Radeon RX 6000 Series</span></a></li><li class=""level3 nav-3-5-2-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-5000-series""><span>Radeon RX 5000 Series</span></a></li><li class=""level3 nav-3-5-2-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-vega-series""><span>Radeon RX Vega Series</span></a></li><li class=""level3 nav-3-5-2-4 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-500-series""><span>Radeon RX 500 Series</span></a></li></ul></li></ul></li><li class=""level1 nav-3-6 category-item""><a href=""https://www.tekshop.co.uk/pc-components/open-box-desktop-components""><span>Open Box Desktop Components</span></a></li><li class=""level1 nav-3-7 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/grade-a-refurbished""><span>Grade A Refurbished</span></a></li></ul></li>",,
+"<li class=""level1 nav-3-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/processors""><span>Processors / CPUs</span></a></li>",,
+"<li class=""level1 nav-3-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/cpu-coolers""><span>Processor / CPU Coolers</span></a></li>",,
+"<li class=""level1 nav-3-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/power-supplies""><span>Power Supplies </span></a></li>",,
+"<li class=""level1 nav-3-4 category-item parent""><a href=""https://www.tekshop.co.uk/pc-components/storage""><span>Storage (SSD / HDD)</span></a><ul class=""level1 submenu""><li class=""level2 nav-3-4-1 category-item first last""><a href=""https://www.tekshop.co.uk/pc-components/storage/ssds""><span>SSDs</span></a></li></ul></li>",,
+"<li class=""level2 nav-3-4-1 category-item first last""><a href=""https://www.tekshop.co.uk/pc-components/storage/ssds""><span>SSDs</span></a></li>",,
+"<li class=""level1 nav-3-5 category-item parent""><a href=""https://www.tekshop.co.uk/pc-components/gpus""><span>Graphics Card</span></a><ul class=""level1 submenu""><li class=""level2 nav-3-5-1 category-item first parent""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia""><span>NVIDIA</span></a><ul class=""level2 submenu""><li class=""level3 nav-3-5-1-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/gtx-series""><span>GeForce GTX Series</span></a></li><li class=""level3 nav-3-5-1-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-20-series""><span>GeForce RTX 2000 Series</span></a></li><li class=""level3 nav-3-5-1-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-30-series""><span>GeForce RTX 3000 Series</span></a></li><li class=""level3 nav-3-5-1-4 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-40-series""><span>GeForce RTX 4000 Series</span></a></li></ul></li><li class=""level2 nav-3-5-2 category-item last parent""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd""><span>AMD</span></a><ul class=""level2 submenu""><li class=""level3 nav-3-5-2-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-6000-series""><span>Radeon RX 6000 Series</span></a></li><li class=""level3 nav-3-5-2-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-5000-series""><span>Radeon RX 5000 Series</span></a></li><li class=""level3 nav-3-5-2-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-vega-series""><span>Radeon RX Vega Series</span></a></li><li class=""level3 nav-3-5-2-4 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-500-series""><span>Radeon RX 500 Series</span></a></li></ul></li></ul></li>",,
+"<li class=""level2 nav-3-5-1 category-item first parent""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia""><span>NVIDIA</span></a><ul class=""level2 submenu""><li class=""level3 nav-3-5-1-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/gtx-series""><span>GeForce GTX Series</span></a></li><li class=""level3 nav-3-5-1-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-20-series""><span>GeForce RTX 2000 Series</span></a></li><li class=""level3 nav-3-5-1-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-30-series""><span>GeForce RTX 3000 Series</span></a></li><li class=""level3 nav-3-5-1-4 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-40-series""><span>GeForce RTX 4000 Series</span></a></li></ul></li>",,
+"<li class=""level3 nav-3-5-1-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/gtx-series""><span>GeForce GTX Series</span></a></li>",,
+"<li class=""level3 nav-3-5-1-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-20-series""><span>GeForce RTX 2000 Series</span></a></li>",,
+"<li class=""level3 nav-3-5-1-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-30-series""><span>GeForce RTX 3000 Series</span></a></li>",,
+"<li class=""level3 nav-3-5-1-4 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-40-series""><span>GeForce RTX 4000 Series</span></a></li>",,
+"<li class=""level2 nav-3-5-2 category-item last parent""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd""><span>AMD</span></a><ul class=""level2 submenu""><li class=""level3 nav-3-5-2-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-6000-series""><span>Radeon RX 6000 Series</span></a></li><li class=""level3 nav-3-5-2-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-5000-series""><span>Radeon RX 5000 Series</span></a></li><li class=""level3 nav-3-5-2-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-vega-series""><span>Radeon RX Vega Series</span></a></li><li class=""level3 nav-3-5-2-4 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-500-series""><span>Radeon RX 500 Series</span></a></li></ul></li>",,
+"<li class=""level3 nav-3-5-2-1 category-item first""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-6000-series""><span>Radeon RX 6000 Series</span></a></li>",,
+"<li class=""level3 nav-3-5-2-2 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-5000-series""><span>Radeon RX 5000 Series</span></a></li>",,
+"<li class=""level3 nav-3-5-2-3 category-item""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-vega-series""><span>Radeon RX Vega Series</span></a></li>",,
+"<li class=""level3 nav-3-5-2-4 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/gpus/amd/radeon-rx-500-series""><span>Radeon RX 500 Series</span></a></li>",,
+"<li class=""level1 nav-3-6 category-item""><a href=""https://www.tekshop.co.uk/pc-components/open-box-desktop-components""><span>Open Box Desktop Components</span></a></li>",,
+"<li class=""level1 nav-3-7 category-item last""><a href=""https://www.tekshop.co.uk/pc-components/grade-a-refurbished""><span>Grade A Refurbished</span></a></li>",,
+"<li class=""level0 nav-4 category-item level-top parent""><a class=""level-top"" href=""https://www.tekshop.co.uk/monitors""><span>Monitors</span></a><ul class=""level0 submenu""><li class=""level1 nav-4-1 category-item first""><a href=""https://www.tekshop.co.uk/monitors/home-monitors""><span>Home Monitors</span></a></li><li class=""level1 nav-4-2 category-item""><a href=""https://www.tekshop.co.uk/monitors/business-monitors""><span>Business Monitors</span></a></li><li class=""level1 nav-4-3 category-item""><a href=""https://www.tekshop.co.uk/monitors/gaming-monitors""><span>Gaming Monitors</span></a></li><li class=""level1 nav-4-4 category-item""><a href=""https://www.tekshop.co.uk/monitors/televisions""><span>Televisions</span></a></li><li class=""level1 nav-4-5 category-item""><a href=""https://www.tekshop.co.uk/monitors/high-refresh-rate-monitors""><span>High Refresh Rate Monitors</span></a></li><li class=""level1 nav-4-6 category-item""><a href=""https://www.tekshop.co.uk/monitors/large-monitors""><span>Monitors (Extra Large)</span></a></li><li class=""level1 nav-4-7 category-item""><a href=""https://www.tekshop.co.uk/monitors/curved-monitors""><span>Curved Monitors</span></a></li><li class=""level1 nav-4-8 category-item""><a href=""https://www.tekshop.co.uk/monitors/1080p-hd-monitors""><span>1080p Full HD</span></a></li><li class=""level1 nav-4-9 category-item""><a href=""https://www.tekshop.co.uk/monitors/1440p-quad-hd-monitors""><span>1440p Quad HD</span></a></li><li class=""level1 nav-4-10 category-item""><a href=""https://www.tekshop.co.uk/monitors/2160p-4k-ultra-hd-monitors""><span>2160p 4k Ultra HD (UHD)</span></a></li><li class=""level1 nav-4-11 category-item""><a href=""https://www.tekshop.co.uk/monitors/philips-monitors""><span>Philips Monitors</span></a></li><li class=""level1 nav-4-12 category-item""><a href=""https://www.tekshop.co.uk/monitors/33-39-9-monitors""><span>33-39.9"" Monitors</span></a></li><li class=""level1 nav-4-13 category-item""><a href=""https://www.tekshop.co.uk/monitors/43-49-9-monitors""><span>43 - 49.9"" Monitors</span></a></li><li class=""level1 nav-4-14 category-item""><a href=""https://www.tekshop.co.uk/monitors/grade-a-refurbished""><span>Grade A Refurbished</span></a></li><li class=""level1 nav-4-15 category-item""><a href=""https://www.tekshop.co.uk/monitors/grade-b-refurbished""><span>Grade B Refurbished</span></a></li><li class=""level1 nav-4-16 category-item last""><a href=""https://www.tekshop.co.uk/monitors/open-box-monitors""><span>Open Box Monitors</span></a></li></ul></li>",,
+"<li class=""level1 nav-4-1 category-item first""><a href=""https://www.tekshop.co.uk/monitors/home-monitors""><span>Home Monitors</span></a></li>",,
+"<li class=""level1 nav-4-2 category-item""><a href=""https://www.tekshop.co.uk/monitors/business-monitors""><span>Business Monitors</span></a></li>",,
+"<li class=""level1 nav-4-3 category-item""><a href=""https://www.tekshop.co.uk/monitors/gaming-monitors""><span>Gaming Monitors</span></a></li>",,
+"<li class=""level1 nav-4-4 category-item""><a href=""https://www.tekshop.co.uk/monitors/televisions""><span>Televisions</span></a></li>",,
+"<li class=""level1 nav-4-5 category-item""><a href=""https://www.tekshop.co.uk/monitors/high-refresh-rate-monitors""><span>High Refresh Rate Monitors</span></a></li>",,
+"<li class=""level1 nav-4-6 category-item""><a href=""https://www.tekshop.co.uk/monitors/large-monitors""><span>Monitors (Extra Large)</span></a></li>",,
+"<li class=""level1 nav-4-7 category-item""><a href=""https://www.tekshop.co.uk/monitors/curved-monitors""><span>Curved Monitors</span></a></li>",,
+"<li class=""level1 nav-4-8 category-item""><a href=""https://www.tekshop.co.uk/monitors/1080p-hd-monitors""><span>1080p Full HD</span></a></li>",,
+"<li class=""level1 nav-4-9 category-item""><a href=""https://www.tekshop.co.uk/monitors/1440p-quad-hd-monitors""><span>1440p Quad HD</span></a></li>",,
+"<li class=""level1 nav-4-10 category-item""><a href=""https://www.tekshop.co.uk/monitors/2160p-4k-ultra-hd-monitors""><span>2160p 4k Ultra HD (UHD)</span></a></li>",,
+"<li class=""level1 nav-4-11 category-item""><a href=""https://www.tekshop.co.uk/monitors/philips-monitors""><span>Philips Monitors</span></a></li>",,
+"<li class=""level1 nav-4-12 category-item""><a href=""https://www.tekshop.co.uk/monitors/33-39-9-monitors""><span>33-39.9"" Monitors</span></a></li>",,
+"<li class=""level1 nav-4-13 category-item""><a href=""https://www.tekshop.co.uk/monitors/43-49-9-monitors""><span>43 - 49.9"" Monitors</span></a></li>",,
+"<li class=""level1 nav-4-14 category-item""><a href=""https://www.tekshop.co.uk/monitors/grade-a-refurbished""><span>Grade A Refurbished</span></a></li>",,
+"<li class=""level1 nav-4-15 category-item""><a href=""https://www.tekshop.co.uk/monitors/grade-b-refurbished""><span>Grade B Refurbished</span></a></li>",,
+"<li class=""level1 nav-4-16 category-item last""><a href=""https://www.tekshop.co.uk/monitors/open-box-monitors""><span>Open Box Monitors</span></a></li>",,
+"<li class=""level0 nav-5 category-item level-top""><a class=""level-top"" href=""https://www.tekshop.co.uk/phones-tablets""><span>Phones &amp; Tablets</span></a></li>",,
+"<li class=""level0 nav-6 category-item level-top""><a class=""level-top"" href=""https://www.tekshop.co.uk/audio-visual""><span>Audio Visual</span></a></li>",,
+"<li class=""level0 nav-7 category-item level-top parent""><a class=""level-top"" href=""https://www.tekshop.co.uk/brands-all""><span>Brands</span></a><ul class=""level0 submenu""><li class=""level1 nav-7-1 category-item first""><a href=""https://www.tekshop.co.uk/brands-all/razer""><span>Razer</span></a></li><li class=""level1 nav-7-2 category-item""><a href=""https://www.tekshop.co.uk/brands-all/msi""><span>MSI</span></a></li><li class=""level1 nav-7-3 category-item""><a href=""https://www.tekshop.co.uk/brands-all/lg""><span>LG</span></a></li><li class=""level1 nav-7-4 category-item""><a href=""https://www.tekshop.co.uk/brands-all/lenovo""><span>Lenovo</span></a></li><li class=""level1 nav-7-5 category-item""><a href=""https://www.tekshop.co.uk/brands-all/huawei""><span>Huawei</span></a></li><li class=""level1 nav-7-6 category-item""><a href=""https://www.tekshop.co.uk/brands-all/hp""><span>HP</span></a></li><li class=""level1 nav-7-7 category-item""><a href=""https://www.tekshop.co.uk/brands-all/dell""><span>Dell</span></a></li><li class=""level1 nav-7-8 category-item""><a href=""https://www.tekshop.co.uk/brands-all/asus""><span>ASUS</span></a></li><li class=""level1 nav-7-9 category-item""><a href=""https://www.tekshop.co.uk/brands-all/acer""><span>Acer</span></a></li><li class=""level1 nav-7-10 category-item""><a href=""https://www.tekshop.co.uk/brands-all/gigabyte""><span>Gigabyte</span></a></li><li class=""level1 nav-7-11 category-item""><a href=""https://www.tekshop.co.uk/brands-all/optoma""><span>Optoma</span></a></li><li class=""level1 nav-7-12 category-item""><a href=""https://www.tekshop.co.uk/brands-all/samsung""><span>Samsung</span></a></li><li class=""level1 nav-7-13 category-item""><a href=""https://www.tekshop.co.uk/brands-all/bang-olufsen""><span>Bang &amp; Olufsen</span></a></li><li class=""level1 nav-7-14 category-item""><a href=""https://www.tekshop.co.uk/brands-all/fujitsu""><span>Fujitsu</span></a></li><li class=""level1 nav-7-15 category-item""><a href=""https://www.tekshop.co.uk/brands-all/microsoft""><span>Microsoft</span></a></li><li class=""level1 nav-7-16 category-item""><a href=""https://www.tekshop.co.uk/brands-all/apc""><span>APC</span></a></li><li class=""level1 nav-7-17 category-item last""><a href=""https://www.tekshop.co.uk/brands-all/philips""><span>Philips</span></a></li></ul></li>",,
+"<li class=""level1 nav-7-1 category-item first""><a href=""https://www.tekshop.co.uk/brands-all/razer""><span>Razer</span></a></li>",,
+"<li class=""level1 nav-7-2 category-item""><a href=""https://www.tekshop.co.uk/brands-all/msi""><span>MSI</span></a></li>",,
+"<li class=""level1 nav-7-3 category-item""><a href=""https://www.tekshop.co.uk/brands-all/lg""><span>LG</span></a></li>",,
+"<li class=""level1 nav-7-4 category-item""><a href=""https://www.tekshop.co.uk/brands-all/lenovo""><span>Lenovo</span></a></li>",,
+"<li class=""level1 nav-7-5 category-item""><a href=""https://www.tekshop.co.uk/brands-all/huawei""><span>Huawei</span></a></li>",,
+"<li class=""level1 nav-7-6 category-item""><a href=""https://www.tekshop.co.uk/brands-all/hp""><span>HP</span></a></li>",,
+"<li class=""level1 nav-7-7 category-item""><a href=""https://www.tekshop.co.uk/brands-all/dell""><span>Dell</span></a></li>",,
+"<li class=""level1 nav-7-8 category-item""><a href=""https://www.tekshop.co.uk/brands-all/asus""><span>ASUS</span></a></li>",,
+"<li class=""level1 nav-7-9 category-item""><a href=""https://www.tekshop.co.uk/brands-all/acer""><span>Acer</span></a></li>",,
+"<li class=""level1 nav-7-10 category-item""><a href=""https://www.tekshop.co.uk/brands-all/gigabyte""><span>Gigabyte</span></a></li>",,
+"<li class=""level1 nav-7-11 category-item""><a href=""https://www.tekshop.co.uk/brands-all/optoma""><span>Optoma</span></a></li>",,
+"<li class=""level1 nav-7-12 category-item""><a href=""https://www.tekshop.co.uk/brands-all/samsung""><span>Samsung</span></a></li>",,
+"<li class=""level1 nav-7-13 category-item""><a href=""https://www.tekshop.co.uk/brands-all/bang-olufsen""><span>Bang &amp; Olufsen</span></a></li>",,
+"<li class=""level1 nav-7-14 category-item""><a href=""https://www.tekshop.co.uk/brands-all/fujitsu""><span>Fujitsu</span></a></li>",,
+"<li class=""level1 nav-7-15 category-item""><a href=""https://www.tekshop.co.uk/brands-all/microsoft""><span>Microsoft</span></a></li>",,
+"<li class=""level1 nav-7-16 category-item""><a href=""https://www.tekshop.co.uk/brands-all/apc""><span>APC</span></a></li>",,
+"<li class=""level1 nav-7-17 category-item last""><a href=""https://www.tekshop.co.uk/brands-all/philips""><span>Philips</span></a></li>",,
+"<li class=""level0 nav-8 category-item last level-top""><a class=""level-top"" href=""https://www.tekshop.co.uk/clearance""><span>Clearance</span></a></li>",,
+"<li class=""top-categoies"">
+<a href=""https://www.tekshop.co.uk/laptops"" title=""Laptops"">Laptops</a>
+<!-- Get MegaMenu Dropdown -->
+<ul class=""megamenu level0 submenu"">
+<div class=""container"">
+<li>
+                            Laptops                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptop Types"">Type</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/home-laptops"" title=""Home Laptops"">Home / Everyday</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/business-laptops"" title=""Business Laptops"">Business</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/gaming-laptops"" title=""Gaming Laptops"">Gaming</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/chromebook-laptops"" title=""Chromebook Laptops"">Chromebooks</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/2-in-1-laptops"" title=""2 in 1 Laptops"">2 in 1s</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a href=""https://www.tekshop.co.uk/brands-all"" title=""Laptop Brands"">Brand</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/acer-laptops"" title=""Acer Laptops"">Acer</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/asus-laptops"" title=""ASUS Laptops"">ASUS</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/dell-laptops"" title=""Dell Laptops"">Dell</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/hp-laptops"" title=""HP Laptops"">HP</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/lenovo-laptops"" title=""Lenovo Laptops"">Lenovo</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/razer-laptops"" title=""Razer Laptops"">Razer</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/huawei-laptops"" title=""Huawei Laptops"">Huawei</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/msi-laptops"" title=""MSI Laptops"">MSI</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptop By Grade"">Grade</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/brand-new-laptops"" title=""Brand New Laptops"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/open-box-as-new"" title=""Open Box Laptops"">Open Box</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/refurbished-laptops"" title=""All Refurbished Laptops"">All Refurbished</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/grade-a-refurbished"" title=""Grade A Refurbished Laptops"">Grade A Refurbished</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/grade-b-refurbished"" title=""Grade B Refurbished Laptops"">Grade B Refurbished</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptops By Screen Size"">Screen Size</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/11-inch-laptops"" title=""10 - 12 Inch Laptops"">10 - 12.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/13-inch-laptops"" title=""13 Inch Laptops"">13 - 13.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/14-inch-laptops"" title=""14 Inch Laptops"">14 - 14.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/15-inch-laptops"" title=""15 Inch Laptops"">15 - 15.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/17-inch-laptops"" title=""17 Inch Laptops"">17 - 17.9""</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptops By CPU"">Processor</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/amd-laptops"" title=""AMD Laptops"">AMD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/intel-laptops"" title=""Intel Laptops"">Intel</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptops By GPU"">Graphics Card</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/nvidia-laptops"" title=""NVIDIA Laptops"">NVIDIA</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-gtx-series-laptops"" title=""NVIDIA GTX Laptops"">- GTX</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-rtx-30-series-laptops"" title=""NVIDIA RTX 30 Series Laptops"">- RTX 3000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-rtx-40-series-laptops"" title=""NVIDIA RTX 40 Series Laptops"">- RTX 4000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/amd-gpu-laptops"" title=""AMD GPU Laptops"">AMD</a>
+</nav>
+</div>
+</div>
+</div></div> </li>
+</div>
+</ul>
+</li>",,
+"<li>
+                            Laptops                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptop Types"">Type</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/home-laptops"" title=""Home Laptops"">Home / Everyday</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/business-laptops"" title=""Business Laptops"">Business</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/gaming-laptops"" title=""Gaming Laptops"">Gaming</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/chromebook-laptops"" title=""Chromebook Laptops"">Chromebooks</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/2-in-1-laptops"" title=""2 in 1 Laptops"">2 in 1s</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a href=""https://www.tekshop.co.uk/brands-all"" title=""Laptop Brands"">Brand</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/acer-laptops"" title=""Acer Laptops"">Acer</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/asus-laptops"" title=""ASUS Laptops"">ASUS</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/dell-laptops"" title=""Dell Laptops"">Dell</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/hp-laptops"" title=""HP Laptops"">HP</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/lenovo-laptops"" title=""Lenovo Laptops"">Lenovo</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/razer-laptops"" title=""Razer Laptops"">Razer</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/huawei-laptops"" title=""Huawei Laptops"">Huawei</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/msi-laptops"" title=""MSI Laptops"">MSI</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptop By Grade"">Grade</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/brand-new-laptops"" title=""Brand New Laptops"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/open-box-as-new"" title=""Open Box Laptops"">Open Box</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/refurbished-laptops"" title=""All Refurbished Laptops"">All Refurbished</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/grade-a-refurbished"" title=""Grade A Refurbished Laptops"">Grade A Refurbished</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/grade-b-refurbished"" title=""Grade B Refurbished Laptops"">Grade B Refurbished</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptops By Screen Size"">Screen Size</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/11-inch-laptops"" title=""10 - 12 Inch Laptops"">10 - 12.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/13-inch-laptops"" title=""13 Inch Laptops"">13 - 13.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/14-inch-laptops"" title=""14 Inch Laptops"">14 - 14.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/15-inch-laptops"" title=""15 Inch Laptops"">15 - 15.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/17-inch-laptops"" title=""17 Inch Laptops"">17 - 17.9""</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptops By CPU"">Processor</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/amd-laptops"" title=""AMD Laptops"">AMD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/intel-laptops"" title=""Intel Laptops"">Intel</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Laptops By GPU"">Graphics Card</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/nvidia-laptops"" title=""NVIDIA Laptops"">NVIDIA</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-gtx-series-laptops"" title=""NVIDIA GTX Laptops"">- GTX</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-rtx-30-series-laptops"" title=""NVIDIA RTX 30 Series Laptops"">- RTX 3000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/nvidia-laptops/nvidia-rtx-40-series-laptops"" title=""NVIDIA RTX 40 Series Laptops"">- RTX 4000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/laptops/amd-gpu-laptops"" title=""AMD GPU Laptops"">AMD</a>
+</nav>
+</div>
+</div>
+</div></div> </li>",,
+"<li class=""top-categoies"">
+<a href=""https://www.tekshop.co.uk/desktop-pcs"" title=""Desktops"">Desktops</a>
+<!-- Get MegaMenu Dropdown -->
+<ul class=""megamenu level0 submenu"">
+<div class=""container"">
+<li>
+                            Desktops                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By Type"">Type</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/home-pcs"" title=""Home PCs"">Home / Everyday</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/business-pcs"" title=""Business PCs"">Business</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/gaming-pcs"" title=""Gaming PCs"">Gaming</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/all-in-one-pcs"" title=""AIO PCs"">All-In-One (AIO)</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By Brand"">Brand</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/acer-pcs"" title=""Acer PCs"">Acer</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/asus-pcs"" title=""ASUS PCs"">Asus</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/dell-pcs"" title=""Dell PCs"">Dell</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/hp-pcs"" title=""HP PCs"">HP</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/lenovo-pcs"" title=""Lenovo PCs"">Lenovo</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/msi-pcs"" title=""MSI PCs"">MSI</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By Grade"">Grade</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/brand-new-pcs"" title=""Brand New PCs"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/open-box-pcs"" title=""Open Box PCs"">Open Box</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/grade-a-refurbished"" title=""Grade A Refurbished"">Grade A Refurbished</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/grade-b-refurbished"" title=""Grade B Refurbished"">Grade B Refurbished</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/refurbished-pcs"" title=""Refurbished PCs"">All Refurbished</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By Form Factor"">Size</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/micro-form-factor-pcs"" title=""Micro Form Factor PCs"">Micro Form Factor (MFF)</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/small-form-factor-pcs"" title=""Small Form Factor PCs"">Small Form Factor (SFF)</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/mid-tower-pcs"" title=""Mid Tower PCs"">Mid Tower</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/full-tower-pcs"" title=""Full Tower PCs"">Full Tower</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By GPU"">Graphics Card</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs"" title=""NVIDIA PCs"">NVIDIA</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-gtx-series-pcs"" title=""NVIDIA GTX PCs"">- GTX</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-20-series-pcs"" title=""NVIDIA RTX 2000 PCs"">- RTX 2000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-30-series-pcs"" title=""NVIDIA RTX 3000 PCs"">- RTX 3000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-40-series-pcs"" title=""NVIDIA RTX 4000 PCs"">- RTX 4000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/amd-pcs"" title=""AMD PCs"">AMD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/amd-pcs/amd-rx-70-series-pcs"" title=""AMD RX 7000 PCs"">- RX 7000</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2 menu-bannner"">
+<p>Up to
+          <strong>40% off</strong>
+<span>Gaming Desktops</span></p>
+<picture><source alt=""Gaming Desktops"" srcset=""https://www.tekshop.co.uk/media/wysiwyg/menu/desktop.webp"" type=""image/webp""/><img alt=""Gaming Desktops"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/wysiwyg/menu/desktop.jpg""/></picture>
+<a class=""action primary"" href=""https://www.tekshop.co.uk/desktop-pcs/gaming-pcs"">Shop now</a>
+</div>
+</div></div> </li>
+</div>
+</ul>
+</li>",,
+"<li>
+                            Desktops                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By Type"">Type</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/home-pcs"" title=""Home PCs"">Home / Everyday</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/business-pcs"" title=""Business PCs"">Business</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/gaming-pcs"" title=""Gaming PCs"">Gaming</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/all-in-one-pcs"" title=""AIO PCs"">All-In-One (AIO)</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By Brand"">Brand</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/acer-pcs"" title=""Acer PCs"">Acer</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/asus-pcs"" title=""ASUS PCs"">Asus</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/dell-pcs"" title=""Dell PCs"">Dell</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/hp-pcs"" title=""HP PCs"">HP</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/lenovo-pcs"" title=""Lenovo PCs"">Lenovo</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/msi-pcs"" title=""MSI PCs"">MSI</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By Grade"">Grade</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/brand-new-pcs"" title=""Brand New PCs"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/open-box-pcs"" title=""Open Box PCs"">Open Box</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/grade-a-refurbished"" title=""Grade A Refurbished"">Grade A Refurbished</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/grade-b-refurbished"" title=""Grade B Refurbished"">Grade B Refurbished</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/refurbished-pcs"" title=""Refurbished PCs"">All Refurbished</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By Form Factor"">Size</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/micro-form-factor-pcs"" title=""Micro Form Factor PCs"">Micro Form Factor (MFF)</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/small-form-factor-pcs"" title=""Small Form Factor PCs"">Small Form Factor (SFF)</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/mid-tower-pcs"" title=""Mid Tower PCs"">Mid Tower</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/full-tower-pcs"" title=""Full Tower PCs"">Full Tower</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktops By GPU"">Graphics Card</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs"" title=""NVIDIA PCs"">NVIDIA</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-gtx-series-pcs"" title=""NVIDIA GTX PCs"">- GTX</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-20-series-pcs"" title=""NVIDIA RTX 2000 PCs"">- RTX 2000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-30-series-pcs"" title=""NVIDIA RTX 3000 PCs"">- RTX 3000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/nvidia-pcs/nvidia-rtx-40-series-pcs"" title=""NVIDIA RTX 4000 PCs"">- RTX 4000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/amd-pcs"" title=""AMD PCs"">AMD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/desktop-pcs/amd-pcs/amd-rx-70-series-pcs"" title=""AMD RX 7000 PCs"">- RX 7000</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2 menu-bannner"">
+<p>Up to
+          <strong>40% off</strong>
+<span>Gaming Desktops</span></p>
+<picture><source alt=""Gaming Desktops"" srcset=""https://www.tekshop.co.uk/media/wysiwyg/menu/desktop.webp"" type=""image/webp""/><img alt=""Gaming Desktops"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/wysiwyg/menu/desktop.jpg""/></picture>
+<a class=""action primary"" href=""https://www.tekshop.co.uk/desktop-pcs/gaming-pcs"">Shop now</a>
+</div>
+</div></div> </li>",,
+"<li class=""top-categoies"">
+<a href=""https://www.tekshop.co.uk/pc-components"" title=""PC Components"">PC Components</a>
+<!-- Get MegaMenu Dropdown -->
+<ul class=""megamenu level0 submenu"">
+<div class=""container"">
+<li>
+                            PC Components                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Processors"">Processors</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/processors/intel"" title=""Intel Processors"">Intel</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/processors/amd"" title=""AMD Processors"">AMD</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Processor Cooling Solutions"">Processor Cooling</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/cpu-coolers/water-cooling"" title=""CPU Water Coolers"">Water Cooling</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/cpu-coolers/air-cooling"" title=""CPU Air Coolers"">Air Cooling</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktop Power Supplies"">Power Supplies</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/power-supplies/above-500w"" title=""Above 500W Power Supplies"">Above 500W</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/power-supplies/below-500w"" title=""Under 500W Supplies"">Below 500W</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/power-supplies/gaming-psus"" title=""Gaming Power Supplies"">Gaming PSUs</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""PC Storage"">Storage (SSD/HDD)</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/ssds"" title=""SSD Storage"">SSD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/m-2-drives"" title=""M.2 SSDs"">- M.2</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/sata-ssds"" title=""SATA SSDs"">- SATA</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/hdds"" title=""HDD Storage"">HDD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/hdds/2-5-hdds"" title='2.5"" HDDs'>- 2.5""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/hdds/3-5-hdds"" title='3.5"" HDDs'>- 3.5""</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Components By Grade"">Grade</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/brand-new"" title=""Brand New PC Components"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/refurbished"" title=""Refurbished PC Components"">Refurbished</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""PC Graphics Cards"">Graphics Card</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia"" title=""NVIDIA GPUs"">NVIDIA</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/gtx-series"" title=""NVIDIA GTX Series GPUs"">- GTX</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-20-series"" title=""NVIDIA RTX 2000 Series GPUs"">- RTX 2000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-30-series"" title=""NVIDIA RTX 3000 Series GPUs"">- RTX 3000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-40-series"" title=""NVIDIA RTX 4000 Series GPUs"">- RTX 4000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/amd"" title=""AMD GPUs"">AMD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/amd/amd-rx-70-series"" title=""AMD RX 7000 Series GPUs"">- RX 7000</a>
+</nav>
+</div>
+</div>
+</div></div> </li>
+</div>
+</ul>
+</li>",,
+"<li>
+                            PC Components                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Processors"">Processors</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/processors/intel"" title=""Intel Processors"">Intel</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/processors/amd"" title=""AMD Processors"">AMD</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Processor Cooling Solutions"">Processor Cooling</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/cpu-coolers/water-cooling"" title=""CPU Water Coolers"">Water Cooling</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/cpu-coolers/air-cooling"" title=""CPU Air Coolers"">Air Cooling</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Desktop Power Supplies"">Power Supplies</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/power-supplies/above-500w"" title=""Above 500W Power Supplies"">Above 500W</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/power-supplies/below-500w"" title=""Under 500W Supplies"">Below 500W</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/power-supplies/gaming-psus"" title=""Gaming Power Supplies"">Gaming PSUs</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""PC Storage"">Storage (SSD/HDD)</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/ssds"" title=""SSD Storage"">SSD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/m-2-drives"" title=""M.2 SSDs"">- M.2</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/sata-ssds"" title=""SATA SSDs"">- SATA</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/hdds"" title=""HDD Storage"">HDD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/hdds/2-5-hdds"" title='2.5"" HDDs'>- 2.5""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/storage/hdds/3-5-hdds"" title='3.5"" HDDs'>- 3.5""</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Components By Grade"">Grade</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/brand-new"" title=""Brand New PC Components"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/refurbished"" title=""Refurbished PC Components"">Refurbished</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""PC Graphics Cards"">Graphics Card</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia"" title=""NVIDIA GPUs"">NVIDIA</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/gtx-series"" title=""NVIDIA GTX Series GPUs"">- GTX</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-20-series"" title=""NVIDIA RTX 2000 Series GPUs"">- RTX 2000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-30-series"" title=""NVIDIA RTX 3000 Series GPUs"">- RTX 3000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/nvidia/rtx-40-series"" title=""NVIDIA RTX 4000 Series GPUs"">- RTX 4000</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/amd"" title=""AMD GPUs"">AMD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/pc-components/gpus/amd/amd-rx-70-series"" title=""AMD RX 7000 Series GPUs"">- RX 7000</a>
+</nav>
+</div>
+</div>
+</div></div> </li>",,
+"<li class=""top-categoies"">
+<a href=""https://www.tekshop.co.uk/monitors"" title=""Monitors"">Monitors</a>
+<!-- Get MegaMenu Dropdown -->
+<ul class=""megamenu level0 submenu"">
+<div class=""container"">
+<li>
+                            Monitors                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Types"">Type</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/home-monitors"" title=""Home Monitors"">Home</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/business-monitors"" title=""Business Monitors"">Business</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/gaming-monitors"" title=""Gaming Monitors"">Gaming</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/curved-monitors"" title=""Curved Monitors"">Curved</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Brands"">Brand</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/acer-monitors"" title=""Acer Monitors"">Acer</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/asus-monitors"" title=""ASUS Monitors"">ASUS</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/dell-monitors"" title=""Dell Monitors"">Dell</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/lenovo-monitors"" title=""Lenovo Monitors"">Lenovo</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/samsung-monitors"" title=""Samsung Monitors"">Samsung</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Condition"">Grade</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/brand-new-monitors"" title=""Brand New Monitors"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/refurbished-monitors"" title=""Refurbished Monitors"">Refurbished</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Display Size"">Display Size</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/22-inch-monitors"" title=""22 Inch Monitors"">22 - 22.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/23-inch-monitors"" title=""23 Inch Monitors"">23 - 23.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/24-inch-monitors"" title=""24 Inch Monitors"">24 - 24.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/27-inch-monitors"" title=""27 Inch Monitors"">27 - 27.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/32-inch-monitors"" title=""32 Inch Monitors"">32 - 32.9""</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Resolution"">Resolution</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/1080p-hd-monitors"" title=""Full HD Monitors"">Full HD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/1440p-quad-hd-monitors"" title=""QHD Monitors"">Quad HD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/2160p-4k-ultra-hd-monitors"" title=""4K Monitors"">Ultra HD (4K)</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/ultrawide-monitors"" title=""Ultrawide Monitors"">Ultrawide</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2 menu-bannner"">
+<p>Up to
+          <strong>40% off</strong>
+<span>Computer Monitors</span></p>
+<picture><source alt=""Computer Monitors"" srcset=""https://www.tekshop.co.uk/media/wysiwyg/menu/Monitor_Banner_1.webp"" type=""image/webp""/><img alt=""Computer Monitors"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/wysiwyg/menu/Monitor_Banner_1.jpg""/></picture>
+<a class=""action primary"" href=""https://www.tekshop.co.uk/monitors/monitor-product-type"">Shop now</a>
+</div>
+</div></div> </li>
+</div>
+</ul>
+</li>",,
+"<li>
+                            Monitors                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Types"">Type</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/home-monitors"" title=""Home Monitors"">Home</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/business-monitors"" title=""Business Monitors"">Business</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/gaming-monitors"" title=""Gaming Monitors"">Gaming</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/curved-monitors"" title=""Curved Monitors"">Curved</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Brands"">Brand</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/acer-monitors"" title=""Acer Monitors"">Acer</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/asus-monitors"" title=""ASUS Monitors"">ASUS</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/dell-monitors"" title=""Dell Monitors"">Dell</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/lenovo-monitors"" title=""Lenovo Monitors"">Lenovo</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/samsung-monitors"" title=""Samsung Monitors"">Samsung</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Condition"">Grade</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/brand-new-monitors"" title=""Brand New Monitors"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/refurbished-monitors"" title=""Refurbished Monitors"">Refurbished</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Display Size"">Display Size</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/22-inch-monitors"" title=""22 Inch Monitors"">22 - 22.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/23-inch-monitors"" title=""23 Inch Monitors"">23 - 23.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/24-inch-monitors"" title=""24 Inch Monitors"">24 - 24.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/27-inch-monitors"" title=""27 Inch Monitors"">27 - 27.9""</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/32-inch-monitors"" title=""32 Inch Monitors"">32 - 32.9""</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Monitor Resolution"">Resolution</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/1080p-hd-monitors"" title=""Full HD Monitors"">Full HD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/1440p-quad-hd-monitors"" title=""QHD Monitors"">Quad HD</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/2160p-4k-ultra-hd-monitors"" title=""4K Monitors"">Ultra HD (4K)</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/monitors/ultrawide-monitors"" title=""Ultrawide Monitors"">Ultrawide</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2 menu-bannner"">
+<p>Up to
+          <strong>40% off</strong>
+<span>Computer Monitors</span></p>
+<picture><source alt=""Computer Monitors"" srcset=""https://www.tekshop.co.uk/media/wysiwyg/menu/Monitor_Banner_1.webp"" type=""image/webp""/><img alt=""Computer Monitors"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/wysiwyg/menu/Monitor_Banner_1.jpg""/></picture>
+<a class=""action primary"" href=""https://www.tekshop.co.uk/monitors/monitor-product-type"">Shop now</a>
+</div>
+</div></div> </li>",,
+"<li class=""top-categoies"">
+<a href=""https://www.tekshop.co.uk/phones-tablets"" title=""Phones &amp; Tablets"">Phones &amp; Tablets</a>
+<!-- Get MegaMenu Dropdown -->
+<ul class=""megamenu level0 submenu"">
+<div class=""container"">
+<li>
+                            Phones &amp; Tablets                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Smartphones"">Smartphones</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/phones/android-phones"" title=""Android Phones"">Android</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/phones/ios-phones"" title=""IOS Phones"">IOS</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Tablets"">Tablets</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/android-tablets"" title=""Android Tablets"">Android</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/ios-tablets"" title=""IOS Tablets"">IOS</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Tablets Brands"">Tablet Brands</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/samsung-tablets"" title=""Samsung Tablets"">Samsung</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/microsoft-tablets"" title=""Microsoft Tablets"">Microsoft</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/lenovo-tablets"" title=""Lenovo Tablets"">Lenovo</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/nokia-tablets"" title=""Nokia Tablets"">Nokia</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""title"">
+<a title=""Tablet Grades""> Grade </a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/brand-new-tablets"" title=""Brand New Tablets"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/open-box-tablets"" title=""Open Box Tablets"">Open Box</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/refurbished"" title=""Refurbished Tablets"">Refurbished</a>
+</nav>
+</div>
+<div class=""col-m-3 menu-bannner"">
+<p>Up to
+          <strong>30% off</strong>
+<span>Tablet Computers</span></p>
+<picture><source alt=""Tablet Computers"" srcset=""https://www.tekshop.co.uk/media/wysiwyg/menu/Tablet_Discount_Banner.webp"" type=""image/webp""/><img alt=""Tablet Computers"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/wysiwyg/menu/Tablet_Discount_Banner.jpg""/></picture>
+<a class=""action primary"" href=""https://www.tekshop.co.uk/tablets/tablet-type"">Shop now</a>
+</div>
+</div></div> </li>
+</div>
+</ul>
+</li>",,
+"<li>
+                            Phones &amp; Tablets                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Smartphones"">Smartphones</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/phones/android-phones"" title=""Android Phones"">Android</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/phones/ios-phones"" title=""IOS Phones"">IOS</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Tablets"">Tablets</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/android-tablets"" title=""Android Tablets"">Android</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/ios-tablets"" title=""IOS Tablets"">IOS</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"">
+<div class=""title"">
+<a title=""Tablets Brands"">Tablet Brands</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/samsung-tablets"" title=""Samsung Tablets"">Samsung</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/microsoft-tablets"" title=""Microsoft Tablets"">Microsoft</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/lenovo-tablets"" title=""Lenovo Tablets"">Lenovo</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/nokia-tablets"" title=""Nokia Tablets"">Nokia</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""title"">
+<a title=""Tablet Grades""> Grade </a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/brand-new-tablets"" title=""Brand New Tablets"">Brand New</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/open-box-tablets"" title=""Open Box Tablets"">Open Box</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/tablets/refurbished"" title=""Refurbished Tablets"">Refurbished</a>
+</nav>
+</div>
+<div class=""col-m-3 menu-bannner"">
+<p>Up to
+          <strong>30% off</strong>
+<span>Tablet Computers</span></p>
+<picture><source alt=""Tablet Computers"" srcset=""https://www.tekshop.co.uk/media/wysiwyg/menu/Tablet_Discount_Banner.webp"" type=""image/webp""/><img alt=""Tablet Computers"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/wysiwyg/menu/Tablet_Discount_Banner.jpg""/></picture>
+<a class=""action primary"" href=""https://www.tekshop.co.uk/tablets/tablet-type"">Shop now</a>
+</div>
+</div></div> </li>",,
+"<li class=""top-categoies"">
+<a href=""https://www.tekshop.co.uk/audio-visual"" title=""Audio Visual"">Audio Visual</a>
+<!-- Get MegaMenu Dropdown -->
+<ul class=""megamenu level0 submenu"">
+<div class=""container"">
+<li>
+                            Audio Visual                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget mf-initial"" data-was-processed=""true"">
+<div class=""title mf-initial"" data-was-processed=""true"">
+<a title=""Projectors by Type"">Projectors by Type</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""/projectors/full-hd-projectors"" title=""Full HD Projectors"">Full HD Projectors</a>
+<a class=""nav-link"" href=""/projectors/quad-hd-projectors"" title=""Quad HD Projectors"">Quad HD Projectors</a>
+<a class=""nav-link"" href=""/projectors/4k-ultra-hd-projectors"" title=""4K Ultra HD Projectors"">4K Projectors</a>
+<a class=""nav-link"" href=""/projectors/dlp-projectors"" title=""DLP Projectors"">DLP</a>
+<a class=""nav-link"" href=""/projectors/laser-projectors"" title=""Laser Projectors"">Laser</a>
+<a class=""nav-link"" href=""/projectors/3lcd-projectors"" title=""3LCD Projectors"">3D</a>
+<a class=""nav-link"" href=""/projectors/portable-projectors"" title=""Portable Projectors"">Portable</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget mf-initial"" data-was-processed=""true"">
+<div class=""title mf-initial"" data-was-processed=""true"">
+<a title=""Projectors by Brand"">Projectors by Brand</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""/projectors/acer-projectors"" title=""Acer Projectors"">Acer Projectors</a>
+<a class=""nav-link"" href=""/projectors/asus-projectors"" title=""ASUS Projectors"">ASUS Projectors</a>
+<a class=""nav-link"" href=""/projectors/lg-projectors"" title=""LG Projectors"">LG Projectors</a>
+<a class=""nav-link"" href=""/projectors/optoma-projectors"" title=""Optoma Projectors"">Optoma Projectors</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"" data-was-processed=""true"">
+<div class=""title"" data-was-processed=""true"">
+<a title=""Speakers"">Speakers</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/speakers/premium-speakers"" title=""Premium Speakers"">Premium</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/speakers/wireless-speakers"" title=""Wireless Speakers"">Wireless</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/speakers/pc-audio-speakers"" title=""PC Audio"">PC Audio</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/speakers/soundbar-speakers"" title=""Soundbars"">Soundbars</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+</div>
+<div class=""col-m-3 menu-bannner"">
+<p>Up to
+          <strong>40% off</strong>
+<span>Audio/Visual</span></p>
+<picture><source alt=""projectors"" srcset=""https://www.tekshop.co.uk/media/wysiwyg/menu/menu-projector.webp"" type=""image/webp""/><img alt=""projectors"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/wysiwyg/menu/menu-projector.jpg""/></picture>
+<a class=""action primary"" href=""https://www.tekshop.co.uk/projectors"">Shop now</a>
+</div>
+</div></div> </li>
+</div>
+</ul>
+</li>",,
+"<li>
+                            Audio Visual                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""row"">
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget mf-initial"" data-was-processed=""true"">
+<div class=""title mf-initial"" data-was-processed=""true"">
+<a title=""Projectors by Type"">Projectors by Type</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""/projectors/full-hd-projectors"" title=""Full HD Projectors"">Full HD Projectors</a>
+<a class=""nav-link"" href=""/projectors/quad-hd-projectors"" title=""Quad HD Projectors"">Quad HD Projectors</a>
+<a class=""nav-link"" href=""/projectors/4k-ultra-hd-projectors"" title=""4K Ultra HD Projectors"">4K Projectors</a>
+<a class=""nav-link"" href=""/projectors/dlp-projectors"" title=""DLP Projectors"">DLP</a>
+<a class=""nav-link"" href=""/projectors/laser-projectors"" title=""Laser Projectors"">Laser</a>
+<a class=""nav-link"" href=""/projectors/3lcd-projectors"" title=""3LCD Projectors"">3D</a>
+<a class=""nav-link"" href=""/projectors/portable-projectors"" title=""Portable Projectors"">Portable</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget mf-initial"" data-was-processed=""true"">
+<div class=""title mf-initial"" data-was-processed=""true"">
+<a title=""Projectors by Brand"">Projectors by Brand</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""/projectors/acer-projectors"" title=""Acer Projectors"">Acer Projectors</a>
+<a class=""nav-link"" href=""/projectors/asus-projectors"" title=""ASUS Projectors"">ASUS Projectors</a>
+<a class=""nav-link"" href=""/projectors/lg-projectors"" title=""LG Projectors"">LG Projectors</a>
+<a class=""nav-link"" href=""/projectors/optoma-projectors"" title=""Optoma Projectors"">Optoma Projectors</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+<div class=""pixalicious-category-menu-widget"" data-was-processed=""true"">
+<div class=""title"" data-was-processed=""true"">
+<a title=""Speakers"">Speakers</a>
+</div>
+<nav class=""nav"">
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/speakers/premium-speakers"" title=""Premium Speakers"">Premium</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/speakers/wireless-speakers"" title=""Wireless Speakers"">Wireless</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/speakers/pc-audio-speakers"" title=""PC Audio"">PC Audio</a>
+<a class=""nav-link"" href=""https://www.tekshop.co.uk/speakers/soundbar-speakers"" title=""Soundbars"">Soundbars</a>
+</nav>
+</div>
+</div>
+<div class=""col-m-2"">
+</div>
+<div class=""col-m-3 menu-bannner"">
+<p>Up to
+          <strong>40% off</strong>
+<span>Audio/Visual</span></p>
+<picture><source alt=""projectors"" srcset=""https://www.tekshop.co.uk/media/wysiwyg/menu/menu-projector.webp"" type=""image/webp""/><img alt=""projectors"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/wysiwyg/menu/menu-projector.jpg""/></picture>
+<a class=""action primary"" href=""https://www.tekshop.co.uk/projectors"">Shop now</a>
+</div>
+</div></div> </li>",,
+"<li class=""top-categoies"">
+<a href=""https://www.tekshop.co.uk/brands-all"" title=""Brands"">Brands</a>
+<!-- Get MegaMenu Dropdown -->
+<ul class=""megamenu level0 submenu"">
+<div class=""container"">
+<li>
+                            Brands                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""brands"">
+<div class=""pixalicious-categoryimages-widget"">
+<div class=""row"">
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/razer"" title=""Razer"">
+<picture><source alt=""Razer"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Razer_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Razer"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Razer_Brand_Menu_Logo.jpg""/></picture>
+<p>Razer</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/msi"" title=""MSI"">
+<picture><source alt=""MSI"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/MSI_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""MSI"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/MSI_Brand_Menu_Logo.jpg""/></picture>
+<p>MSI</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/lg"" title=""LG"">
+<picture><source alt=""LG"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/LG_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""LG"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/LG_Brand_Menu_Logo.jpg""/></picture>
+<p>LG</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/lenovo"" title=""Lenovo"">
+<picture><source alt=""Lenovo"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Lenovo_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Lenovo"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Lenovo_Brand_Menu_Logo.jpg""/></picture>
+<p>Lenovo</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/huawei"" title=""Huawei"">
+<picture><source alt=""Huawei"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Huawei_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Huawei"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Huawei_Brand_Menu_Logo.jpg""/></picture>
+<p>Huawei</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/hp"" title=""HP"">
+<picture><source alt=""HP"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/HP_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""HP"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/HP_Brand_Menu_Logo.jpg""/></picture>
+<p>HP</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/dell"" title=""Dell"">
+<picture><source alt=""Dell"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Dell_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Dell"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Dell_Brand_Menu_Logo.jpg""/></picture>
+<p>Dell</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/asus"" title=""ASUS"">
+<picture><source alt=""ASUS"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Asus_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""ASUS"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Asus_Brand_Menu_Logo.jpg""/></picture>
+<p>ASUS</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/acer"" title=""Acer"">
+<picture><source alt=""Acer"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Acer_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Acer"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Acer_Brand_Menu_Logo.jpg""/></picture>
+<p>Acer</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/gigabyte"" title=""Gigabyte"">
+<picture><source alt=""Gigabyte"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Gigabyte_Logo_1.webp"" type=""image/webp""/><img alt=""Gigabyte"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Gigabyte_Logo_1.png""/></picture>
+<p>Gigabyte</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/optoma"" title=""Optoma"">
+<picture><source alt=""Optoma"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Optoma_Logo.webp"" type=""image/webp""/><img alt=""Optoma"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Optoma_Logo.png""/></picture>
+<p>Optoma</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/samsung"" title=""Samsung"">
+<picture><source alt=""Samsung"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Samsung_Logo.webp"" type=""image/webp""/><img alt=""Samsung"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Samsung_Logo.png""/></picture>
+<p>Samsung</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/bang-olufsen"" title=""Bang &amp; Olufsen"">
+<picture><source alt=""Bang &amp; Olufsen"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Bang_Olufsen_Logo.webp"" type=""image/webp""/><img alt=""Bang &amp; Olufsen"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Bang_Olufsen_Logo.png""/></picture>
+<p>Bang &amp; Olufsen</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/fujitsu"" title=""Fujitsu"">
+<picture><source alt=""Fujitsu"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Fujitsu_Logo.webp"" type=""image/webp""/><img alt=""Fujitsu"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Fujitsu_Logo.png""/></picture>
+<p>Fujitsu</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/microsoft"" title=""Microsoft"">
+<picture><source alt=""Microsoft"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Microsoft.webp"" type=""image/webp""/><img alt=""Microsoft"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Microsoft.jpg""/></picture>
+<p>Microsoft</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/apc"" title=""APC"">
+<picture><source alt=""APC"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/APC_Logo.webp"" type=""image/webp""/><img alt=""APC"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/APC_Logo.jpg""/></picture>
+<p>APC</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/philips"" title=""Philips"">
+<picture><source alt=""Philips"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Philips_Logo.webp"" type=""image/webp""/><img alt=""Philips"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Philips_Logo.jpg""/></picture>
+<p>Philips</p>
+</a>
+</div>
+</div>
+</div>
+</div></div> </li>
+</div>
+</ul>
+</li>",,
+"<li>
+                            Brands                                                            <div data-appearance=""default"" data-content-type=""html"" data-decoded=""true"" data-element=""main""><div class=""brands"">
+<div class=""pixalicious-categoryimages-widget"">
+<div class=""row"">
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/razer"" title=""Razer"">
+<picture><source alt=""Razer"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Razer_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Razer"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Razer_Brand_Menu_Logo.jpg""/></picture>
+<p>Razer</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/msi"" title=""MSI"">
+<picture><source alt=""MSI"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/MSI_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""MSI"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/MSI_Brand_Menu_Logo.jpg""/></picture>
+<p>MSI</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/lg"" title=""LG"">
+<picture><source alt=""LG"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/LG_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""LG"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/LG_Brand_Menu_Logo.jpg""/></picture>
+<p>LG</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/lenovo"" title=""Lenovo"">
+<picture><source alt=""Lenovo"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Lenovo_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Lenovo"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Lenovo_Brand_Menu_Logo.jpg""/></picture>
+<p>Lenovo</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/huawei"" title=""Huawei"">
+<picture><source alt=""Huawei"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Huawei_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Huawei"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Huawei_Brand_Menu_Logo.jpg""/></picture>
+<p>Huawei</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/hp"" title=""HP"">
+<picture><source alt=""HP"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/HP_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""HP"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/HP_Brand_Menu_Logo.jpg""/></picture>
+<p>HP</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/dell"" title=""Dell"">
+<picture><source alt=""Dell"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Dell_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Dell"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Dell_Brand_Menu_Logo.jpg""/></picture>
+<p>Dell</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/asus"" title=""ASUS"">
+<picture><source alt=""ASUS"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Asus_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""ASUS"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Asus_Brand_Menu_Logo.jpg""/></picture>
+<p>ASUS</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/acer"" title=""Acer"">
+<picture><source alt=""Acer"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Acer_Brand_Menu_Logo.webp"" type=""image/webp""/><img alt=""Acer"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Acer_Brand_Menu_Logo.jpg""/></picture>
+<p>Acer</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/gigabyte"" title=""Gigabyte"">
+<picture><source alt=""Gigabyte"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Gigabyte_Logo_1.webp"" type=""image/webp""/><img alt=""Gigabyte"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Gigabyte_Logo_1.png""/></picture>
+<p>Gigabyte</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/optoma"" title=""Optoma"">
+<picture><source alt=""Optoma"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Optoma_Logo.webp"" type=""image/webp""/><img alt=""Optoma"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Optoma_Logo.png""/></picture>
+<p>Optoma</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/samsung"" title=""Samsung"">
+<picture><source alt=""Samsung"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Samsung_Logo.webp"" type=""image/webp""/><img alt=""Samsung"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Samsung_Logo.png""/></picture>
+<p>Samsung</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/bang-olufsen"" title=""Bang &amp; Olufsen"">
+<picture><source alt=""Bang &amp; Olufsen"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Bang_Olufsen_Logo.webp"" type=""image/webp""/><img alt=""Bang &amp; Olufsen"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Bang_Olufsen_Logo.png""/></picture>
+<p>Bang &amp; Olufsen</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/fujitsu"" title=""Fujitsu"">
+<picture><source alt=""Fujitsu"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Fujitsu_Logo.webp"" type=""image/webp""/><img alt=""Fujitsu"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Fujitsu_Logo.png""/></picture>
+<p>Fujitsu</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/microsoft"" title=""Microsoft"">
+<picture><source alt=""Microsoft"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Microsoft.webp"" type=""image/webp""/><img alt=""Microsoft"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Microsoft.jpg""/></picture>
+<p>Microsoft</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/apc"" title=""APC"">
+<picture><source alt=""APC"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/APC_Logo.webp"" type=""image/webp""/><img alt=""APC"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/APC_Logo.jpg""/></picture>
+<p>APC</p>
+</a>
+</div>
+<div class=""col-s-12 col-m-3 col-l-2"">
+<a href=""https://www.tekshop.co.uk/brands-all/philips"" title=""Philips"">
+<picture><source alt=""Philips"" loading=""lazy"" srcset=""https://www.tekshop.co.uk/media/resized200x100/Philips_Logo.webp"" type=""image/webp""/><img alt=""Philips"" loading=""lazy"" src=""https://www.tekshop.co.uk/media/resized200x100/Philips_Logo.jpg""/></picture>
+<p>Philips</p>
+</a>
+</div>
+</div>
+</div>
+</div></div> </li>",,
+"<li class=""top-categoies"">
+<a href=""https://www.tekshop.co.uk/clearance"" title=""Clearance"">Clearance</a>
+<!-- IF Sub category exisits -->
+</li>",,
+"<li class=""item home"">
+<a href=""https://www.tekshop.co.uk/"" title=""Go to Home Page"">
+                    Home                </a>
+</li>",,
+"<li class=""item category3"">
+<a href=""https://www.tekshop.co.uk/laptops"" title="""">
+                    Laptops                </a>
+</li>",,
+"<li class=""item category13"">
+<strong>Home Laptops</strong>
+</li>",,
+"<li class=""item current"">
+<strong class=""page"">
+<span class=""label"">You're currently reading page</span>
+<span>1</span>
+</strong>
+</li>",,
+"<li class=""item"">
+<a class=""page"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=2"">
+<span class=""label"">Page</span>
+<span>2</span>
+</a>
+</li>",,
+"<li class=""item"">
+<a class=""page"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=3"">
+<span class=""label"">Page</span>
+<span>3</span>
+</a>
+</li>",,
+"<li class=""item"">
+<a class=""page"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=4"">
+<span class=""label"">Page</span>
+<span>4</span>
+</a>
+</li>",,
+"<li class=""item"">
+<a class=""page"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=5"">
+<span class=""label"">Page</span>
+<span>5</span>
+</a>
+</li>",,
+"<li class=""item pages-item-next"">
+<a class=""action next"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=2"" title=""Next"">
+<span class=""label"">Page</span>
+<span>Next</span>
+</a>
+</li>",,
+"<li class=""item current"">
+<strong class=""page"">
+<span class=""label"">You're currently reading page</span>
+<span>1</span>
+</strong>
+</li>",,
+"<li class=""item"">
+<a class=""page"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=2"">
+<span class=""label"">Page</span>
+<span>2</span>
+</a>
+</li>",,
+"<li class=""item"">
+<a class=""page"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=3"">
+<span class=""label"">Page</span>
+<span>3</span>
+</a>
+</li>",,
+"<li class=""item"">
+<a class=""page"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=4"">
+<span class=""label"">Page</span>
+<span>4</span>
+</a>
+</li>",,
+"<li class=""item"">
+<a class=""page"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=5"">
+<span class=""label"">Page</span>
+<span>5</span>
+</a>
+</li>",,
+"<li class=""item pages-item-next"">
+<a class=""action next"" href=""https://www.tekshop.co.uk/laptops/home-laptops?p=2"" title=""Next"">
+<span class=""label"">Page</span>
+<span>Next</span>
+</a>
+</li>",,
+"<li class=""item"" data-label=""Traditional"">
+<a class=""am-filter-item-66a8e39c2684e"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?laptop_type=555"" rel=""nofollow"">
+<span class=""label"">Traditional</span>
+<span class=""count"">339<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Traditional"" data-digits-after-dot=""0"" name=""amshopby[laptop_type][]"" style="""" type=""radio"" value=""555"">
+</input></li>",,
+"<li class=""item"" data-label=""2-in-1"">
+<a class=""am-filter-item-66a8e39c26e8c"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?laptop_type=556"" rel=""nofollow"">
+<span class=""label"">2-in-1</span>
+<span class=""count"">88<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""2-in-1"" data-digits-after-dot=""0"" name=""amshopby[laptop_type][]"" style="""" type=""radio"" value=""556"">
+</input></li>",,
+"<li class=""item"" data-label=""3:2"">
+<a class=""am-filter-item-66a8e39c28260"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?aspect_ratio=370"" rel=""nofollow"">
+<span class=""label"">3:2</span>
+<span class=""count"">16<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""3:2"" data-digits-after-dot=""0"" name=""amshopby[aspect_ratio][]"" style="""" type=""radio"" value=""370"">
+</input></li>",,
+"<li class=""item"" data-label=""16:9"">
+<a class=""am-filter-item-66a8e39c28509"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?aspect_ratio=359"" rel=""nofollow"">
+<span class=""label"">16:9</span>
+<span class=""count"">396<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""16:9"" data-digits-after-dot=""0"" name=""amshopby[aspect_ratio][]"" style="""" type=""radio"" value=""359"">
+</input></li>",,
+"<li class=""item"" data-label=""16:10"">
+<a class=""am-filter-item-66a8e39c287c6"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?aspect_ratio=360"" rel=""nofollow"">
+<span class=""label"">16:10</span>
+<span class=""count"">111<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""16:10"" data-digits-after-dot=""0"" name=""amshopby[aspect_ratio][]"" style="""" type=""radio"" value=""360"">
+</input></li>",,
+"<li class=""item"" data-label=""Apple M2 Pro"">
+<a class=""am-filter-item-66a8e39c2be14"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=554"" rel=""nofollow"">
+<span class=""label"">Apple M2 Pro</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""Apple M2 Pro"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""554""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""Qualcomm"">
+<a class=""am-filter-item-66a8e39c2c063"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=365"" rel=""nofollow"">
+<span class=""label"">Qualcomm</span>
+<span class=""count"">4<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Qualcomm"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""365""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""MediaTEK"">
+<a class=""am-filter-item-66a8e39c2c26f"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=353"" rel=""nofollow"">
+<span class=""label"">MediaTEK</span>
+<span class=""count"">17<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""MediaTEK"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""353""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""Intel N"">
+<a class=""am-filter-item-66a8e39c2c46d"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=514"" rel=""nofollow"">
+<span class=""label"">Intel N</span>
+<span class=""count"">8<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Intel N"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""514""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""Intel Celeron"">
+<a class=""am-filter-item-66a8e39c2c6f8"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=124"" rel=""nofollow"">
+<span class=""label"">Intel Celeron</span>
+<span class=""count"">59<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Intel Celeron"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""124""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""Intel Pentium"">
+<a class=""am-filter-item-66a8e39c2c98e"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=319"" rel=""nofollow"">
+<span class=""label"">Intel Pentium</span>
+<span class=""count"">36<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Intel Pentium"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""319""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""Intel Core i3"">
+<a class=""am-filter-item-66a8e39c2cbdc"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=123"" rel=""nofollow"">
+<span class=""label"">Intel Core i3</span>
+<span class=""count"">65<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Intel Core i3"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""123""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""Intel Core i5"">
+<a class=""am-filter-item-66a8e39c2cded"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=118"" rel=""nofollow"">
+<span class=""label"">Intel Core i5</span>
+<span class=""count"">111<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Intel Core i5"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""118""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""Intel Core i7"">
+<a class=""am-filter-item-66a8e39c2cfeb"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=114"" rel=""nofollow"">
+<span class=""label"">Intel Core i7</span>
+<span class=""count"">117<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Intel Core i7"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""114""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""Intel Core i9"">
+<a class=""am-filter-item-66a8e39c2d248"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=302"" rel=""nofollow"">
+<span class=""label"">Intel Core i9</span>
+<span class=""count"">4<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Intel Core i9"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""302""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""Intel Core Ultra 7"">
+<a class=""am-filter-item-66a8e39c2d4e2"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=546"" rel=""nofollow"">
+<span class=""label"">Intel Core Ultra 7</span>
+<span class=""count"">7<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Intel Core Ultra 7"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""546""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""AMD Ryzen 3"">
+<a class=""am-filter-item-66a8e39c2d705"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=125"" rel=""nofollow"">
+<span class=""label"">AMD Ryzen 3</span>
+<span class=""count"">20<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""AMD Ryzen 3"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""125""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""AMD Ryzen 5"">
+<a class=""am-filter-item-66a8e39c2d911"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=112"" rel=""nofollow"">
+<span class=""label"">AMD Ryzen 5</span>
+<span class=""count"">43<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""AMD Ryzen 5"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""112""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""AMD Ryzen 7"">
+<a class=""am-filter-item-66a8e39c2db2c"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=111"" rel=""nofollow"">
+<span class=""label"">AMD Ryzen 7</span>
+<span class=""count"">37<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""AMD Ryzen 7"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""111""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""AMD Ryzen 9"">
+<a class=""am-filter-item-66a8e39c2dd40"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?processor_type=110"" rel=""nofollow"">
+<span class=""label"">AMD Ryzen 9</span>
+<span class=""count"">2<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""AMD Ryzen 9"" data-digits-after-dot=""0"" name=""amshopby[processor_type][]"" style="""" type=""checkbox"" value=""110""/>
+<span class=""amshopby-choice""></span>
+</li>",,
+"<li class=""item"" data-label=""4GB"">
+<a class=""am-filter-item-66a8e39c2e6a9"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?ram_size=70"">
+<span class=""label"">4GB</span>
+<span class=""count"">139<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""4GB"" data-digits-after-dot=""0"" name=""amshopby[ram_size][]"" style="""" type=""radio"" value=""70""/>
+</li>",,
+"<li class=""item"" data-label=""8GB"">
+<a class=""am-filter-item-66a8e39c2e92a"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?ram_size=71"">
+<span class=""label"">8GB</span>
+<span class=""count"">244<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""8GB"" data-digits-after-dot=""0"" name=""amshopby[ram_size][]"" style="""" type=""radio"" value=""71""/>
+</li>",,
+"<li class=""item"" data-label=""16GB"">
+<a class=""am-filter-item-66a8e39c2ebc0"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?ram_size=72"">
+<span class=""label"">16GB</span>
+<span class=""count"">146<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""16GB"" data-digits-after-dot=""0"" name=""amshopby[ram_size][]"" style="""" type=""radio"" value=""72""/>
+</li>",,
+"<li class=""item"" data-label=""32GB"">
+<a class=""am-filter-item-66a8e39c2ee1e"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?ram_size=73"">
+<span class=""label"">32GB</span>
+<span class=""count"">6<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""32GB"" data-digits-after-dot=""0"" name=""amshopby[ram_size][]"" style="""" type=""radio"" value=""73""/>
+</li>",,
+"<li class=""item"" data-label=""SSD"">
+<a class=""am-filter-item-66a8e39c2f1bf"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?storage_type=174"">
+<span class=""label"">SSD</span>
+<span class=""count"">443<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""SSD"" data-digits-after-dot=""0"" name=""amshopby[storage_type][]"" style="""" type=""radio"" value=""174""/>
+</li>",,
+"<li class=""item"" data-label=""eMMC"">
+<a class=""am-filter-item-66a8e39c2f451"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?storage_type=176"">
+<span class=""label"">eMMC</span>
+<span class=""count"">89<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""eMMC"" data-digits-after-dot=""0"" name=""amshopby[storage_type][]"" style="""" type=""radio"" value=""176""/>
+</li>",,
+"<li class=""item"" data-label=""64GB"">
+<a class=""am-filter-item-66a8e39c2fe0e"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?ssd_capacity=296"">
+<span class=""label"">64GB</span>
+<span class=""count"">41<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""64GB"" data-digits-after-dot=""0"" name=""amshopby[ssd_capacity][]"" style="""" type=""radio"" value=""296""/>
+</li>",,
+"<li class=""item"" data-label=""128GB"">
+<a class=""am-filter-item-66a8e39c30141"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?ssd_capacity=164"">
+<span class=""label"">128GB</span>
+<span class=""count"">129<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""128GB"" data-digits-after-dot=""0"" name=""amshopby[ssd_capacity][]"" style="""" type=""radio"" value=""164""/>
+</li>",,
+"<li class=""item"" data-label=""256GB"">
+<a class=""am-filter-item-66a8e39c3046f"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?ssd_capacity=165"">
+<span class=""label"">256GB</span>
+<span class=""count"">84<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""256GB"" data-digits-after-dot=""0"" name=""amshopby[ssd_capacity][]"" style="""" type=""radio"" value=""165""/>
+</li>",,
+"<li class=""item"" data-label=""512GB"">
+<a class=""am-filter-item-66a8e39c3078f"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?ssd_capacity=166"">
+<span class=""label"">512GB</span>
+<span class=""count"">206<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""512GB"" data-digits-after-dot=""0"" name=""amshopby[ssd_capacity][]"" style="""" type=""radio"" value=""166""/>
+</li>",,
+"<li class=""item"" data-label=""1TB"">
+<a class=""am-filter-item-66a8e39c30ace"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?ssd_capacity=167"">
+<span class=""label"">1TB</span>
+<span class=""count"">71<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""1TB"" data-digits-after-dot=""0"" name=""amshopby[ssd_capacity][]"" style="""" type=""radio"" value=""167""/>
+</li>",,
+"<li ""="""" class=""item"" data-label=""11 to 11.9"">
+<a class=""am-filter-item-66a8e39c3101b"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_size=428"">
+<span class=""label"">11 to 11.9""</span>
+<span class=""count"">10<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label='11 to 11.9""' data-digits-after-dot=""0"" name=""amshopby[screen_size][]"" style="""" type=""radio"" value=""428""/>
+</li>",,
+"<li ""="""" class=""item"" data-label=""12 to 12.9"">
+<a class=""am-filter-item-66a8e39c31308"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_size=429"">
+<span class=""label"">12 to 12.9""</span>
+<span class=""count"">4<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label='12 to 12.9""' data-digits-after-dot=""0"" name=""amshopby[screen_size][]"" style="""" type=""radio"" value=""429""/>
+</li>",,
+"<li ""="""" class=""item"" data-label=""13 to 13.9"">
+<a class=""am-filter-item-66a8e39c316c0"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_size=430"">
+<span class=""label"">13 to 13.9""</span>
+<span class=""count"">34<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label='13 to 13.9""' data-digits-after-dot=""0"" name=""amshopby[screen_size][]"" style="""" type=""radio"" value=""430""/>
+</li>",,
+"<li ""="""" class=""item"" data-label=""14 to 14.9"">
+<a class=""am-filter-item-66a8e39c31a5e"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_size=431"">
+<span class=""label"">14 to 14.9""</span>
+<span class=""count"">179<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label='14 to 14.9""' data-digits-after-dot=""0"" name=""amshopby[screen_size][]"" style="""" type=""radio"" value=""431""/>
+</li>",,
+"<li ""="""" class=""item"" data-label=""15 to 15.9"">
+<a class=""am-filter-item-66a8e39c31ef1"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_size=432"">
+<span class=""label"">15 to 15.9""</span>
+<span class=""count"">222<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label='15 to 15.9""' data-digits-after-dot=""0"" name=""amshopby[screen_size][]"" style="""" type=""radio"" value=""432""/>
+</li>",,
+"<li ""="""" class=""item"" data-label=""16 to 16.9"">
+<a class=""am-filter-item-66a8e39c32246"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_size=433"">
+<span class=""label"">16 to 16.9""</span>
+<span class=""count"">55<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label='16 to 16.9""' data-digits-after-dot=""0"" name=""amshopby[screen_size][]"" style="""" type=""radio"" value=""433""/>
+</li>",,
+"<li ""="""" class=""item"" data-label=""17 to 17.9"">
+<a class=""am-filter-item-66a8e39c32561"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_size=434"">
+<span class=""label"">17 to 17.9""</span>
+<span class=""count"">31<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label='17 to 17.9""' data-digits-after-dot=""0"" name=""amshopby[screen_size][]"" style="""" type=""radio"" value=""434""/>
+</li>",,
+"<li class=""item"" data-label=""1366 x 768p (HD)"">
+<a class=""am-filter-item-66a8e39c329e5"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=169"" rel=""nofollow"">
+<span class=""label"">1366 x 768p (HD)</span>
+<span class=""count"">23<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""1366 x 768p (HD)"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""169""/>
+</li>",,
+"<li class=""item"" data-label=""1536 x 1024p 3:2"">
+<a class=""am-filter-item-66a8e39c32cea"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=375"" rel=""nofollow"">
+<span class=""label"">1536 x 1024p 3:2</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""1536 x 1024p 3:2"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""375""/>
+</li>",,
+"<li class=""item"" data-label=""1600 x 900p (HD+) 16:9"">
+<a class=""am-filter-item-66a8e39c32feb"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=380"" rel=""nofollow"">
+<span class=""label"">1600 x 900p (HD+) 16:9</span>
+<span class=""count"">8<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""1600 x 900p (HD+) 16:9"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""380""/>
+</li>",,
+"<li class=""item"" data-label=""1920 x 1080p (FHD)"">
+<a class=""am-filter-item-66a8e39c33214"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=266"" rel=""nofollow"">
+<span class=""label"">1920 x 1080p (FHD)</span>
+<span class=""count"">352<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""1920 x 1080p (FHD)"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""266""/>
+</li>",,
+"<li class=""item"" data-label=""1920 x 1200p (WUXGA) 16:10"">
+<a class=""am-filter-item-66a8e39c3343c"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=267"" rel=""nofollow"">
+<span class=""label"">1920 x 1200p (WUXGA) 16:10</span>
+<span class=""count"">54<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""1920 x 1200p (WUXGA) 16:10"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""267""/>
+</li>",,
+"<li class=""item"" data-label=""1920 x 1280p (WUXGA+)"">
+<a class=""am-filter-item-66a8e39c336a4"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=268"" rel=""nofollow"">
+<span class=""label"">1920 x 1280p (WUXGA+)</span>
+<span class=""count"">2<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""1920 x 1280p (WUXGA+)"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""268""/>
+</li>",,
+"<li class=""item"" data-label=""2240 x 1400 (2.2K)"">
+<a class=""am-filter-item-66a8e39c338c7"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=366"" rel=""nofollow"">
+<span class=""label"">2240 x 1400 (2.2K)</span>
+<span class=""count"">7<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""2240 x 1400 (2.2K)"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""366""/>
+</li>",,
+"<li class=""item"" data-label=""2256 x 1504p (QHD) 3:2"">
+<a class=""am-filter-item-66a8e39c33ae7"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=270"" rel=""nofollow"">
+<span class=""label"">2256 x 1504p (QHD) 3:2</span>
+<span class=""count"">3<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""2256 x 1504p (QHD) 3:2"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""270""/>
+</li>",,
+"<li class=""item"" data-label=""2560 x 1440p (QHD)"">
+<a class=""am-filter-item-66a8e39c33d52"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=269"" rel=""nofollow"">
+<span class=""label"">2560 x 1440p (QHD)</span>
+<span class=""count"">3<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""2560 x 1440p (QHD)"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""269""/>
+</li>",,
+"<li class=""item"" data-label=""2560 x 1600p (WQXGA) 16:10"">
+<a class=""am-filter-item-66a8e39c33f5b"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=271"" rel=""nofollow"">
+<span class=""label"">2560 x 1600p (WQXGA) 16:10</span>
+<span class=""count"">28<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""2560 x 1600p (WQXGA) 16:10"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""271""/>
+</li>",,
+"<li class=""item"" data-label=""2736 x 1824p (QHD) 3:2"">
+<a class=""am-filter-item-66a8e39c341a3"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=272"" rel=""nofollow"">
+<span class=""label"">2736 x 1824p (QHD) 3:2</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""2736 x 1824p (QHD) 3:2"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""272""/>
+</li>",,
+"<li class=""item"" data-label=""2880 x 1800p (QHD+)"">
+<a class=""am-filter-item-66a8e39c343ba"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=367"" rel=""nofollow"">
+<span class=""label"">2880 x 1800p (QHD+)</span>
+<span class=""count"">23<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""2880 x 1800p (QHD+)"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""367""/>
+</li>",,
+"<li class=""item"" data-label=""3000 x 2000p (3:2)"">
+<a class=""am-filter-item-66a8e39c345b5"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=273"" rel=""nofollow"">
+<span class=""label"">3000 x 2000p (3:2)</span>
+<span class=""count"">2<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""3000 x 2000p (3:2)"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""273""/>
+</li>",,
+"<li class=""item"" data-label=""3072 x 1920p (QHD+) 16:10"">
+<a class=""am-filter-item-66a8e39c347bc"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=415"" rel=""nofollow"">
+<span class=""label"">3072 x 1920p (QHD+) 16:10</span>
+<span class=""count"">7<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""3072 x 1920p (QHD+) 16:10"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""415""/>
+</li>",,
+"<li class=""item"" data-label=""3200 x 2000p (3.2K)"">
+<a class=""am-filter-item-66a8e39c349e4"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=507"" rel=""nofollow"">
+<span class=""label"">3200 x 2000p (3.2K)</span>
+<span class=""count"">5<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""3200 x 2000p (3.2K)"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""507""/>
+</li>",,
+"<li class=""item"" data-label=""3456 x 2160p (UHD) 16:10"">
+<a class=""am-filter-item-66a8e39c34c2f"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=390"" rel=""nofollow"">
+<span class=""label"">3456 x 2160p (UHD) 16:10</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""3456 x 2160p (UHD) 16:10"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""390""/>
+</li>",,
+"<li class=""item"" data-label=""3840 x 2160p (4K)"">
+<a class=""am-filter-item-66a8e39c34fba"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=274"" rel=""nofollow"">
+<span class=""label"">3840 x 2160p (4K)</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""3840 x 2160p (4K)"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""274""/>
+</li>",,
+"<li class=""item"" data-label=""3840 x 2400 (4K) 16:10"">
+<a class=""am-filter-item-66a8e39c351f2"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?screen_resolution=275"" rel=""nofollow"">
+<span class=""label"">3840 x 2400 (4K) 16:10</span>
+<span class=""count"">3<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""3840 x 2400 (4K) 16:10"" data-digits-after-dot=""0"" name=""amshopby[screen_resolution][]"" style="""" type=""radio"" value=""275""/>
+</li>",,
+"<li class=""item"" data-label=""Integrated"">
+<a class=""am-filter-item-66a8e39c36121"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=323"" rel=""nofollow"">
+<span class=""label"">Integrated</span>
+<span class=""count"">495<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Integrated"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""323""/>
+</li>",,
+"<li class=""item"" data-label=""MX 350"">
+<a class=""am-filter-item-66a8e39c3675f"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=515"" rel=""nofollow"">
+<span class=""label"">MX 350</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""MX 350"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""515""/>
+</li>",,
+"<li class=""item"" data-label=""GTX 1650 Ti"">
+<a class=""am-filter-item-66a8e39c37c42"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=350"" rel=""nofollow"">
+<span class=""label"">GTX 1650 Ti</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""GTX 1650 Ti"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""350""/>
+</li>",,
+"<li class=""item"" data-label=""RTX 2050"">
+<a class=""am-filter-item-66a8e39c37f08"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=483"" rel=""nofollow"">
+<span class=""label"">RTX 2050</span>
+<span class=""count"">4<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""RTX 2050"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""483""/>
+</li>",,
+"<li class=""item"" data-label=""RTX 3050"">
+<a class=""am-filter-item-66a8e39c3852d"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=188"" rel=""nofollow"">
+<span class=""label"">RTX 3050</span>
+<span class=""count"">10<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""RTX 3050"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""188""/>
+</li>",,
+"<li class=""item"" data-label=""RTX 3070 Ti"">
+<a class=""am-filter-item-66a8e39c387bd"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=192"" rel=""nofollow"">
+<span class=""label"">RTX 3070 Ti</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""RTX 3070 Ti"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""192""/>
+</li>",,
+"<li class=""item"" data-label=""RTX 4050"">
+<a class=""am-filter-item-66a8e39c38aa8"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=502"" rel=""nofollow"">
+<span class=""label"">RTX 4050</span>
+<span class=""count"">8<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""RTX 4050"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""502""/>
+</li>",,
+"<li class=""item"" data-label=""RTX 4060"">
+<a class=""am-filter-item-66a8e39c38cb6"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=479"" rel=""nofollow"">
+<span class=""label"">RTX 4060</span>
+<span class=""count"">4<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""RTX 4060"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""479""/>
+</li>",,
+"<li class=""item"" data-label=""660M"">
+<a class=""am-filter-item-66a8e39c38f94"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=527"" rel=""nofollow"">
+<span class=""label"">660M</span>
+<span class=""count"">2<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""660M"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""527""/>
+</li>",,
+"<li class=""item"" data-label=""RTX A3000"">
+<a class=""am-filter-item-66a8e39c391fb"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=487"" rel=""nofollow"">
+<span class=""label"">RTX A3000</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""RTX A3000"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""487""/>
+</li>",,
+"<li class=""item"" data-label=""ARC A370M"">
+<a class=""am-filter-item-66a8e39c394df"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?discrete_graphics_card=491"" rel=""nofollow"">
+<span class=""label"">ARC A370M</span>
+<span class=""count"">3<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""ARC A370M"" data-digits-after-dot=""0"" name=""amshopby[discrete_graphics_card][]"" style="""" type=""radio"" value=""491""/>
+</li>",,
+"<li class=""item"" data-label=""Touchscreen"">
+<a class=""am-filter-item-66a8e39c3a15a"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?features=324"" rel=""nofollow"">
+<span class=""label"">Touchscreen</span>
+<span class=""count"">131<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Touchscreen"" data-digits-after-dot=""0"" name=""amshopby[features][]"" style="""" type=""radio"" value=""324""/>
+</li>",,
+"<li class=""item"" data-label=""2-in-1 Convertible"">
+<a class=""am-filter-item-66a8e39c3a410"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?features=325"" rel=""nofollow"">
+<span class=""label"">2-in-1 Convertible</span>
+<span class=""count"">91<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""2-in-1 Convertible"" data-digits-after-dot=""0"" name=""amshopby[features][]"" style="""" type=""radio"" value=""325""/>
+</li>",,
+"<li class=""item"" data-label=""OLED Screen"">
+<a class=""am-filter-item-66a8e39c3a771"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?features=326"" rel=""nofollow"">
+<span class=""label"">OLED Screen</span>
+<span class=""count"">53<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""OLED Screen"" data-digits-after-dot=""0"" name=""amshopby[features][]"" style="""" type=""radio"" value=""326""/>
+</li>",,
+"<li class=""item"" data-label=""Dedicated Graphics"">
+<a class=""am-filter-item-66a8e39c3a9f6"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?features=327"" rel=""nofollow"">
+<span class=""label"">Dedicated Graphics</span>
+<span class=""count"">31<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Dedicated Graphics"" data-digits-after-dot=""0"" name=""amshopby[features][]"" style="""" type=""radio"" value=""327""/>
+</li>",,
+"<li class=""item"" data-label=""Includes Stylus"">
+<a class=""am-filter-item-66a8e39c3ac33"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?features=334"" rel=""nofollow"">
+<span class=""label"">Includes Stylus</span>
+<span class=""count"">4<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Includes Stylus"" data-digits-after-dot=""0"" name=""amshopby[features][]"" style="""" type=""radio"" value=""334""/>
+</li>",,
+"<li class=""item"" data-label=""Discrete TPM 2.0 Chip"">
+<a class=""am-filter-item-66a8e39c3ae56"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?features=338"" rel=""nofollow"">
+<span class=""label"">Discrete TPM 2.0 Chip</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""Discrete TPM 2.0 Chip"" data-digits-after-dot=""0"" name=""amshopby[features][]"" style="""" type=""radio"" value=""338""/>
+</li>",,
+"<li class=""item"" data-label=""High Refresh Rate"">
+<a class=""am-filter-item-66a8e39c3b08c"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?features=335"" rel=""nofollow"">
+<span class=""label"">High Refresh Rate</span>
+<span class=""count"">36<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""High Refresh Rate"" data-digits-after-dot=""0"" name=""amshopby[features][]"" style="""" type=""radio"" value=""335""/>
+</li>",,
+"<li class=""item"" data-label=""Thin Bezel"">
+<a class=""am-filter-item-66a8e39c3b2e8"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?features=339"" rel=""nofollow"">
+<span class=""label"">Thin Bezel</span>
+<span class=""count"">196<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Thin Bezel"" data-digits-after-dot=""0"" name=""amshopby[features][]"" style="""" type=""radio"" value=""339""/>
+</li>",,
+"<li class=""item"" data-label=""Fingerprint Reader"">
+<a class=""am-filter-item-66a8e39c3b4f9"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?features=340"" rel=""nofollow"">
+<span class=""label"">Fingerprint Reader</span>
+<span class=""count"">64<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Fingerprint Reader"" data-digits-after-dot=""0"" name=""amshopby[features][]"" style="""" type=""radio"" value=""340""/>
+</li>",,
+"<li class=""item"" data-label=""Chrome OS"">
+<a class=""am-filter-item-66a8e39c3f361"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?operating_system=331"" rel=""nofollow"">
+<span class=""label"">Chrome OS</span>
+<span class=""count"">80<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Chrome OS"" data-digits-after-dot=""0"" name=""amshopby[operating_system][]"" style="""" type=""radio"" value=""331""/>
+</li>",,
+"<li class=""item"" data-label=""Windows 10 Home"">
+<a class=""am-filter-item-66a8e39c3f6e3"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?operating_system=177"" rel=""nofollow"">
+<span class=""label"">Windows 10 Home</span>
+<span class=""count"">6<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Windows 10 Home"" data-digits-after-dot=""0"" name=""amshopby[operating_system][]"" style="""" type=""radio"" value=""177""/>
+</li>",,
+"<li class=""item"" data-label=""Windows 11 Home"">
+<a class=""am-filter-item-66a8e39c3fa08"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?operating_system=178"" rel=""nofollow"">
+<span class=""label"">Windows 11 Home</span>
+<span class=""count"">442<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Windows 11 Home"" data-digits-after-dot=""0"" name=""amshopby[operating_system][]"" style="""" type=""radio"" value=""178""/>
+</li>",,
+"<li class=""item"" data-label=""Windows 11 Pro"">
+<a class=""am-filter-item-66a8e39c3fcd5"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?operating_system=304"" rel=""nofollow"">
+<span class=""label"">Windows 11 Pro</span>
+<span class=""count"">4<span class=""filter-count-label"">
+                                items</span></span>
+</a>
+<input aria-label=""Windows 11 Pro"" data-digits-after-dot=""0"" name=""amshopby[operating_system][]"" style="""" type=""radio"" value=""304""/>
+</li>",,
+"<li class=""item"" data-label=""macOS"">
+<a class=""am-filter-item-66a8e39c3ff0f"" data-am-js=""filter-item-default"" href=""https://www.tekshop.co.uk/laptops/home-laptops?operating_system=553"" rel=""nofollow"">
+<span class=""label"">macOS</span>
+<span class=""count"">1<span class=""filter-count-label"">
+                                item</span></span>
+</a>
+<input aria-label=""macOS"" data-digits-after-dot=""0"" name=""amshopby[operating_system][]"" style="""" type=""radio"" value=""553""/>
+</li>",,

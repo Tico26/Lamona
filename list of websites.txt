@@ -1,21 +1,23 @@
-Missdiva:180 items - clothes
-https://missdiva.co.uk/collections/heels
-
-Yours-Clothing: 180 items , 724 - 904 Children - clothes
-https://www.yoursclothing.co.uk/collections/crops-shorts
-
-Rollerblade: 68 items , 543 - 723 Children skates
+Rollerblade: 68 items , 294 divs, 229 lis skates 111
 https://www.rollerblade.com/uk/en/all
 
-Cabinet-shop: 119 items , 181 - 361 Children- furniture 
+Cabinet-shop: 119 items , 63 divs, 145 lis   Children- furniture 111
 https://thecabinetshop.co.uk/collections/all-cabinets
 
-Portobello-Cats: - 174 items , 0 - 180 - petshop
+Portobello-Cats: - 174 items , 64 divs, 96 lis- petshop 111
 https://portopets.co.uk/collections/cats
 
-Tekshop: 180 items , 362 - 542 children:- electronics
+Tekshop: 372 items , 313 divs, 194 lis :- electronics 111
 https://www.tekshop.co.uk/laptops/home-laptops
 
-
-Skates: 128 items , 543 - 723 children- scooters
+Skates: 128 items , 174 divs, 317 lis- scooters 111
 https://www.skates.co.uk/collections/scooters
+
+Missdiva:369 items , 150 divs, 351 lis- clothes 111
+https://missdiva.co.uk/collections/heels
+
+Yours-Clothing: 360 items , 386 divs , 64 lis - clothes 111
+https://www.yoursclothing.co.uk/collections/crops-shorts
+
+Evans: 386 items, 346 Divs, 42 lis - Summer  111
+https://www.evans.co.uk/collections/the-holiday-shop
